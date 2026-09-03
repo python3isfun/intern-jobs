@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**169 roles** · updated `2026-09-03 02:06 UTC` · [← all categories](../README.md)
+**169 roles** · updated `2026-09-03 02:43 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (14 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -9,8 +9,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
 | Truckee Tahoe Lumber Design Center | IT Cyber Security Internship - Irving, TX (Summer 2027) | Summer 2027 | Irving, TX | — | today | [apply](https://jobs.dayforcehcm.com/en-US/builders/CANDIDATEPORTAL/jobs/232569/apply?flowSelection=true) |
-| Truckee Tahoe Lumber Design Center | IT Internship - Remote (Summer 2027) | Summer 2027 | Irving, TX +5 | — | today | [apply](https://jobs.dayforcehcm.com/en-US/builders/CANDIDATEPORTAL/jobs/232518/apply?flowSelection=true) |
 | Truckee Tahoe Lumber Design Center | IT Internship - Irving, TX (Summer 2027) | Summer 2027 | Irving, TX +1 | — | today | [apply](https://jobs.dayforcehcm.com/en-US/builders/CANDIDATEPORTAL/jobs/232571/apply?flowSelection=true) |
+| Truckee Tahoe Lumber Design Center | IT Internship - Remote (Summer 2027) | Summer 2027 | Irving, TX +5 | — | today | [apply](https://jobs.dayforcehcm.com/en-US/builders/CANDIDATEPORTAL/jobs/232518/apply?flowSelection=true) |
 | Allied Solutions, LLC | IT Performance Analyst Intern | — | Carmel, IN | — | today | [apply](https://alliedsolutions.wd501.myworkdayjobs.com/en-US/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082) |
 | Universal Health Services | Desktop Support Intern* | — | King Of Prussia, PA | — | today | [apply](https://careers-uhsinc.icims.com/jobs/367251/login) |
 | American State Bank & Trust Company of Williston | Helpdesk Technician Intern (Part-time) | — | Williston, ND | — | today | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4472460/5acfda9e-c40f-43b7-9760-12407720bd31) |
@@ -40,8 +40,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Pricing Deal Work, Global Merchant & Network Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012635) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Management, Global Merchant & Network Services - Phoenix, AZ | Summer 2027 | Phoenix, AZ | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Marketing, Global Merchant & Network Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012866) |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Operational Risk Management Control Management, Global Merchant & Network Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012518) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ | Summer 2027 | Phoenix, AZ | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638) |
 | Pella Corporation | IT Infrastructure Intern - Summer 2027 | Summer 2027 | Pella, IA | $27.25/hr–$27.25/hr | 2d | [apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253297) |
 | CBIZ, Inc. | IT Attest Intern \| Spring 2027 | Spring 2027 | Fort Lauderdale, FL | — | 2d | [apply](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5943) |
@@ -53,7 +53,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Vertiv | IT Quality Assurance Intern (Summer 2027) | Summer 2027 | Westerville, OH | — | 3d | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279193) |
 | Crowe | Audit IT Assurance Intern Summer 2027 🛂 | Summer 2027 | — | $27.00/hr–$42.00/hr | 3d | [apply](https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Dallas-TX-USA/Audit-IT-Assurance-Intern-Summer-2027_R-49328) |
 | HII | 2027 IT SUMMER INTERNSHIP - IT INTERN | Summer 2027 | — | — | 3d | [apply](https://careers.huntingtoningalls.com/job/Newport-News-2027-IT-SUMMER-INTERNSHIP-IT-INTERN-Virg/1424488800/) |
-| KLA | Supply Chain Network Optimization Intern | — | — +1 | $22.00/hr–$32.00/hr | 4d | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/USA-CA-Milpitas-KLA/Supply-Chain-Network-Optimization-Intern_2640031) |
+| KLA | Supply Chain Network Optimization Intern | — | — +1 | $22.00/hr–$32.00/hr | 4d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/USA-CA-Milpitas-KLA/Supply-Chain-Network-Optimization-Intern_2640031-1) |
 | CITGO | IT Intern | — | — | — | 5d | [apply](https://careers.citgo.com/job/Houston-IT-Intern-TX-77077/1424591800/) |
 | Summit Line Construction | IT Intern 🛂 | — | Aurora, CO | $20.00/hr–$25.00/hr | 5d | [apply](https://careers-quanta.icims.com/jobs/18079/it-intern/job) |
 | CNO Financial Group | Artificial Intelligence (AI) IT Intern 2027 - REMOTE | 2027 | Carmel, IN | — | 5d | [apply](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) |
@@ -61,7 +61,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Fluor | Intern It Service Delivery Muntinlupa Ph | — | — | — | 6d | [apply](https://careers.fluor.com/careers/job/1099555838830-intern-it-service-delivery--muntinlupa-ph-00-philippines) |
 | Charlestown by Erickson Senior Living | Intern – IT Support | — | Catonsville, MD | $18.00/hr–$20.00/hr | 6d | [apply](https://erickson.wd108.myworkdayjobs.com/en-US/External/job/Catonsville-MD/Intern---IT-Support_R0103105-1) |
 | Andersen Corporation | IT Intern | — | Oak Park Heights, MN | $22.00/hr–$27.00/hr | 6d | [apply](https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Intern_R-8116) |
-| Audax Group | IT Operations Co-Op | — | NY +1 | $28.00/hr–$30.00/hr | 6d | [apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722759005) |
+| Audax Group | IT Operations Co-Op | — | Boston, MA +1 | $24.00/hr–$28.00/hr | 6d | [apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722750005) |
 | Syskoplan Reply US | Social Network Intern | — | Chicago, IL | — | 6d | [apply](https://jobs.lever.co/reply/7bb0afb0-cea1-4e7a-b51e-1c529f37d843) |
 | BASF | Digital Intern (IT Infrastructure Services) | — | — | — | 6d | [apply](https://basf.jobs/dark_blue_AP/job/Kuala-Lumpur-Digital-Intern-%28IT-Infrastructure-Services%29/1430776633/) |
 | Dolly Parton Children's Hospital | IT Intern *Current TCAT Students Only* | — | Knoxville, TN | $15.00/hr–$15.00/hr | 6d | [apply](https://etch.wd5.myworkdayjobs.com/ETCH/job/Knoxville-TN/IT-Intern---Current-TCAT-Students-Only-_JR103653) |
@@ -78,8 +78,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Neuralink | IT Systems Administrator Intern | — | Austin, CA | $25.00/hr–$25.00/hr | 8d | [apply](https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003) |
 | Summit Agricultural Group | IT Technician Internship | — | Alden, IA | — | 8d | [apply](https://recruiting2.ultipro.com/SUM1014GMT/JobBoard/848c311b-0dc4-4f9d-868b-de7e2c4c7493/OpportunityDetail?opportunityId=73c3d283-c07e-41d7-8a59-59c8031b240a) |
 | AlixPartners | Help Desk Intern 🛂 | — | — | — | 8d | [apply](https://www.alixpartners.com/careers/7973892003?gh_jid=7973892003) |
-| DMA - DuCharme, McMillen & Associates, Inc. | IT Quality Assurance Intern - Spring 2027 | Spring 2027 | Fort Wayne, IN | — | 9d | [apply](https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/IT-Quality-Assurance-Intern---Spring-2027_REQ656) |
 | DMA - DuCharme, McMillen & Associates, Inc. | IT Quality Assurance Intern - Summer 2027 | Summer 2027 | Fort Wayne, IN | — | 9d | [apply](https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/IT-Quality-Assurance-Intern---Summer-2027_REQ657) |
+| DMA - DuCharme, McMillen & Associates, Inc. | IT Quality Assurance Intern - Spring 2027 | Spring 2027 | Fort Wayne, IN | — | 9d | [apply](https://dmainc.wd5.myworkdayjobs.com/DMA/job/Fort-Wayne-IN/IT-Quality-Assurance-Intern---Spring-2027_REQ656) |
 | Procter & Gamble | IT Security Internship 🛂 | — | OH | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Security-Internship_R000157502) |
 | Procter & Gamble | IT Project & Product Manager Internship 🛂 | — | OH | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500) |
 | Procter & Gamble | Site Digital IT Manager Internship 🛂 | — | — | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Site-Digital-IT-Manager-Internship_R000157498) |
@@ -114,9 +114,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Vanguard | College to Corporate IT Internship - Application Development (NC) | Summer | Charlotte, NC | — | 16d | [apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1) |
 | American Fidelity | IT Operations Intern (OKC Local Only) | — | Oklahoma City, OK | — | 16d | [apply](https://americanfidelity.wd5.myworkdayjobs.com/en-US/External/job/Oklahoma-City-Oklahoma/IT-Operations-Intern_JR1009-1) |
 | HD Supply | IT Intern - Summer 2027 | Summer 2027 | GA | — | 16d | [apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/IT-Intern---Summer-2027_R26004267) |
-| Montblanc | IT Procurement Intern | — | — | — | 17d | [apply](https://careers.richemont.com/en/jobs/jr131328/it-procurement-intern/) |
-| DKSH | Intern (IT System Management) | — | — | — | 17d | [apply](https://jobs.dksh.com/job/Kuala-Lumpur-Intern-%28IT-System-Management%29-MY/58505244/) |
-| EssilorLuxottica | International Logistics Network Analyst Internship | — | — | — | 17d | [apply](https://careers.essilorluxottica.com/job/Sedico-International-Logistics-Network-Analyst-Internship/1230774401/) |
+| Montblanc | IT Procurement Intern | — | — | — | 18d | [apply](https://careers.richemont.com/en/jobs/jr131328/it-procurement-intern/) |
+| DKSH | Intern (IT System Management) | — | — | — | 18d | [apply](https://jobs.dksh.com/job/Kuala-Lumpur-Intern-%28IT-System-Management%29-MY/58505244/) |
+| EssilorLuxottica | International Logistics Network Analyst Internship | — | — | — | 18d | [apply](https://careers.essilorluxottica.com/job/Sedico-International-Logistics-Network-Analyst-Internship/1230774401/) |
 | ARAMARK | IT Intern - Univ. of Minnesota - Athletics Combined | — | — | — | 18d | [apply](https://aramarkcareers.com/UnitedStates/job/Minneapolis-IT-Intern-Univ_-of-Minnesota-Athletics-Combined-MN-55415/1391654600/) |
 | ARAMARK | Marketing IT Intern - Eastern Kentucky University | — | — | — | 18d | [apply](https://aramarkcareers.com/UnitedStates/job/Richmond-Marketing-IT-Intern-Eastern-Kentucky-University-KY-40475/1408840500/) |
 | ARAMARK | IT Intern - Howard University - MUST BE A CURRENT HU STUDENT | — | — | — | 18d | [apply](https://aramarkcareers.com/UnitedStates/job/WASHINGTON%2C-DC-IT-Intern-Howard-University-MUST-BE-A-CURRENT-HU-STUDENT-DC-20059/1416252400/) |

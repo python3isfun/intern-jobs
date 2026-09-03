@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**213 roles** · updated `2026-09-03 02:06 UTC` · [← all categories](../README.md)
+**213 roles** · updated `2026-09-03 02:43 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (9 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -9,8 +9,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
 | Xcel Energy Services Inc | Gas & Electric Design Analytics and Process Improvement Intern - MN | — | Minneapolis, MN | $20.90/hr–$22.10/hr | today | [apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) |
-| Wonder Group, INC | Supply Chain Analytics Intern 🛂 | — | NY | — | today | [apply](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Supply-Chain-Analytics-Intern_JR101320) |
 | Wonder Group, INC | Growth & Marketing Analytics Intern 🛂 | — | NY | $36.00/hr–$36.00/hr | today | [apply](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Growth---Marketing-Analytics-Intern_JR101323) |
+| Wonder Group, INC | Supply Chain Analytics Intern 🛂 | — | NY | — | today | [apply](https://wonder.wd1.myworkdayjobs.com/WG/job/New-York-NY/Supply-Chain-Analytics-Intern_JR101320) |
 | Fannie Mae | Campus – Finance Analytics Intern (Analytics & Modeling Program) 🛂 | — | DC | $41.50/hr–$41.50/hr | today | [apply](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Finance-Analytics-Intern--Analytics---Modeling-Program-_JR2814) |
 | Vermeer Corporation | Data Analytics Internship Summer 2027 | Summer 2027 | Pella, IA | — | today | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-Internship-Summer-2027_REQ-22164) |
 | DAIKIN TX TECHNOLOGY PARK | Data Analyst Intern, Summer 2027 🛂 | Summer 2027 | Waller, TX | — | today | [apply](https://recruiting2.ultipro.com/GOO1038GOMN/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=016d2b83-b435-4bb0-bb74-cb0555970a87) |
@@ -45,8 +45,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Philips Respironics | Co-op – Cybersecurity & Data Analytics (Ultrasound Regulatory Affairs) – Cambridge, MA – January 2027 | 2027 | MA | $29.00/hr–$32.00/hr | 2d | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Cybersecurity---Data-Analytics--Ultrasound-Regulatory-Affairs----Cambridge--MA---January-2027_590901) |
 | Sony Electronics Inc. | Account Management & Business Analytics Intern | Fall | CA | $24.00/hr–$30.00/hr | 2d | [apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Account-Management---Business-Analytics-Intern_JR-119543) |
 | Dairyland Power Cooperative | Intern, Energy Data Analyst | — | La Crosse, WI | $30.00/hr–$30.00/hr | 2d | [apply](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052) |
-| Emerson | Data Analyst Co-Op | — | Marshalltown, IA | — | 2d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) |
 | Emerson | Data Analytics Co-Op | — | Marshalltown, IA | — | 2d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008130) |
+| Emerson | Data Analyst Co-Op | — | Marshalltown, IA | — | 2d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200) |
 | Emerson | Data Analytics Intern | — | Shakopee, MN | $20.50/hr–$24.00/hr | 2d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009657) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Palo Alto, CA | Summer 2027 | Palo Alto, CA | $24.05/hr–$63.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818) |
@@ -57,12 +57,12 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Analytics, US Consumer Services - New York, NY | Summer 2027 | New York, NY | $38.45/hr–$87.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 2d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784) |
-| Amplifon | Sales Performance & Analytics Intern Summer 2027 | Summer 2027 | Minneapolis, MN | $20.00/hr–$21.00/hr | 2d | [apply](https://efuf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21034) |
 | Amplifon | Sales Strategy & Analytics Intern Summer 2027 | Summer 2027 | Minneapolis, MN | $20.00/hr–$20.00/hr | 2d | [apply](https://efuf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21030) |
+| Amplifon | Sales Performance & Analytics Intern Summer 2027 | Summer 2027 | Minneapolis, MN | $20.00/hr–$21.00/hr | 2d | [apply](https://efuf.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21034) |
 | Disney | Revenue Planning & Analytics Intern, Spring 2027 | Spring 2027 | Anaheim, CA | $31.00/hr–$31.00/hr | 2d | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Revenue-Planning---Analytics-Intern--Spring-2027_10159737) |
 | Trane Technologies | 2027 AI & Analytics Intern | Summer 2027 | NC | $22.50/hr–$30.00/hr | 2d | [apply](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1) |
-| Verdantas | Data Analytics and GIS Intern | — | Syracuse, NY | $21.00/hr–$22.00/hr | 2d | [apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135) |
 | Verdantas | Data Analytics Intern Summer 2027 | Summer 2027 | Remote | $20.00/hr–$22.00/hr | 2d | [apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Remote-TX/Data-Analytics-Intern-Summer-2027_R-101128) |
+| Verdantas | Data Analytics and GIS Intern | — | Syracuse, NY | $21.00/hr–$22.00/hr | 2d | [apply](https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Syracuse-NY/Data-Analytics-and-GIS-Intern_R-101135) |
 | ON.energy | Data Scientist - Internship | — | — | — | 2d | [apply](https://job-boards.greenhouse.io/onenergy/jobs/4326885009) |
 | Home Depot | 2027 Summer Internship - Data Science & Analytics | Summer 2027 | GA +1 | — | 2d | [apply](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) |
 | Compeer Financial | Intern Data Analytics 🛂 | — | — | $20.00/hr–$21.00/hr | 2d | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008) |
@@ -92,12 +92,12 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Data Analyst Project Intern (Safety Model Operations) - 2026 Start（BS/MS） | 2026 | NY | — | 4d | [apply](https://lifeattiktok.com/search/7591813115424246069) |
 | TikTok | Data Analyst Project Intern (Measurement, CALM) - 2026 Start | 2026 | NY | — | 4d | [apply](https://lifeattiktok.com/search/7677522750321838341) |
 | TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start (BS/MS) | 2026 | NY | — | 4d | [apply](https://lifeattiktok.com/search/7574701520776939829) |
-| TikTok | Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS) | 2026 | New York, NY | — | 4d | [apply](https://lifeattiktok.com/search/7573769508860873013) |
 | TikTok | Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD) | 2026 | Seattle, WA | — | 4d | [apply](https://lifeattiktok.com/search/7532254890627696903) |
+| TikTok | Seller Live Analytics Project Intern (TikTok Shop Operations) - 2026 Starts (BS/MS) | 2026 | New York, NY | — | 4d | [apply](https://lifeattiktok.com/search/7573769508860873013) |
 | TikTok | Logistics Risk Data Analyst Project Intern (TikTok Shop) - 2026 Start | 2026 | NY | — | 4d | [apply](https://lifeattiktok.com/search/7669999950226524421) |
 | Ameren | Crisis Management Data & Analytics Intern | Summer | IL | $21.00/hr–$30.00/hr | 5d | [apply](https://ameren.wd1.myworkdayjobs.com/External/job/Peoria-IL/Crisis-Management-Data---Analytics-Intern_033895-1) |
-| Hubbell Incorporated | 2027 Summer Intern: Marketing - Commercial Analytics | Summer 2027 | — | — | 5d | [apply](https://careers.hubbell.com/job/Shelton-2027-Summer-Intern-Marketing-Commercial-Analytics-CT-06484-4300/1424514400/) |
 | Hubbell Incorporated | 2027 Summer Intern: Marketing - Digital Analytics | Summer 2027 | — | — | 5d | [apply](https://careers.hubbell.com/job/Greenville-2027-Summer-Intern-Marketing-Digital-Analytics-SC-29615/1424513600/) |
+| Hubbell Incorporated | 2027 Summer Intern: Marketing - Commercial Analytics | Summer 2027 | — | — | 5d | [apply](https://careers.hubbell.com/job/Shelton-2027-Summer-Intern-Marketing-Commercial-Analytics-CT-06484-4300/1424514400/) |
 | Acuity Insurance | Data Analytics Intern (Data Science) 🛂 | — | Sheboygan, WI | — | 5d | [apply](https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) |
 | Montblanc | Intern - Marketing Data Analyst (H/F) | — | — | — | 5d | [apply](https://careers.richemont.com/en/jobs/jr133055/intern-marketing-data-analyst-hf/) |
 | Van Cleef & Arpels | Intern - Marketing Data Analyst (H/F) | — | — | — | 5d | [apply](https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/PARIS/Intern---Marketing-Data-Analyst--H-F-_JR133055-2) |
@@ -138,8 +138,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | MORSE Corp | Data Scientist Graduate Co-op 🇺🇸 | — | Arlington, VA | $28.00/hr–$37.00/hr | 9d | [apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003) |
 | Scotiabank | GBM - Corporate Banking, Credit Analytics Group (CAG) Internship/Co-op - Winter 2027 | Winter 2027 | — | — | 9d | [apply](https://jobs.scotiabank.com/job/Toronto-GBM-Corporate-Banking%2C-Credit-Analytics-Group-%28CAG%29-InternshipCo-op-Winter-2027-ON/605483817/) |
 | Johnson & Johnson | Data Operations & Analytics Fall Co-op | Fall | Somerset, NJ | $23.00/hr–$23.00/hr | 9d | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978) |
-| Procter & Gamble | Analytics & Insights Internship 🛂 | — | OH | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship_R000157696) |
 | Procter & Gamble | Analytics & Insights Internship (Advanced Analytics) 🛂 | — | OH | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship--Advanced-Analytics-_R000157697) |
+| Procter & Gamble | Analytics & Insights Internship 🛂 | — | OH | $29.00/hr–$50.00/hr | 9d | [apply](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Internship_R000157696) |
 | CBIZ, Inc. | Data Analyst Intern- Phoenix, AZ (Summer 2027) | Summer 2027 | Phoenix, AZ | — | 10d | [apply](https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6317) |
 | Springs Window Fashions | Consumer Business Unit - Data Analyst Internship - Summer 2027 | Summer 2027 | Middleton, WI | — | 11d | [apply](https://careers-springswindowfashions.icims.com/jobs/12874/consumer-business-unit---data-analyst-internship---summer-2027/job) |
 | Millennium Space Systems | Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern 🛂 | Summer 2027 | WA | $44,000–$89,000 | 12d | [apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
@@ -165,9 +165,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Geisinger South Wilkes-Barre (GSWB) | GME Analytics & Dashboard Development Intern | — | Wilkes-Barre, PA | — | 17d | [apply](https://geisinger.wd5.myworkdayjobs.com/en-US/GeisingerExternal/job/Wilkes-Barre-PA/GME-Analytics---Dashboard-Development-Intern_R-95692) |
 | Hilton | 2027 Corporate Summer Internship - Strategy, Insights, and Analytics | Summer 2027 | Mclean, VA | — | 17d | [apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/218234) |
 | Ensemble | Data Scientist Intern | — | Remote | $25.00/hr–$25.00/hr | 17d | [apply](https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) |
-| Montblanc | Data Scientist Intern | — | — | — | 17d | [apply](https://careers.richemont.com/en/jobs/jr129875/data-scientist-intern/) |
-| Montblanc | Business Analytics Intern | — | — | — | 17d | [apply](https://careers.richemont.com/en/jobs/jr124478/business-analytics-intern/) |
-| EssilorLuxottica | HR Analytics Internship | — | — | — | 17d | [apply](https://careers.essilorluxottica.com/job/Milano-HR-Analytics-Internship/1414462033/) |
+| Montblanc | Data Scientist Intern | — | — | — | 18d | [apply](https://careers.richemont.com/en/jobs/jr129875/data-scientist-intern/) |
+| Montblanc | Business Analytics Intern | — | — | — | 18d | [apply](https://careers.richemont.com/en/jobs/jr124478/business-analytics-intern/) |
+| EssilorLuxottica | HR Analytics Internship | — | — | — | 18d | [apply](https://careers.essilorluxottica.com/job/Milano-HR-Analytics-Internship/1414462033/) |
 | Nexteer Automotive | Purchasing Data Analyst Co-Op 2026 | 2026 | Auburn Hills, MI | — | 18d | [apply](https://jobs.nexteer.com/job/Auburn-Hills-Purchasing-Data-Analyst-Co-Op-2026-MI-48321/1376194800/) |
 | Love's Travel Stops | Merchandising Analytics Intern (Summer 2027) | Summer 2027 | Oklahoma City, OK | — | 18d | [apply](https://career8.successfactors.com/careers?company=Loves&career_ns=job_application&career_job_req_id=488834) |
 | Logitech | DTX Customer Supply Chain Analytics Intern | — | — | — | 18d | [apply](https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Utrecht-Netherlands/DTX-Customer-Supply-Chain-Analytics-Intern_146938) |
@@ -190,8 +190,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Expatiate Communication, Inc. | Data Scientist Intern | — | Pasadena, CA | — | 18d | [apply](https://jobs.gusto.com/postings/expatiate-communication-inc-data-scientist-intern-39db491d-df37-4d38-b824-ffb897d30932) |
 | New York Life | 2027 Technology, Data, AI &amp; Ventures Summer Internship Program - Data Scientist Intern (New York, NY, US) | Summer 2027 | NY | — | 18d | [apply](https://jobs.newyorklife.com/job/New-York-2027-Technology%2C-Data%2C-AI-&amp;-Ventures-Summer-Internship-Program-Data-Scientist-Intern-NY-10001/1414752200/) |
 | Valentino | Data Analyst Intern | — | — | — | 19d | [apply](https://jobs.valentino.com/job/Dubai-Data-Analyst-Intern/1411389233/) |
-| Methanex Corporation | Summer Intern - Data Science & Analytics - Methanex | Summer | — | — | 19d | [apply](https://www.methanex.com/careers/current-opportunities/posting/summer-intern-data-science-analytics/) |
 | Methanex Corporation | Summer Intern - Reformer Tube Analytics - Methanex | Summer | — | — | 19d | [apply](https://www.methanex.com/careers/current-opportunities/posting/summer-intern-reformer-tube-analytics/) |
+| Methanex Corporation | Summer Intern - Data Science & Analytics - Methanex | Summer | — | — | 19d | [apply](https://www.methanex.com/careers/current-opportunities/posting/summer-intern-data-science-analytics/) |
 | Love's Travel Stops & Country Stores | Merchandising Analytics Intern (Summer 2027) | Summer 2027 | Oklahoma City, OK +1 | — | 19d | [apply](https://jobs.loves.com/es/merchandising-analytics-intern-summer-2027/job/488834) |
 | Find Community Connection Project | Data Analyst Intern/Volunteer (NJ) \| Findccproject | — | — | — | 20d | [apply](https://www.findccproject.org/jobs/data-analyst-intern%2Fvolunteer-(nj)) |
 | Find Community Connection Project | Data Analyst Intern/Volunteer \| Findccproject | — | — | — | 20d | [apply](https://www.findccproject.org/jobs/dataanalyst) |
@@ -202,7 +202,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | EV Realty | Intern, Data Analytics | Summer | San Francisco, CA | — | 20d | [apply](https://jobs.lever.co/evrealty-us/0274f48f-9b19-4bed-bf6a-5e02a2b1e865) |
 | Octagon | Sports Consultancy and Data Analyst Intern (Futures Sport & Entertainment) | — | — | — | 20d | [apply](https://www.octagon.com/job/7333588002) |
 | FundersClub | Data Analyst Intern | — | — | — | 20d | [apply](https://aircall.workable.com/jobs/443530) |
-| Vertiv | Sales Data Analytics Intern (Summer 2027) | Summer 2027 | Westerville, OH +1 | — | 21d | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279293) |
+| Vertiv | Sales Data Analytics Intern (Summer 2027) | Summer 2027 | Westerville, OH +1 | — | 21d | [apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279291) |
 | Grande Custom Ingredients Group | Sales Analytics Intern | — | Fond Du Lac, WI | — | 22d | [apply](https://recruiting2.ultipro.com/GRA1007GRAND/JobBoard/54e3f493-e093-4bb2-8a28-7a5bdf4d375f/OpportunityDetail?opportunityId=a23ae787-1978-4fa4-b5f8-5f05a78fe6cf) |
 | Later | Data/Analytics Co-op | — | — | — | 22d | [apply](https://job-boards.greenhouse.io/later/jobs/8647385002) |
 | Van Cleef & Arpels | Data Scientist Intern | — | — | — | 23d | [apply](https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/MEYRIN/Data-Scientist-Intern_JR129875-1) |
@@ -213,8 +213,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, Credit & Fraud Risk - Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 31d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011990) |
 | Bayer | Internship Analytics Advisory Data Democratization Sc L Analytics All Genders Leverkusen N | — | — | — | 35d | [apply](https://talent.bayer.com/careers/job/562949978309688-internship-analytics-advisory-data-democratization-sc-l-analytics-all-genders--leverkusen-north-rhine-westfalia-germany) |
 | Infineon | Internship - Data Analyst | — | — | — | 47d | [apply](https://jobs.infineon.com/careers/job/563808971705607-internship-data-analyst-singapore?domain=infineon.com) |
-| Infineon | Internship - Data Analyst, Automotive Supply Chain and Production Management | — | — +1 | — | 50d | [apply](https://jobs.infineon.com/careers/job/563808971599533-internship-data-analyst-automotive-supply-chain-and-production-management-singapore?domain=infineon.com) |
-| Infineon | Internship - Supply Chain Data Scientist | — | — | — | 54d | [apply](https://jobs.infineon.com/careers/job/563808971515594-internship-supply-chain-data-scientist-singapore?domain=infineon.com) |
+| Infineon | Internship - Data Analyst, Automotive Supply Chain and Production Management | — | — +1 | — | 51d | [apply](https://jobs.infineon.com/careers/job/563808971599533-internship-data-analyst-automotive-supply-chain-and-production-management-singapore?domain=infineon.com) |
+| Infineon | Internship - Supply Chain Data Scientist | — | — | — | 55d | [apply](https://jobs.infineon.com/careers/job/563808971515594-internship-supply-chain-data-scientist-singapore?domain=infineon.com) |
 | Infineon | Internship - Master Data Analyst | — | — | — | 56d | [apply](https://jobs.infineon.com/careers/job/563808971515592-internship-master-data-analyst-singapore?domain=infineon.com) |
 | Infineon | Internship - Test Data Analytics | — | — | — | 61d | [apply](https://jobs.infineon.com/careers/job/563808971422321-internship-test-data-analytics-singapore?domain=infineon.com) |
 | Infineon | Internship - AI Solutions & Analytics | — | — | — | 69d | [apply](https://jobs.infineon.com/careers/job/563808971064888-internship-ai-solutions-analytics-singapore?domain=infineon.com) |

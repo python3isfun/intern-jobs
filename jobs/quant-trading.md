@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**74 roles** · updated `2026-09-03 02:06 UTC` · [← all categories](../README.md)
+**74 roles** · updated `2026-09-03 02:43 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (4 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -9,10 +9,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
 | Maven Securities | Amsterdam Trader Summer Internship 2027 🌏 | Summer 2027 | — | — | today | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) |
-| PIMCO | 2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
-| PIMCO | 2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
-| PIMCO | 2027 PhD Summer Intern – Quantitative Portfolio Management | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
 | PIMCO | 2027 Summer Intern - Masters Quant Research Analyst, Client Solutions & Analytics, US | Summer 2027 | CA | $165,000–$165,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) |
+| PIMCO | 2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
+| PIMCO | 2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
+| PIMCO | 2027 PhD Summer Intern – Quantitative Portfolio Management | Summer 2027 | CA | $205,000–$205,000 | 1d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
 | Maven Securities | Trader Summer Internship Chicago 2027 🌏 | Summer 2027 | IL | $110,000–$120,000 | 1d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) |
 | Maven Securities | Software Developer Summer Internship London 2027 🌏 | Summer 2027 | — | — | 1d | [apply](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) |
 | Flow Traders | Trading Intern | — | NY | — | 1d | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) |
@@ -29,8 +29,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Point72 | Corporate Access, off-cycle internship (6-months) – Japanese speaking | — | — | — | 12d | [apply](https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002) |
 | Point72 | Cubist Quantitative Researcher Intern | — | — +1 | — | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) |
 | Point72 | Machine Learning Researcher - Intern | — | NY | — | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
-| Point72 | Quantitative Researcher Intern | — | NY | $120,000–$180,000 | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) |
 | Point72 | Quantitative Researcher - Intern | — | — | $120,000–$180,000 | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) |
+| Point72 | Quantitative Researcher Intern | — | NY | $120,000–$180,000 | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) |
 | Point72 | Quantitative Research Intern | — | Seattle, NY | — | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
 | Point72 | Quantitative Research Intern (NLP) | — | NY | — | 12d | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | Point72 | Summer 2027 Quantitative Research Internship | Summer 2027 | NY | $240,000–$300,000 | 12d | [apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
@@ -38,10 +38,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Transmarket Group Inc | Quantitative Trader Intern | — | Chicago, IL | — | 14d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007) |
 | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | 2027 | Austin, TX | — | 15d | [apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | 2027 | NY | — | 15d | [apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
-| Optiver | FPGA Internship (2027 Start) | 2027 | — | — | 15d | [apply](https://www.optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/) |
 | Optiver | Quantitative Research Internship (2027 Start) | 2027 | — | — | 15d | [apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/) |
-| Belvedere Trading, LLC | Quantitative Trading Intern - Winter Quarter 2027 | Winter 2027 | Chicago, IL | — | 18d | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
+| Optiver | FPGA Internship (2027 Start) | 2027 | — | — | 15d | [apply](https://www.optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/) |
 | Belvedere Trading, LLC | Quantitative Trading Intern - Summer 2027 | Summer 2027 | Chicago, IL | — | 18d | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
+| Belvedere Trading, LLC | Quantitative Trading Intern - Winter Quarter 2027 | Winter 2027 | Chicago, IL | — | 18d | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
 | Belvedere Trading, LLC | Software Engineer Intern - Summer 2027 | Summer 2027 | Chicago, IL | — | 18d | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
 | Barclays Bank US | Quantitative Finance Associate Summer Internship Program 2027 New York | Summer 2027 | NY | — | 18d | [apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) |
 | Transmarket Group Inc | Software Engineering Intern | — | Chicago, IL | — | 19d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007) |
@@ -55,15 +55,15 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Old Mission | Compliance Analyst Co-Op | — | Chicago, IL | $30.00/hr–$30.00/hr | 27d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) |
 | WorldQuant | Quantitative Research Intern | — | — | — | 27d | [apply](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) |
 | AKUNA CAPITAL | Quantitative Development & Strategy Intern, Summer 2027 | Summer 2027 | Chicago, IL | — | 28d | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
-| J.P. Morgan | 2027 Quantitative Research – Markets – Summer Internship - Analyst – United States | Summer 2027 | New York, NY | — | 30d | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
 | J.P. Morgan | 2027 Quantitative Research – Markets – Summer Internship - Associate– United States | Summer 2027 | New York, NY | — | 30d | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) |
 | JPMorganChase | 2027 Quantitative Research – Asset Management – Summer Internship – Analyst - United States | Summer 2027 | New York, NY | — | 30d | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074) |
+| J.P. Morgan | 2027 Quantitative Research – Markets – Summer Internship - Analyst – United States | Summer 2027 | New York, NY | — | 30d | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038) |
 | Transmarket Group Inc | Algorithmic Trader Intern | — | Chicago, IL | — | 30d | [apply](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) |
 | Chase UK | 2027 Quantitative Research - Risk and Treasury - Summer Internship - Associate - United States | Summer 2027 | New York, NY | — | 31d | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773978) |
 | Virtu Financial | 2027 Internship – Software Engineer | 2027 | — | — | 34d | [apply](https://job-boards.greenhouse.io/virtu/jobs/5513756002) |
 | Virtu Financial | 2027 Internship - Quantitative Strategist | 2027 | — | — | 34d | [apply](https://job-boards.greenhouse.io/virtu/jobs/7617953002) |
 | Virtu Financial | 2027 Internship – Core Operations Engineer | 2027 | — | — | 34d | [apply](https://job-boards.greenhouse.io/virtu/jobs/6329460002) |
-| InventoryQuant | Quantitative Research Intern | — | — | — | 34d | [apply](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) |
+| InventoryQuant | Quantitative Research Intern | — | — | — | 35d | [apply](https://job-boards.greenhouse.io/worldquant/jobs/4314066006) |
 | Aquatic Capital Management | Quantitative Researcher, Intern (Summer 2027) | Summer 2027 | — | — | 35d | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) |
 | Da Vinci | Quant Trading Intern | — | — | — | 35d | [apply](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) |
 | Flow Traders | Quantitative Trading Intern Summer 2027 | Summer 2027 | NY | $150,000–$150,000 | 35d | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |

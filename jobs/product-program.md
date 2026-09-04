@@ -1,6 +1,6 @@
 # 📋 Product & Program
 
-**83 roles** · updated `2026-09-04 05:16 UTC` · [← all categories](../README.md)
+**83 roles** · updated `2026-09-04 05:46 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (14 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -23,7 +23,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Homa | Strategic Project Manager intern | — | — | — | 1d | [apply](https://apply.workable.com/j/C1D310D8DB) |
 | EMERY SAPP & SONS | Project Manager Intern | — | Columbia, MO +4 | — | 2d | [apply](https://emerysapp.wd501.myworkdayjobs.com/en-US/ESS/job/Columbia-MO/Project-Manager-Intern_JR3338) |
 | Genuine Parts Company | Agile PMO Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Agile-PMO-Intern_R26_0000029128) |
-| J. F. Ahern | Assistant Project Manager Intern | — | — +4 | — | 2d | [apply](https://careers.jfahern.com/job/Menomonie%2C-WI-Assistant-Project-Manager-Intern-WI/1425418800/) |
+| J. F. Ahern | Assistant Project Manager Intern | — | — +4 | — | 2d | [apply](https://careers.jfahern.com/job/Fond-du-Lac%2C-WI-Assistant-Project-Manager-Intern-WI-54935/1425378100/) |
 | SitelogIQ | 2027 Summer Assistant Project Manager Intern | Summer 2027 | Remote | $25.00/hr–$25.00/hr | 2d | [apply](https://recruiting2.ultipro.com/SIT1001SILQ/JobBoard/6a77286d-3477-45d7-9461-715b965f604c/OpportunityDetail?opportunityId=281a9a5a-4a7a-4d2a-ab8e-c768c42f57a2) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 Product Management Technical Intern (Jan and May 2027 hires) | 2026 | Riverton, UT | — | 3d | [apply](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/376542) |
 | Upbring | Product Manager Intern | — | Austin, TX | — | 3d | [apply](https://careers-upbring.icims.com/jobs/7139/product-manager-intern/job) |
@@ -42,8 +42,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Seller Governance Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer | Summer 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668834012950382901) |
 | TikTok | Platform Product Manager Intern (TikTok Platform safety) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7669771531174971701) |
 | TikTok | Product Manager Intern (App Ads) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668622606287685941) |
-| TikTok | Creator and Content Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer | Summer 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668834838086437125) |
 | TikTok | Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7670143360513870133) |
+| TikTok | Creator and Content Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer | Summer 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668834838086437125) |
 | TikTok | AI Product Manager intern (TikTok LIVE-Revenue) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7670157829991287093) |
 | TikTok | AI Product Manager Project Intern (TikTok LIVE-Revenue) - 2026 Start | 2026 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7670833493528660229) |
 | TikTok | Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667874197682899205) |
@@ -79,8 +79,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Tecta America Commercial Roofing | Project Manager Intern | — | — | — | 19d | [apply](https://jobs.jobvite.com/tecta/job/om66zfwR) |
 | ASM Global | PMO Enterprise Technology Intern | — | Frisco, TX | — | 19d | [apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/PMO-Enterprise-Technology-Intern_R100122874) |
 | HITACHI ENERGY JAPAN, LTD. | Internship Project manager(SV) | — | — | — | 19d | [apply](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Hitachi-Ibaraki-Japan/Internship-Project-manager-SV-_R0139869) |
-| DecisionPoint | Continuity of Operations (COOP) Program Manager | — | Unavailable | — | 19d | [apply](https://careers-decisionpointcorp.icims.com/jobs/3189/continuity-of-operations-%28coop%29-program-manager/job) |
-| Volaris Group | Junior IWMS Project Manager - Intern | — | TX +1 | — | 20d | [apply](https://volarisgroup.wd3.myworkdayjobs.com/Volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R58168-2) |
+| DecisionPoint | Continuity of Operations (COOP) Program Manager | — | Unavailable | — | 20d | [apply](https://careers-decisionpointcorp.icims.com/jobs/3189/continuity-of-operations-%28coop%29-program-manager/job) |
+| Volaris Group | Junior IWMS Project Manager - Intern | — | TX +1 | — | 20d | [apply](https://volarisgroup.wd3.myworkdayjobs.com/Volaris/job/United-States---TX/Junior-IWMS-Project-Manager---Intern_R59234-2) |
 | Aircall | Product Manager Intern | — | — | — | 20d | [apply](https://jobs.lever.co/aircall/c71f52af-d884-4a38-9db7-7f7ff402e2ef) |
 | Siete INC | Project Manager Intern | — | — | — | 21d | [apply](https://www.sieteinc.net/jobs/project-manager-intern) |
 | Bear Robotics | Product Manager - Intern (6개월) | — | — | — | 26d | [apply](https://bear-robotics.breezy.hr/p/f1048c947181-product-manager-intern-6gaeweol) |

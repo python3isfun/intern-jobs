@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**650 roles** · updated `2026-09-04 05:16 UTC` · [← all categories](../README.md)
+**650 roles** · updated `2026-09-04 05:46 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the other locations (79 extra postings folded in); every one is in [`listings.json`](../data/listings.json).
 
@@ -13,11 +13,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Walmart Inc. | 2026 Intern Conversion: 2027 FT Software Engineer II - Bellevue | 2026 | WA | — | today | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Bellevue_R-2630122) |
 | Walmart Inc. | 2026 Intern Conversion: 2027 FT Software Engineer II - Sunnyvale | 2026 | CA | — | today | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127) |
 | Western & Southern Financial Group | Software Developer Intern (Agency Systems) (Full Year 2027) | 2027 | Cincinnati, OH | — | today | [apply](https://careers-westernsouthern.icims.com/jobs/25222/software-developer-intern-%28agency-systems%29-%28full-year-2027%29/job) |
-| Innovative Systems, Inc. | Intern/Co-op-Spring 2027 - Software Engineering | Spring 2027 | — | — | today | [apply](http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) |
 | Innovative Systems, Inc. | Intern/Co-op- Summer 2027 - Software Engineering | Summer 2027 | — | — | today | [apply](http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering) |
+| Innovative Systems, Inc. | Intern/Co-op-Spring 2027 - Software Engineering | Spring 2027 | — | — | today | [apply](http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) |
 | Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 | Spring 2027 | Atlanta, GA | — | today | [apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
-| GE Vernova | GE Vernova Software Engineering - Co-op -Summer - Fall | Summer | NY | — | today | [apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2) |
 | GE Vernova | GE Vernova Software Engineering - Co-op - Spring-Summer 2027 | Spring 2027 | NY | — | today | [apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2) |
+| GE Vernova | GE Vernova Software Engineering - Co-op -Summer - Fall | Summer | NY | — | today | [apply](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2) |
 | BCC Engineering, a Parsons Company | Software Developer Intern - Fall 2026/Spring 2027 \| Careers at Parsons | Fall 2026 | — | — | today | [apply](https://jobs.parsons.com/jobs/software-developer-intern-fall-2026-spring-2027-virtual-r-185565-jobs--internship-program--) |
 | DriveTime Sales and Finance Company, LLC | Software Engineer Intern (Summer 2027) | Summer 2027 | AZ | — | today | [apply](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294) |
 | Knorr Brake Company | Intern, Software Engineering (Summer 2027) | Summer 2027 | — | — | today | [apply](https://careers.knorr-bremse.com/KBSignaling/job/Melbourne-Intern%2C-Software-Engineering-%28Summer-2027%29-FL-32901/1433559333/) |
@@ -38,8 +38,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | GlobalFoundries | Machine Learning & Generative AI Intern (Jan-Jun 2027) | 2027 | — | — | today | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506229) |
 | Amperesand | Full Stack Software Engineering Intern | — | — | — | today | [apply](https://job-boards.greenhouse.io/amperesand/jobs/4392181009) |
 | TRACTIAN | Software Engineering Internship | — | — | — | 1d | [apply](https://careers.tractian.com/jobs/am9icG9zdDqK6R2RRkZIqPQy-CuLpZH2) |
-| Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Spring 2027 | South San Francisco, CA | $54.00/hr–$54.00/hr | today | [apply](https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003) |
 | Zipline | Embedded Software Engineer Intern (Spring 2027) | Spring 2027 | South San Francisco, CA | $54.00/hr–$54.00/hr | today | [apply](https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003) |
+| Zipline | Enterprise Systems Software Engineer Intern (Spring 2027) | Spring 2027 | South San Francisco, CA | $54.00/hr–$54.00/hr | today | [apply](https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003) |
 | Zipline | Enterprise Systems Software Engineer Intern (Summer 2027) | Summer 2027 | South San Francisco, CA | $54.00/hr–$54.00/hr | today | [apply](https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003) |
 | Zipline | Software Systems Validation Intern (Summer 2027) | Summer 2027 | South San Francisco, CA | $54.00/hr–$54.00/hr | today | [apply](https://www.zipline.com/open-roles/7894335003?gh_jid=7894335003) |
 | Zipline | Software Engineer Intern (Summer 2027) | Summer 2027 | South San Francisco, CA | $50.00/hr–$50.00/hr | today | [apply](https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003) |
@@ -48,15 +48,15 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Cisco | Machine Learning Engineer II (Intern) - United States | — | — | $44,000–$130,000 | 1d | [apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683) |
 | McKesson | Software Engineer Intern - Summer 2027 | Summer 2027 | — +2 | $16.50/hr–$27.50/hr | 1d | [apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235) |
 | McKesson | Software Development Intern - Summer 2027 | Summer 2027 | Irving, TX | $17.33/hr–$28.88/hr | 1d | [apply](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635) |
-| Shure | Application Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4955/application-software-engineering-intern/job) |
 | Shure | Application Software Development Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/5020/application-software-development-intern/job) |
-| Shure | Cloud DevOps Engineer Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) |
-| Shure | Automated Test Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) |
+| Shure | Application Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4955/application-software-engineering-intern/job) |
 | Shure | Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4996/software-engineering-intern/job) |
 | Shure | Embedded Software Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/5018/embedded-software-intern/job) |
+| Shure | Automated Test Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4964/automated-test-software-engineering-intern/job) |
+| Shure | Cloud DevOps Engineer Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job) |
 | Shure | Cloud Software Engineering Intern 🛂 | Summer | Niles, IL | $23.00/hr–$43.00/hr | 1d | [apply](https://careershub-shure.icims.com/jobs/4976/cloud-software-engineering-intern/job) |
-| Allied Credit Solutions | Software Delivery Management Intern | — | Carmel, IN | — | 1d | [apply](https://alliedsolutions.wd501.myworkdayjobs.com/en-US/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086) |
 | Allied Credit Solutions | Software Engineering Intern | — | Carmel, IN | — | 1d | [apply](https://alliedsolutions.wd501.myworkdayjobs.com/en-US/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087) |
+| Allied Credit Solutions | Software Delivery Management Intern | — | Carmel, IN | — | 1d | [apply](https://alliedsolutions.wd501.myworkdayjobs.com/en-US/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086) |
 | WAL-MART | 2026 Intern Conversion: 2027 FT Software Engineer II, Information Security | 2026 | CA +1 | $104,000–$202,000 | 1d | [apply](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II--Information-Security_R-2630112) |
 | Cadence | Graduate Student Intern - Software Engineering | — | TX +1 | — | 1d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56029-2) |
 | Copart | Software Engineering Intern | — | Dallas, TX +8 | — | 1d | [apply](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173) |
@@ -71,7 +71,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Auto-Owners | Business Intelligence Developer Internship - Summer 2027 | Summer 2027 | Lansing, MI | — | 1d | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) |
 | Philips | Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026 | Fall 2026 | Cambridge, MA | $29.00/hr–$36.00/hr | 1d | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708) |
 | Truveta | Software Engineering Intern 🛂 | — | Seattle, WA | $20.00/hr–$20.00/hr | 1d | [apply](https://job-boards.greenhouse.io/truveta/jobs/5659745004) |
-| Genuine Parts Company | Software Engineer - QA Analyst Intern | — | Birmingham, AL +1 | — | 1d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235) |
+| Genuine Parts Company | Software Engineer - QA Analyst Intern | — | Birmingham, AL +1 | — | 1d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236) |
 | Genuine Parts Company | Web Developer Intern | — | Birmingham, AL | — | 1d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238) |
 | Stryker | Commercial Operations Software Engineering Intern - Flower Mound, TX | — | Flower Mound, TX | — | 1d | [apply](https://careers.stryker.com/commercial-operations-software-engineering-intern-flower-mound-tx/job/EAA72752AA23996001F47BE295554E84) |
 | Universal Health Services | Software Engineer Intern* | — | King Of Prussia, PA | — | 1d | [apply](https://careers-uhsinc.icims.com/jobs/367247/login) |
@@ -97,8 +97,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Northern Trust | Technology Intern – Software Engineering 🛂 | — | Chicago, IL | $35.00/hr–$35.00/hr | 2d | [apply](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1) |
 | Genuine Parts Company | Software Developer Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer-Intern_R26_0000029140) |
 | Genuine Parts Company | Cloud Developer Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133) |
-| Genuine Parts Company | Cloud SRE Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) |
 | Genuine Parts Company | Customer Software Development Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135) |
+| Genuine Parts Company | Cloud SRE Intern | — | Birmingham, AL | — | 2d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) |
 | Vermeer Corporation | IT Software Engineer Internship Summer 2027 | Summer 2027 | Pella, IA | — | 2d | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) |
 | Aerodyne Industries LLC | Software Engineering Intern | — | Houston, TX | — | 2d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f7d0583a-068e-4433-ae66-535fa5887aa1&jobId=9201906200651_1&lang=en_US) |
 | Cloudflare | Software Engineer Intern (Fall 2026) - Austin, TX 🛂 | Fall 2026 | — | — | 2d | [apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
@@ -107,11 +107,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | SpaceX | Summer 2027 Software Engineering Internship/Co-op | Summer 2027 | — | $30.00/hr–$30.00/hr | 2d | [apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | The Western and Southern Life Insurance Company | Software Automation Testing Intern (Full Year 2027) | 2027 | Cincinnati, OH | — | 2d | [apply](https://careers-westernsouthern.icims.com/jobs/25006/software-automation-testing-intern-%28full-year-2027%29/job) |
 | The Western and Southern Life Insurance Company | Artificial Intelligence Developer Intern (Full Year 2027) | 2027 | Cincinnati, OH | — | 2d | [apply](https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job) |
-| AeroVironment | Summer 2027 Machine Learning Intern | Summer 2027 | MN | — | 2d | [apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | AeroVironment | Summer 2027 Embedded Software Engineering Intern | Summer 2027 | CA | — | 2d | [apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
+| AeroVironment | Summer 2027 Machine Learning Intern | Summer 2027 | MN | — | 2d | [apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
 | AeroVironment | Summer 2027 Software Engineering Intern | Summer 2027 | CA | — | 2d | [apply](https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
-| Hermeus | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Spring 2027 | Los Angeles, CA | — | 2d | [apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus | Software Engineering Intern (HIL) - Spring/Summer 2027 | Spring 2027 | Atlanta, GA | — | 2d | [apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
+| Hermeus | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Spring 2027 | Los Angeles, CA | — | 2d | [apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Newrez | 2027 Summer Internship - Software Developer 🌏 | Summer 2027 | Coppell, TX | — | 2d | [apply](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390) |
 | Teledyne Technologies Incorporated | EADSIM Software Engineering Intern (Summer 2027) | Summer 2027 | Huntsville, AL | — | 2d | [apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
 | GE HealthCare | Edison Engineering Development Program Intern – Software 🛂 | — | WI | — | 2d | [apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2) |
@@ -127,8 +127,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | SAGE | Software Engineering Intern (Edge) – Summer 2027 | Summer 2027 | NY | $50.00/hr–$50.00/hr | 2d | [apply](https://job-boards.greenhouse.io/sage49/jobs/6131191004) |
 | SAGE | Software Engineering Intern (Full Stack) – Summer 2027 | Summer 2027 | NY | $50.00/hr–$50.00/hr | 2d | [apply](https://job-boards.greenhouse.io/sage49/jobs/6131185004) |
 | Philips | Co-op – Software Engineer (R&D) – Cambridge, MA – January - August 2027 | 2027 | Cambridge, MA | $33.00/hr–$45.00/hr | 2d | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891) |
-| SRC, Inc. | Machine Learning Engineer (Intern - Summer 2027) | Summer 2027 | — | — | 2d | [apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | SRC, Inc. | Software Engineer (Intern - Summer 2027) | Summer 2027 | — | — | 2d | [apply](https://jobs.jobvite.com/src-inc/job/o4lHAfwq) |
+| SRC, Inc. | Machine Learning Engineer (Intern - Summer 2027) | Summer 2027 | — | — | 2d | [apply](https://jobs.jobvite.com/src-inc/job/o8lHAfwu) |
 | Adobe | 2027 Intern - Machine Learning Engineer | 2027 | NY | $55.00/hr–$55.00/hr | 2d | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) |
 | AST SpaceMobile | DevOps Intern | — | — | — | 2d | [apply](https://ast-science.com/company/careers/?gh_jid=4726347005) |
 | AST SpaceMobile | Intern - System and Software Testing | — | — | — | 2d | [apply](https://ast-science.com/company/careers/?gh_jid=4726526005) |
@@ -136,10 +136,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA | — | Mountain View, CA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556972687) |
 | Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922930) |
 | Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556951950) |
-| Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
-| Microsoft | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
-| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | — | Boston, MA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
 | Microsoft | Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922923) |
+| Microsoft | Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922931) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students - CoreAI - Boston, Massachusetts | — | Boston, MA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556972698) |
+| Microsoft | Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922929) |
 | Microsoft | Software Engineer: Fullstack Product (Web + Services) Intern Opportunities for University Students, | — | Redmond, WA | — | 2d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556922922) |
 | Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications - Spring 2027 | Spring 2027 | Cincinnati, OH | — | 2d | [apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587) |
 | Vermeer Corporation | Embedded Software Engineer Internship Summer 2027 | Summer 2027 | Pella, IA | — | 2d | [apply](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165) |
@@ -148,9 +148,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413037 - Washington | Fall 2026 | — | — | 3d | [apply](https://careers.amtrak.com/job/Washington-Fall-2026Spring-2027-Software-Engineering-Intern-90413037-Washington-DC-20001/1425042000/) |
 | Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413041 - Washington | Fall 2026 | — | — | 3d | [apply](https://careers.amtrak.com/job/Washington-Fall-2026Spring-2027-Software-Engineering-Intern-90413041-Washington-DC-20001/1425039100/) |
 | Emerson | Software Engineering Spring Co-op (Jan27- May27) | Spring | Shakopee, MN | $24.00/hr–$28.00/hr | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454) |
-| Emerson | Embedded Software Co-Op | — | Marshalltown, IA | — | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443) |
-| Emerson | Software Engineering Co-Op | — | Marshalltown, IA | — | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442) |
 | Emerson | Software Engineering Intern | — | Houston, TX +1 | $24.00/hr–$28.00/hr | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009500) |
+| Emerson | Software Engineering Co-Op | — | Marshalltown, IA | — | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442) |
+| Emerson | Embedded Software Co-Op | — | Marshalltown, IA | — | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443) |
 | Emerson | Machine Learning R&D Co-Op | — | Marshalltown, IA | — | 3d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 3d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 3d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764) |
@@ -158,9 +158,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 3d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 3d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 3d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781) |
+| The Church of Jesus Christ of Latter-day Saints | 2026 Mobile Software Engineer Technical Intern (Jan and May 2027 hires) | 2026 | Riverton, UT | — | 3d | [apply](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/376528) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 Data Engineer Technical Intern (Jan and May 2027 hires) | 2026 | Riverton, UT | — | 3d | [apply](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/376510) |
 | The Church of Jesus Christ of Latter-day Saints | 2026 Software Engineer Technical Intern (Jan and May 2027 hires) | 2026 | Riverton, UT | — | 3d | [apply](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/376513) |
-| The Church of Jesus Christ of Latter-day Saints | 2026 Mobile Software Engineer Technical Intern (Jan and May 2027 hires) | 2026 | Riverton, UT | — | 3d | [apply](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/376528) |
 | Pella Corporation | Software Intern - Summer 2027 | Summer 2027 | Pella, IA | $27.25/hr–$27.25/hr | 3d | [apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253299) |
 | Pella Corporation | Data Engineer Intern - Summer 2027 | Summer 2027 | Pella, IA | $29.00/hr–$29.00/hr | 3d | [apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253304) |
 | TRAK Machine Tools | Software QA Intern - Part time | — | Rancho Dominguez, CA | — | 3d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=efc0f5ac-5b91-4023-85b9-ff2d46ee70a1&jobId=9201226653877_1&lang=en_US) |
@@ -168,10 +168,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | McNeilus Truck & Mfg Inc | Engineer Intern - Software (Summer 2027) | Summer 2027 | Dodge Center, MN | $18.00/hr–$37.00/hr | 3d | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786) |
 | Pierce Manufacturing Inc | Engineer Intern - Software (Summer 2027) | Summer 2027 | WI | $18.00/hr–$37.00/hr | 3d | [apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2027-_R49745) |
 | CIBC US | 2027 Spring Term Software Engineer Co-op - Chicago (Northeastern University) 🛂 | Spring 2027 | Chicago, IL | $36.00/hr–$36.00/hr | 3d | [apply](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1) |
-| Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Summer | Beaverton, OR | — | 3d | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 | Nike | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Summer | Beaverton, OR | — | 3d | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
-| Phillips Edison & Company | Information Technology Intern - Software Development (Spring 2027) | Spring 2027 | OH | — | 3d | [apply](https://phillipsedison.wd503.myworkdayjobs.com/PECO/job/Cincinnati/Information-Technology-Intern---Software-Development--Spring-2027-_JR100081) |
+| Nike | NIKE, Inc. Software Engineering Undergraduate Internship | Summer | Beaverton, OR | — | 3d | [apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 | Phillips Edison & Company | Information Technology Intern - Software Development (Summer 2027) | Summer 2027 | OH | — | 3d | [apply](https://phillipsedison.wd503.myworkdayjobs.com/PECO/job/Cincinnati/Information-Technology-Intern---Software-Development--Summer-2027-_JR100062) |
+| Phillips Edison & Company | Information Technology Intern - Software Development (Spring 2027) | Spring 2027 | OH | — | 3d | [apply](https://phillipsedison.wd503.myworkdayjobs.com/PECO/job/Cincinnati/Information-Technology-Intern---Software-Development--Spring-2027-_JR100081) |
 | NiSource | Intern IT - Software Engineer | Summer | — | — | 3d | [apply](https://nisource.wd1.myworkdayjobs.com/en-US/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449) |
 | IGS Energy | Software Engineer Intern | — | Remote | $31,200–$62,400 | 3d | [apply](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) |
 | Amtrak | Fall 2026/Spring 2027 - Software Engineering Intern - 90413045 - Washington | Fall 2026 | — | — | 3d | [apply](https://careers.amtrak.com/job/Washington-Fall-2026Spring-2027-Software-Engineering-Intern-90413045-Washington-DC-20001/1424938000/) |
@@ -193,20 +193,20 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Aerotech, Inc. | Software Engineering Internship or Co-op 2027 | 2027 | — | — | 3d | [apply](https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027) |
 | Stryker | Summer 2027 Internship - Software Engineering - Indiana | Summer 2027 | Fort Wayne, IN | — | 3d | [apply](https://careers.stryker.com/summer-2027-internship-software-engineering-indiana/job/9B0ED8C40589391378238B8EEB813E4E) |
 | Stryker | Summer 2027 Internship - Software Engineering - Florida | Summer 2027 | Fort Lauderdale, FL | — | 3d | [apply](https://careers.stryker.com/summer-2027-internship-software-engineering-florida/job/919991664993A1BAE23CA3C85A02E84C) |
-| Crowe | Machine Learning Intern 🛂 | — | — | $27.00/hr–$42.00/hr | 4d | [apply](https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) |
 | Crowe | Data Analytics Developer Intern 🛂 | — | IL | $27.00/hr–$42.00/hr | 4d | [apply](https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041) |
+| Crowe | Machine Learning Intern 🛂 | — | — | $27.00/hr–$42.00/hr | 4d | [apply](https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) |
 | Workiva | Summer 2027 Intern - Software Engineering | Summer 2027 | Remote | $40.00/hr–$40.00/hr | 4d | [apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190) |
-| The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) 🛂 | Summer 2027 | Hartford, CT | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) |
-| The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) 🛂 | Summer 2027 | Hartford, CT | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
 | The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus) 🛂 | Summer 2027 | Columbus, OH | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610) |
+| The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Hartford) 🛂 | Summer 2027 | Hartford, CT | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1) |
+| The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford) 🛂 | Summer 2027 | Hartford, CT | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1) |
 | The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Columbus) 🛂 | Summer 2027 | Columbus, OH | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609) |
 | The Hartford | Tech & Data Program Summer 2027 - Data Engineer Intern (Chicago) 🛂 | Summer 2027 | Chicago, IL | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650) |
 | The Hartford | Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte) 🛂 | Summer 2027 | Charlotte, NC | — | 4d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648) |
 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | Summer 2027 | Mclean, VA | — | 5d | [apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564) |
 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | Summer 2027 | Mclean, VA | — | 5d | [apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Hewlett Packard Enterprise | Software Engineer Intern | — | TX | — | 5d | [apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625) |
-| Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Atlanta, GA | Summer 2027 | Atlanta, GA | $52,900–$108,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
 | Booz Allen | University, 2027 Summer Games Software Developer Intern | Summer 2027 | Rome, NY | $52,900–$108,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141) |
+| Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Atlanta, GA | Summer 2027 | Atlanta, GA | $52,900–$108,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) |
 | Booz Allen Hamilton | AI Software Developer Intern | — | San Diego, CA | $61,900–$141,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
 | Booz Allen Hamilton | University, 2027 Summer Games Software Developer Intern | Summer 2027 | Colorado Springs, CO +1 | $52,900–$108,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130) |
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern | Summer 2027 | Charleston, SC +2 | $52,900–$108,000 | 5d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134) |
@@ -219,57 +219,57 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD) | 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7672920375646488885) |
 | TikTok | (General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7662653087863081221) |
 | TikTok | Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7676276048527214901) |
-| TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7671211313289398581) |
 | TikTok | Backend Software Engineer Intern (TikTok-Global Live-Foundation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935150530840837) |
+| TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7671211313289398581) |
 | TikTok | (General Hire) Software Engineer Intern (Trust and Safety-Engineering) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7662684280234232117) |
 | TikTok | Backend Software Engineer Intern (Social) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7665627693737511173) |
-| TikTok | Backend Software Engineer Intern (Global LIVE Data Platform) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7663398719949687045) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Recommendation) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666290648937056565) |
-| TikTok | Mobile Software Engineer Intern (Social) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7665622826842327349) |
+| TikTok | Backend Software Engineer Intern (Global LIVE Data Platform) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7663398719949687045) |
 | TikTok | Backend Engineer Intern (TikTok Shop - Europe) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668567025010690357) |
+| TikTok | Mobile Software Engineer Intern (Social) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7665622826842327349) |
 | TikTok | Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Fall | Fall 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7675163472469444917) |
 | TikTok | Software Engineer Intern (TikTok Search Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667920559239317765) |
 | TikTok | Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2027 Start (PhD) | 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7670247810111768837) |
-| TikTok | LLM Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666289679172831541) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668379675467761925) |
+| TikTok | LLM Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666289679172831541) |
 | TikTok | Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start | 2026 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7662594807715072261) |
 | TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7670839727059339525) |
-| TikTok | Frontend Engineer Intern (Global CRM) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669711026846058757) |
 | TikTok | Machine Learning Engineer Intern (E-Commerce Recommendation Foundation) - 2027 Start (PhD） | 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7672881840860940597) |
+| TikTok | Frontend Engineer Intern (Global CRM) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669711026846058757) |
 | TikTok | LLM/Multimodal AI Engineer Intern (TikTok Search) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667907101154429189) |
 | TikTok | LLM Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666290648937400629) |
 | TikTok | Backend Software Engineer Intern (Global LIVE Service Arch) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7663383164115437877) |
 | TikTok | Machine Learning Engineer Intern (Lead Ads) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669707492914727221) |
+| TikTok | Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667933770625599749) |
 | TikTok | Data Engineer Intern (E-commerce) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7676250516494436661) |
 | TikTok | AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668566238498408709) |
-| TikTok | Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667933770625599749) |
-| TikTok | Machine Learning Engineer Intern (Global E-Commerce) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666292282597591349) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Risk Control) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666292012246599941) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7665475888805611781) |
+| TikTok | Machine Learning Engineer Intern (Global E-Commerce) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666292282597591349) |
 | TikTok | Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668445566565321013) |
-| TikTok | Software Engineer Intern (TikTok Search Architecture) - 2027 Fall | Fall 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7675524738811218229) |
 | TikTok | Software Engineer Intern (Global CRM) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669711844487399685) |
+| TikTok | Software Engineer Intern (TikTok Search Architecture) - 2027 Fall | Fall 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7675524738811218229) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7671232204182276405) |
 | TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Fall | Fall 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7670839752644233525) |
-| TikTok | Software Engineer Intern (TikTok - Shoot Experience Optimization) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668921505254410549) |
-| TikTok | Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668565665540917557) |
 | TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668396597746862341) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935739300792629) |
+| TikTok | Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668565665540917557) |
+| TikTok | Software Engineer Intern (TikTok - Shoot Experience Optimization) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668921505254410549) |
 | TikTok | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start (PhD) | 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668415591670417717) |
-| TikTok | (General Hire) Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7662672554084059445) |
 | TikTok | Software Engineer Intern (TikTok - Effects Performance) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668725183121000757) |
 | TikTok | (General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669693205558561077) |
-| TikTok | Backend Software Engineer Intern (Global LIVE Fund Safety) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7663396538815826229) |
+| TikTok | (General Hire) Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7662672554084059445) |
 | TikTok | Software Engineer Intern (TikTok Live Recommendation Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667916202236348725) |
+| TikTok | Backend Software Engineer Intern (Global LIVE Fund Safety) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7663396538815826229) |
 | TikTok | Frontend Software Engineer Intern (Global Live Transaction) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7664843924874004741) |
 | TikTok | Machine Learning Ops Engineer Intern (Ads Infra) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7668640146350393653) |
-| TikTok | Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall | Fall 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7674029284224092421) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668381860191734021) |
+| TikTok | Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall | Fall 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7674029284224092421) |
 | TikTok | Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7672926068681951493) |
 | TikTok | Mobile Software Engineer Intern (Global E-Commerce) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7673663349758675205) |
-| TikTok | Machine Learning Engineer Intern (App Ads and Gaming) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669709472078170373) |
 | TikTok | Software Engineer Intern (TikTok Search Architecture) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7675517686256863541) |
 | TikTok | Backend Software Engineer Intern (TikTok- PGC-Digital Content Center) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934302872537397) |
+| TikTok | Machine Learning Engineer Intern (App Ads and Gaming) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669709472078170373) |
 | TikTok | Backend Software Engineer Intern (TikTok-Growth-Innovative Growth) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934860750063925) |
 | TikTok | Backend Software Engineer Intern (Global LIVE Transaction) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7664847124735068421) |
 | TikTok | Software Engineer Intern (Ads Interface) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669705785962727733) |
@@ -277,27 +277,27 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Backend Software Engineer Intern (TikTok - Product Infrastructure) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935633764370741) |
 | TikTok | Backend Software Engineer Intern (TikTok-Social-Foundation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935565120112949) |
 | TikTok | Software Engineer Intern (ML Infra) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668696895234197813) |
+| TikTok | Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7668582086899763461) |
 | TikTok | Machine Learning Engineer Intern (TikTok Search) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667906209610139957) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7670700387322300677) |
-| TikTok | Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7668582086899763461) |
 | TikTok | Backend Software Engineer Intern (TikTok-Search) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667933335084124469) |
-| TikTok | Software Engineer Intern (Transaction Platform) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669943120351906053) |
 | TikTok | Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer | Summer 2027 | Seattle, WA +1 | — | 5d | [apply](https://lifeattiktok.com/search/7668834837268416821) |
+| TikTok | Software Engineer Intern (Transaction Platform) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669943120351906053) |
 | TikTok | Backend Software Engineer Intern (TikTok-Privacy and Security) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935739300317493) |
 | TikTok | Software Engineer Intern (TikTok-Generalized Arch-Code Intelligence & Quality Validation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935738376227077) |
-| TikTok | Software Engineer Intern (TikTok Recommendation Platform) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667911731242420533) |
 | TikTok | Backend Software Engineer Intern (TikTok-PGC-Creator Strategy) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667933770819897605) |
+| TikTok | Software Engineer Intern (TikTok Recommendation Platform) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667911731242420533) |
 | TikTok | Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668582031916435717) |
 | TikTok | Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668837275459324213) |
 | TikTok | Software Engineer Intern (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667912295692093749) |
 | TikTok | Software Engineer Intern (TikTok-Agentic Creation-AIGC) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668675500744837381) |
-| TikTok | Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668837276597127477) |
 | TikTok | Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667935399050692917) |
+| TikTok | Software Development Engineer Intern (Global E-Commerce-Quality Platform & AI Test Automation) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668837276597127477) |
 | TikTok | (General Hire) Machine Learning Engineer Intern (Performance Monetization) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669693163422845237) |
-| TikTok | Data Engineer Intern (Data Platform Global Live) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7674032146438162693) |
 | TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934759481526581) |
-| TikTok | Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934635573692725) |
+| TikTok | Data Engineer Intern (Data Platform Global Live) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7674032146438162693) |
 | TikTok | Software Engineer Intern (Business Integrity) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668584916620527925) |
+| TikTok | Backend Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934635573692725) |
 | TikTok | Big Data Engineer Intern (TikTok Recommendation Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667911073505085749) |
 | TikTok | Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7675159726676101381) |
 | TikTok | Machine Learning Engineer Intern (Commercial AI-CRM and Transaction) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669702702763018501) |
@@ -305,12 +305,12 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Machine Learning Engineer Intern (Search Ads) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669698648817305909) |
 | TikTok | Site Reliability Engineer Intern (Global SRE) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7670874691332212997) |
 | TikTok | Software Engineer Intern (TikTok-Intelligent Creation-Camera) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668862422178318597) |
-| TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668383643375257909) |
 | TikTok | Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669712589169117445) |
-| TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934169444485429) |
-| TikTok | Software Engineer Intern (Ads Infrastructure) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668581636242016565) |
+| TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Summer | Summer 2027 | Seattle, WA | — | 5d | [apply](https://lifeattiktok.com/search/7668383643375257909) |
 | TikTok | Big Data Engineer Intern (TikTok Live Recommendation Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667917497487657269) |
 | TikTok | Machine Learning Engineer Intern (Ads Signal & Measurement) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669700361976809733) |
+| TikTok | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD) | 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7667934169444485429) |
+| TikTok | Software Engineer Intern (Ads Infrastructure) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668581636242016565) |
 | TikTok | Software Engineer Intern (Creative Intelligence and Brand Innovation) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668642761473902901) |
 | TikTok | AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD) | 2026 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7531716084228278536) |
 | TikTok | Machine Learning Engineer Project Intern (MultiModal ML Direction) - 2026 Start (BS/MS) | 2026 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7595882041935055157) |
@@ -350,19 +350,19 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TikTok | Android Software Engineer Intern (Global LIVE Platform) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7672395757573474565) |
 | TikTok | \[Mobile Software Engineer\] Intern (Global Live Revenue) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7672397362020862213) |
 | TikTok | Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7669711968043092229) |
-| TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7670875283026053381) |
 | TikTok | Machine Learning Eningeer Intern (Brand Ads) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7668654528822954245) |
+| TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | Summer 2027 | San Jose, CA | — | 5d | [apply](https://lifeattiktok.com/search/7670875283026053381) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, User Growth) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666292282597214517) |
-| TikTok | Big Data Engineer Intern (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667915492052437301) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Platform Governance) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666294185007925557) |
+| TikTok | Big Data Engineer Intern (TikTok Global E-Commerce Recommendation & Search Architecture) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667915492052437301) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, User Growth) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666294185007565109) |
 | TikTok | LLM/Multimodal AI Engineer Intern (TikTok Search) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7667907655215073589) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Platform Governance) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666296106317678901) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Search) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666292282596788533) |
 | TikTok | Machine Learning Engineer Intern (TikTok BRIC Account Security) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7662623341929630005) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce, Search) - 2027 Start | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666289679172258101) |
-| TikTok | Machine Learning Engineer Intern (Global E-Commerce, Recommendation) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666289654154938629) |
 | TikTok | Machine Learning Engineer Intern (Global E-Commerce) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666291916020107573) |
+| TikTok | Machine Learning Engineer Intern (Global E-Commerce, Recommendation) - 2027 Start (PhD) | 2027 | NY | — | 5d | [apply](https://lifeattiktok.com/search/7666289654154938629) |
 | TechInsights | Software Development Co-op Student (Fall 2026) | Fall 2026 | — | — | 6d | [apply](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) |
 | Ritual | Software Engineer Intern | — | Remote | — | 6d | [apply](https://job-boards.greenhouse.io/ritual/jobs/4068271007) |
 | Rialto Capital | Junior AI Engineer - Co-op | — | Miami, FL | — | 6d | [apply](https://rialtocapital.wd1.myworkdayjobs.com/en-US/Rialto/job/Miami-FL/Junior-AI-Engineer---Co-op_r230) |
@@ -381,24 +381,24 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | IBM | SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN | — | Richland, WA | — | 6d | [apply](https://jobs.chicagoquantum.org/companies/ibm-2-ac1a9733-081a-4a8e-80d2-933d126d8ce3/jobs/91398875-sw-developer-intern-systems-assurance-austin-tx-rochester-mn) |
 | Philips | Co-op – Software Test Automation Engineer – Orange, OH – January 2027 | 2027 | Orange, OH | $26.00/hr–$29.00/hr | 6d | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888) |
 | John Hancock | Summer Intern 2027 - Software Engineering | Summer 2027 | Boston, MA | — | 7d | [apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) |
+| Ambarella | Software Engineer Intern | Summer | — | — | 7d | [apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) |
 | Ambarella | Software Development Engineer Intern | — | — | — | 7d | [apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) |
 | Ambarella | Software Architecture Engineer Intern | — | — | — | 7d | [apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) |
-| Ambarella | Software Engineer Intern | Summer | — | — | 7d | [apply](https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) |
 | Bear Robotics | Software Engineering Intern, Developer Productivity | — | Redwood City, CA | — | 7d | [apply](https://bear-robotics.breezy.hr/p/b8d4995f6d23-software-engineering-intern-developer-productivity) |
 | Emory University | Internship, GPS Sample Tester and Junior Developer (ETS) \| Temporary | — | Decatur, GA | — | 7d | [apply](https://staff-emory.icims.com/jobs/172196/internship%2c-gps-sample-tester-and-junior-developer-%28ets%29-%7c-temporary/job) |
 | Workiva | Summer 2027 Intern - Machine Learning Engineering | Summer 2027 | Remote | $40.00/hr–$40.00/hr | 7d | [apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
-| Audax Group | Data Engineer Co-Op | — | Boston, MA +1 | $30.00/hr–$34.00/hr | 7d | [apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) |
 | Audax Group | AI Engineer Co-Op | — | Boston, MA | $30.00/hr–$34.00/hr | 7d | [apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005) |
+| Audax Group | Data Engineer CO-OP | — | Boston, MA +1 | $30.00/hr–$34.00/hr | 7d | [apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005) |
 | Clarity Partners | Software Development Internship | — | Chicago, IL | — | 7d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4433376/fec30b52-def3-464e-8b40-40ae5fc3ce3c) |
 | Astranis Space Technologies | Flight Software Intern (Fall 2026) 🇺🇸 | Fall 2026 | CA | $29.00/hr–$29.00/hr | 7d | [apply](https://job-boards.greenhouse.io/astranis/jobs/4619283006) |
 | Unravel Carbon | Machine Learning Intern | — | — | — | 7d | [apply](https://careers.pulsefund.com/companies/unravel-carbon/jobs/91306997-machine-learning-intern) |
-| L3Harris Technologies | Intern C, Software Engineer | — | Colorado Springs, CO +1 | $29.00/hr–$53.50/hr | 7d | [apply](https://careers.l3harris.com/en/job/colorado-springs/intern-c-software-engineer/4832/99780428576) |
+| L3Harris Technologies | Intern C, Software Engineer | — | Colorado Springs, CO +1 | $29.00/hr–$53.50/hr | 7d | [apply](https://careers.l3harris.com/en/job/colorado-springs/intern-c-software-engineer/4832/99780428384) |
 | Auto-Owners | Software Developer Internship - Summer 2027 | Summer 2027 | Lansing, MI | — | 8d | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
 | The Hartford | Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte) | Summer 2027 | Charlotte, NC | — | 8d | [apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649) |
 | Ancestry | Software Engineer – Observability, Co-op | — | Lehi, UT | — | 8d | [apply](https://careers.ancestry.com/jobs/software-engineer-observability-co-op-lehi-utah-united-states-91abe4f0-e636-4ec3-a3b3-a26be312edf8) |
 | Auto-Owners | Intern - Analytics Web Systems Developer | — | Lansing, MI | — | 8d | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272) |
-| Netflix | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 | Winter 2027 | CA | $40.00/hr–$40.00/hr | 8d | [apply](https://netflix.wd108.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Infrastructure-Engineering-Intern--AI-Platform--PhD--Winter-2027_JR42220) |
 | Netflix | Machine Learning/AI Scientist PhD Intern, Winter 2027 | Winter 2027 | CA | $40.00/hr–$40.00/hr | 8d | [apply](https://netflix.wd108.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-PhD-Intern--Winter-2027_JR42217) |
+| Netflix | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 | Winter 2027 | CA | $40.00/hr–$40.00/hr | 8d | [apply](https://netflix.wd108.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Infrastructure-Engineering-Intern--AI-Platform--PhD--Winter-2027_JR42220) |
 | Johnson & Johnson | Software Engineering Co-Op, Spring 2027 🛂 | Spring 2027 | Cincinnati, OH | — | 8d | [apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741) |
 | Syska Hennessy Group | Innovations Intern (Full Stack/Front End Engineering) | — | NY | $25.00/hr–$27.00/hr | 8d | [apply](https://job-boards.greenhouse.io/syskahennessy/jobs/8147733) |
 | MORSE Corp | Machine Learning Engineer Co-op 🇺🇸 | — | Seattle, WA | $28.00/hr–$33.00/hr | 8d | [apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003) |
@@ -488,14 +488,14 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TESLA | Internship, Supercharger SIL Test Infrastructure Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/276333) |
 | TESLA | Internship, Software Engineer Diagnostics, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/275805) |
 | TESLA | Internship, Recruiting, Vehicle Software (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/275722) |
-| TESLA | Internship, Software Engineer, Torque Path & Chassis Controls (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/274760) |
-| TESLA | Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/275558) |
 | TESLA | Internship, AI Engineer, Tesla AI (Fall 2026/Winter 2027) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/275331) |
+| TESLA | Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/275558) |
+| TESLA | Internship, Software Engineer, Torque Path & Chassis Controls (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/274760) |
 | TESLA | Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/271372) |
 | TESLA | Internship, Software Validation Engineer, Steering, Chassis Systems (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/274045) |
-| TESLA | Internship, Embedded System Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273822) |
-| TESLA | Internship, Residential Energy Device Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273810) |
 | TESLA | Internship, Software Engineer Industrial Firmware, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273820) |
+| TESLA | Internship, Residential Energy Device Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273810) |
+| TESLA | Internship, Embedded System Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273822) |
 | TESLA | Internship, Commercial UI Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273723) |
 | TESLA | Internship, Embedded Software Engineer, Optimus (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/273272) |
 | TESLA | Internship, Site Controller Software Engineer, Energy Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/272615) |
@@ -509,10 +509,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | TESLA | Internship, Embedded Software Engineer, Body Controls Firmware (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270618) |
 | TESLA | Internship, Software Validation Engineer, Drive Systems: Embedded & Actuation (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270506) |
 | TESLA | Internship, Embedded Software Engineer, High Voltage Systems (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270354) |
-| TESLA | Internship, Embedded Software Engineer, Keys & Authentication (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270067) |
 | TESLA | Internship, Software Validation Engineer, Vehicle Firmware (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270070) |
-| TESLA | Internship, Software Engineer, Linux Update Systems (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/266986) |
+| TESLA | Internship, Embedded Software Engineer, Keys & Authentication (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/270067) |
 | TESLA | Internship, Data Engineer, Applications Engineering (Fall 2026) | Fall 2026 | Fremont, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/272928) |
+| TESLA | Internship, Software Engineer, Linux Update Systems (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/266986) |
 | TESLA | Internship, Software Engineer, Service Engineering (Fall 2026) | Fall 2026 | Palo Alto, CA | — | 15d | [apply](https://www.tesla.com/careers/search/job/266119) |
 | Kepler | Embedded Software Engineering Intern (January 2027) (4 months) | 2027 | — | — | 15d | [apply](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1) |
 | Eulerity | Website Developer & Technical Content Marketing Intern - AI & Automation | — | NY | $18.00/hr–$20.00/hr | 15d | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4706780006) |
@@ -533,46 +533,46 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Summer 2027 | Atlanta, GA | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999) |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | Phoenix, AZ | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | New York, NY | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | Sunrise, FL | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | Charlotte, NC | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679) |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Summer 2027 | Atlanta, GA | $24.05/hr–$63.00/hr | 18d | [apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
 | Freeform | Software Engineering Intern (Summer 2027) | Summer 2027 | CA | — | 18d | [apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
 | Nidec Mobility America Corporation | Software Engineer Co-Op | — | North America, MO | — | 18d | [apply](https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
 | Cadence | Product Validation Intern - Digital Backend | — | — | — | 19d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SHANGHAI/Product-Validation-Intern---Digital-Backend_R55570) |
-| Cadence | Intern-Software Engineering | — | Home, MI | — | 19d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
 | Cadence | Software Intern | — | San Jose, CA | $31.63/hr–$58.75/hr | 19d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1) |
+| Cadence | Intern-Software Engineering | — | Home, MI | — | 19d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Intern-Software-Engineering_R53788) |
 | Cadence | Software Engineering Intern | — | Pittsburgh, PA | — | 19d | [apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334) |
 | Odoo | Best Software Sales Internship for Freshers in Gandhinagar - Odoo is H | — | — | — | 19d | [apply](https://www.odoo.com/jobs/summer-internship-field-sales-1922) |
 | Odoo | Software Development Intern \| Odoo | — | — | — | 19d | [apply](https://www.odoo.com/jobs/software-development-intern-48) |
-| Palantir Technologies | Forward Deployed Software Engineer, Internship - US Government | — | D.C., WA +2 | — | 19d | [apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
-| Palantir Technologies | Forward Deployed Software Engineer, Internship - Commercial | — | — +3 | — | 19d | [apply](https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd) |
 | Palantir Technologies | Forward Deployed Software Engineer, Internship | — | — | — | 19d | [apply](https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a) |
+| Palantir Technologies | Forward Deployed Software Engineer, Internship - Commercial | — | Chicago, IL +3 | — | 19d | [apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
+| Palantir Technologies | Forward Deployed Software Engineer, Internship - US Government | — | NY +2 | — | 19d | [apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
 | Palantir Technologies | Forward Deployed Software Engineer, Internship - Defense Tech | — | D.C., WA | — | 19d | [apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
+| Palantir Technologies | Forward Deployed Software Engineer, Internship - UK Government | — | — | — | 19d | [apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) |
 | Palantir Technologies | Forward Deployed Software Engineer, Internship - AUS Government | — | — | — | 19d | [apply](https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976) |
 | Palantir Technologies | Forward Deployed Software Engineer, Internship - Intel | — | D.C., WA | — | 19d | [apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
-| Palantir Technologies | Forward Deployed Software Engineer, Internship - UK Government | — | — | — | 19d | [apply](https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf) |
 | Palantir Technologies | Privacy and Civil Liberties Software Engineer, Internship | — | NY | — | 19d | [apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
-| Palantir Technologies | Software Engineer, Internship | — | Palo Alto, CA +4 | — | 19d | [apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
-| Palantir Technologies | Software Engineer, Internship - Infrastructure | — | NY +2 | — | 19d | [apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
-| Palantir Technologies | Software Engineer, Internship - Defense Tech | — | NY +2 | — | 19d | [apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
-| Palantir Technologies | Software Engineer, Internship - Production Infrastructure | — | Seattle, WA +2 | — | 19d | [apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
-| Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | — | Chicago, IL +1 | — | 19d | [apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| Palantir Technologies | Software Engineer, Internship | — | D.C., WA +4 | — | 19d | [apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
+| Palantir Technologies | Software Engineer, Internship - Production Infrastructure | — | D.C., WA +2 | — | 19d | [apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
+| Palantir Technologies | Software Engineer, Internship - Infrastructure | — | — +2 | — | 19d | [apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
+| Palantir Technologies | Software Engineer, Internship - Defense Tech | — | D.C., WA +2 | — | 19d | [apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) |
 | Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - USG | — | D.C., WA +1 | — | 19d | [apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
+| Palantir Technologies | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial | — | Chicago, IL +1 | — | 19d | [apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
 | Palantir Technologies | Year at Palantir - Software Engineer, Internship | — | NY | — | 19d | [apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
 | Motorola Solutions | Intern - Embedded Software, System, and Test Engineer - 2026 🇺🇸 | 2026 | Irvine, CA | $28.60/hr–$33.80/hr | 19d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) |
 | Acceldata | Software Engineering Co-op | — | — | — | 19d | [apply](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4) |
 | AMETEK | Scientific Developer Intern | — | — | — | 19d | [apply](https://jobs.ametek.com/job/Fontaine-Scientific-Developer-Intern-Auve-38600/1419527100/) |
-| Leonardo DRS | Quality Software Engineer Intern | — | — | — | 19d | [apply](https://careers.leonardodrs.com/job/Bridgeton-Quality-Software-Engineer-Intern-MO-63044/1416975000/) |
 | Leonardo DRS | Embedded Software Engineer Intern | — | — | — | 19d | [apply](https://careers.leonardodrs.com/job/Bridgeton-Embedded-Software-Engineer-Intern-MO-63044/1416974200/) |
+| Leonardo DRS | Quality Software Engineer Intern | — | — | — | 19d | [apply](https://careers.leonardodrs.com/job/Bridgeton-Quality-Software-Engineer-Intern-MO-63044/1416975000/) |
 | Microsoft | Software Engineering INTERN | — | IL +1 | — | 19d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556957962) |
 | Roblox | \[Summer 2027\] Software Engineer Intern \| Roblox | Summer 2027 | — | — | 19d | [apply](https://careers.roblox.com/jobs/8072713) |
 | Microchip | Intern-Engineering (Software Development) | — | Houston, TX | — | 19d | [apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) |
@@ -609,11 +609,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Cair Health | Software Engineering Intern | — | Remote | — | 21d | [apply](https://www.cairhealth.com/career/swe-intern) |
 | Epsilla | Machine Learning Engineering Intern | — | — | — | 21d | [apply](https://www.epsilla.com/careers) |
 | Layup Parts | Software Engineering Intern | Summer | Huntington Beach, CA | $25.00/hr–$25.00/hr | 21d | [apply](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53) |
-| Baynovation, LLC | Data Engineer Intern | — | — | — | 21d | [apply](https://www.baynovation.com/jobs/data-engineer-intern) |
 | Baynovation, LLC | Software Engineer Intern | — | — | — | 21d | [apply](https://www.baynovation.com/jobs/software-engineer-intern-) |
+| Baynovation, LLC | Data Engineer Intern | — | — | — | 21d | [apply](https://www.baynovation.com/jobs/data-engineer-intern) |
 | Technology Omaha | Software Engineering Intern | — | Omaha, NE | — | 21d | [apply](https://recruiting.ultipro.com/TEN1001TEINC/JobBoard/52989607-07f5-4be5-b6f7-1878fa879db5/OpportunityDetail?opportunityId=3f25abb4-4894-48f6-9b5a-f8efcad5510b) |
-| Sturdy Corporation | Software Engineering Intern | — | Portland, OR | — | 21d | [apply](https://sturdyai.applytojob.com/apply/MSL6jzR0EC/Software-Engineering-Intern?source=Our%20Career%20Page%20Widget) |
-| NOSO LABS | AI Engineer Intern | — | CA | — | 21d | [apply](https://noso.so/careers/ai-engineer-intern) |
+| Sturdy Corporation | Software Engineering Intern | — | Portland, OR | — | 22d | [apply](https://sturdyai.applytojob.com/apply/MSL6jzR0EC/Software-Engineering-Intern?source=Our%20Career%20Page%20Widget) |
+| NOSO LABS | AI Engineer Intern | — | CA | — | 22d | [apply](https://noso.so/careers/ai-engineer-intern) |
 | Trubot Technology | Full Stack Developer Intern | — | — | — | 22d | [apply](https://www.trubotai.com/careers/intern-technology-fullstack-developer) |
 | Northwest Registered Agent LLC | Web Developer Intern | — | Spokane, WA | — | 23d | [apply](https://www.northwestregisteredagent.com/jobs/interactive/website-devellloper-intern-jobs-spokane-wa.php) |
 | Later | Software Development Co-op (Later Influence) | — | — | — | 23d | [apply](https://job-boards.greenhouse.io/later/jobs/8643138002) |
@@ -622,16 +622,16 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Phonely | Software Engineer Intern | — | United States, CA | — | 23d | [apply](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) |
 | Compunetix | Software Engineer Co-op (Spring 2027) | Spring 2027 | — | — | 23d | [apply](https://jobs.jobvite.com/compunetix/job/oMdpAfwI) |
 | ANYbotics | Software Engineering Internship - AI Platform | — | — | — | 23d | [apply](https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586) |
-| Sharpa | Algorithm Software Intern - Simulation | — | — | — | 23d | [apply](https://www.sharpa.com/pages/jobs/job-45) |
 | Sharpa | Algorithm Software Intern - Robotics System | — | — | — | 23d | [apply](https://www.sharpa.com/pages/jobs/job-44) |
+| Sharpa | Algorithm Software Intern - Simulation | — | — | — | 23d | [apply](https://www.sharpa.com/pages/jobs/job-45) |
 | Freelancer.com | Software Engineering Internship (Dec 2026 - March 2027) | 2026 | — | — | 23d | [apply](https://apply.workable.com/j/7075FD5FF5) |
 | Intel | AI Software Engineer Graduate Intern | — | — | $113,500–$153,600 | 24d | [apply](https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | Intel | AI Software Engineering Intern | — | OR +1 | $101,100–$136,800 | 24d | [apply](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) |
 | KBR | Software Intern | — | Houston, TX | — | 25d | [apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863) |
 | Bear Robotics | Robotics Software Engineer, Intern | — | — | — | 26d | [apply](https://bear-robotics.breezy.hr/p/3ad392d6c3f0-robotics-software-engineer-intern) |
 | Bear Robotics | \[인재풀\] Software Engineer Intern | — | — | — | 26d | [apply](https://bear-robotics.breezy.hr/p/08475cfe4fd7-injaepul-software-engineer-intern) |
-| The Nuclear Company | Spring 2027 Software Engineering Intern 🇺🇸 | Spring 2027 | DC | — | 27d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) |
 | The Nuclear Company | Summer 2027 Software Engineering Intern 🇺🇸 | Summer 2027 | DC | — | 27d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
+| The Nuclear Company | Spring 2027 Software Engineering Intern 🇺🇸 | Spring 2027 | DC | — | 27d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008) |
 | Varda Space Industries | Flight Software Internship - Spring 2027 | Spring 2027 | El Segundo, CA | — | 27d | [apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
 | Rocket Lab | Launch Safety Software Intern 🇺🇸 | — | — | — | 28d | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/7827254003) |
 | Obsidian Solutions Group | Unity 3D Developer Intern | — | Fredericksburg, VA | — | 28d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4341435/5baad1ba-d3ce-4e07-bc9b-db559b65a794) |

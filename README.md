@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech Internships — auto-updated daily
 
-**2,453 live internships** (2,807 postings) · last updated `2026-09-25 16:58 UTC`
+**2,465 live internships** (2,808 postings) · last updated `2026-09-26 20:06 UTC`
 
 Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update, not left to rot.
 
@@ -12,12 +12,12 @@ Every listing links straight to the employer's own application page — no aggre
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 975 | 291 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 94 | 15 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 627 | 196 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 354 | 64 |
-| [📋 Product & Program](jobs/product-program.md) | 123 | 33 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 280 | 90 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 975 | 244 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 94 | 16 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 630 | 159 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 361 | 58 |
+| [📋 Product & Program](jobs/product-program.md) | 120 | 18 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 285 | 89 |
 
 ## Browse by term
 
@@ -25,24 +25,24 @@ Every listing links straight to the employer's own application page — no aggre
 |---|---:|
 | Spring 2026 | 1 |
 | Summer 2026 | 9 |
-| Fall 2026 | 32 |
+| Fall 2026 | 30 |
 | Winter 2026 | 3 |
-| 2026 | 70 |
-| Spring 2027 | 134 |
-| Summer 2027 | 789 |
-| Fall 2027 | 16 |
-| Winter 2027 | 146 |
-| 2027 | 226 |
+| 2026 | 69 |
+| Spring 2027 | 136 |
+| Summer 2027 | 777 |
+| Fall 2027 | 17 |
+| Winter 2027 | 145 |
+| 2027 | 220 |
 | 2028 | 2 |
 | Spring | 5 |
-| Summer | 202 |
+| Summer | 204 |
 | Fall | 3 |
 | Winter | 2 |
-| _not stated_ | 1,167 |
+| _not stated_ | 1,185 |
 
 _Term is read from the posting title; `not stated` means the employer did not say, not that the role is unavailable._
 
-Machine-readable: [`data/listings.json`](data/listings.json) — all 2,807 rows, with extra fields.
+Machine-readable: [`data/listings.json`](data/listings.json) — all 2,808 rows, with extra fields.
 
 ## 🆕 Latest 25 roles
 
@@ -52,31 +52,31 @@ At most 2 per employer, so one big hirer cannot fill the page. Full lists are in
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| RTX | Software Engineering Intern (Summer 2027) | 💻 Software Engineering | Summer 2027 | — +3 | — | today | [apply](https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358) |
-| LAB Labcorp Early Development Laboratories Inc. | Intern - Commercial Analytics | 📊 Data & Analytics | — | — | — | today | [apply](https://labcorp.wd1.myworkdayjobs.com/External/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) |
-| TESLA | Internship, Compensation Project Manager (Winter/Spring 2027) 🌐 | 📋 Product & Program | Winter 2027 | Austin, TX | — | today | [apply](https://www.tesla.com/careers/search/job/284734) |
-| TESLA | Internship, Compensation Data Analyst (Winter/Fall 2026) 🌐 | 📊 Data & Analytics | Winter 2026 | Austin, TX | — | today | [apply](https://www.tesla.com/careers/search/job/284732) |
-| FCORPS FOX Corporate Services | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | 📊 Data & Analytics | Spring 2027 | NY | $20.00/hr–$20.00/hr | today | [apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950) |
-| FCORPS FOX Corporate Services | Spring 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL | 🖥️ IT & Infrastructure | Spring 2027 | Chicago, IL | $20.00/hr–$20.00/hr | today | [apply](https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Spring-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033926) |
-| NOMAD | Intern - Commercial Analytics | 📊 Data & Analytics | — | — | $20.00/hr–$25.00/hr | today | [apply](https://www.workingnomads.com/jobs/intern-commercial-analytics-labcorp) |
-| Innovative Systems, Inc. | Intern/Co-op- Summer 2027 - Software Engineering | 💻 Software Engineering | Summer 2027 | — | — | today | [apply](https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering) |
-| Innovative Systems, Inc. | Intern/Co-op-Spring 2027 - Software Engineering | 💻 Software Engineering | Spring 2027 | — | — | today | [apply](https://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering) |
-| Flexcar | Software Engineering Intern (Ruby on Rails \| React) | 💻 Software Engineering | — | — | — | today | [apply](https://goflexcar.applytojob.com/apply/xWpcvCXoa5/Software-Engineering-Intern-Ruby-On-Rails-React) |
-| Richardson Motors \| Dubuque, Iowa | IT Intern - Access Dubuque Jobs | 🖥️ IT & Infrastructure | — | — | — | today | [apply](https://accessdubuquejobs.com/job/it-intern-5/) |
-| HDR | Substation Electrical Engineering Intern - Controls | 🔌 Hardware & Electrical (ECE) | — | — | — | today | [apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=790353) |
-| HDR | Substation Electrical Engineering Intern - Physical | 🔌 Hardware & Electrical (ECE) | — | — | — | today | [apply](https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=790379) |
-| Black & Decker (U.S.) Inc. | Electrical Engineering Intern Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Towson, MD | $22.00/hr–$27.00/hr | today | [apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Electrical-Engineering-Intern-Summer-2027_REQ-1000052018) |
-| Black & Decker (U.S.) Inc. | Embedded Engineering Summer Intern 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Towson, MD | $22.00/hr–$27.00/hr | today | [apply](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) |
-| iRhythm Technologies, Inc. | Electrical Test Engineering Co-op Intern January-June 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | San Francisco, CA | $25.00/hr–$35.00/hr | today | [apply](https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785) |
-| iRhythm Technologies, Inc. | Firmware Quality Assurance Engineer Co-Op Intern Full Time January-JuneEngineer | 🔌 Hardware & Electrical (ECE) | Summer | San Francisco, CA | $25.00/hr–$35.00/hr | today | [apply](https://irhythmtech.wd5.myworkdayjobs.com/en-US/iRhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791) |
-| Nutrien | Co-op, Maintenance Analytics Developer | 💻 Software Engineering | — | — | — | today | [apply](https://jobs.nutrien.com/North-America/job/Fort-Saskatchewan-Co-op%2C-Maintenance-Analytics-Developer-AB-T8L-4J1/606457217/) |
-| Nutrien | Co-op, Electrical Engineer | 🔌 Hardware & Electrical (ECE) | — | — | — | today | [apply](https://jobs.nutrien.com/North-America/job/Redwater-Co-op%2C-Electrical-Engineer-AB-T0A-2W0/606457517/) |
-| Scotiabank | Wealth Management - Data Analytics Internship-Co-op - Winter 2027 | 📊 Data & Analytics | Winter 2027 | — | — | today | [apply](https://jobs.scotiabank.com/job/Toronto-Wealth-Management-Data-Analytics-Internship-Co-op-Winter-2027-ON/606000117/) |
-| Radiance Technologies, Inc. | Software Engineer Intern Spring/Summer 2027 | 💻 Software Engineering | Spring 2027 | OH +1 | $21.00/hr–$26.00/hr | today | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445) |
-| Nex | Summer 2027 \| Software Engineer Intern (Engineering, Core Technology) | 💻 Software Engineering | Summer 2027 | — | — | today | [apply](https://job-boards.greenhouse.io/nex/jobs/5419756008) |
-| Nex | Summer 2027 \| Software Engineer Intern (Developer Experience) | 💻 Software Engineering | Summer 2027 | — | — | today | [apply](https://job-boards.greenhouse.io/nex/jobs/5420203008) |
-| Armstrong-Ellis Cons SD 61 | Electrical Engineer Intern (Macon GA) Job | 🔌 Hardware & Electrical (ECE) | — | — | — | today | [apply](https://jobs.armstrong.com/job/Macon-Electrical-Engineer-Intern-%28Macon-GA%29-Job-GA/1423037200/) |
-| Leidos National Solutions Division | Software Developer Intern 🇺🇸 | 💻 Software Engineering | — | MO | $48,100–$86,950 | today | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00192632) |
+| TikTok | Business Data Analyst Project Intern (GBS) - 2026 Start 🌐 | 📊 Data & Analytics | 2026 | NY | — | today | [apply](https://lifeattiktok.com/search/7689364323701901573) |
+| RTX | Software Engineering Co-op (Fall/Spring 2027) | 💻 Software Engineering | Fall 2027 | Cedar Rapids, IA | $37,000–$82,000 | today | [apply](https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683) |
+| Auto-Owners | Software Developer Internship - Summer 2027 | 💻 Software Engineering | Summer 2027 | Lansing, MI | — | today | [apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121) |
+| Rockwell Automation | Co-op, AI Software Engineering (6-8 months) 🛂 | 💻 Software Engineering | — | — | $20.00/hr–$32.00/hr | today | [apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982-1) |
+| Rockwell Automation | Intern, AI Software Engineering (June-August 2027) 🛂 | 💻 Software Engineering | 2027 | — | $20.00/hr–$32.00/hr | today | [apply](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--AI-Software-Engineering--June-August-2027-_R26-6980-1) |
+| Microsoft | Software Engineer: Intern Opportunities for University Students, Atlanta 🌐 | 💻 Software Engineering | — | Atlanta, GA | — | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557008714) |
+| Novanta Inc. | Computer Software Engineering Co-op 🇺🇸 | 💻 Software Engineering | — | Apex, NC | — | today | [apply](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760) |
+| Garner Health | Software Engineering Intern 🛂 | 💻 Software Engineering | — | New York City, NY | — | today | [apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004) |
+| IMEG | Electrical Engineering Intern \| Columbus, OH | 🔌 Hardware & Electrical (ECE) | Summer | Columbus, OH | $22.00/hr–$22.00/hr | today | [apply](https://imeg.wd1.myworkdayjobs.com/en-US/Imeg_Careers/job/Columbus-OH/Electrical-Engineering-Intern---Columbus--OH_R-16684) |
+| Marketing Excellence Inc | Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG) 🛂 | 📊 Data & Analytics | 2027 | MN | — | today | [apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717) |
+| STV | Electrical Engineering Intern - Fall 2026 | 🔌 Hardware & Electrical (ECE) | Fall 2026 | Boston, MA | $52,526–$59,689 | today | [apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Boston-Massachusetts/Electrical-Engineering-Intern---Fall-2026_JR6106) |
+| STV | Electrical Engineering Intern - Spring 2027 | 🔌 Hardware & Electrical (ECE) | Spring 2027 | Oklahoma City, OK | $41,107–$46,713 | today | [apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Electrical-Engineering-Intern---Spring-2027_JR6102) |
+| Epiq | Software Engineer Intern | 💻 Software Engineering | — | NY | $30.00/hr–$35.00/hr | today | [apply](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230) |
+| FusionTek | IT Support Internship | 🖥️ IT & Infrastructure | — | — | — | today | [apply](https://apply.workable.com/j/932A3A267A) |
+| Zurn Elkay Water Solutions | IT Business Systems Intern (Summer 2027) | 🖥️ IT & Infrastructure | Summer 2027 | Milwaukee, WI | — | today | [apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Business-Systems-Intern--Summer-2027-_REQ-020154) |
+| Zurn Elkay Water Solutions | IT Infrastructure Intern (Summer 2027) | 🖥️ IT & Infrastructure | Summer 2027 | Milwaukee, WI +1 | — | today | [apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162) |
+| Philips | Intern - Electrical Engineering - Cambridge, MA - Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Cambridge, MA | $29.00/hr–$32.00/hr | today | [apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605) |
+| Caterpillar Inc. | 2027 Internship: Gas Compressor Data Analyst 🛂 | 📊 Data & Analytics | 2027 | San Diego, CA | $26.00/hr–$43.00/hr | today | [apply](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786) |
+| The Aerospace Corporation | 2027 Software Systems Engineer and Acquisition Intern | 💻 Software Engineering | 2027 | CA | $25.00/hr–$35.00/hr | today | [apply](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431) |
+| Schweitzer Engineering Laboratories (SEL) | Electrical Engineering Intern | 🔌 Hardware & Electrical (ECE) | — | — +4 | $24.25/hr–$33.00/hr | today | [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-23257) |
+| Corning Incorporated | IT Intern 🌐 | 🖥️ IT & Infrastructure | — | — +1 | — | today | [apply](https://corningjobs.corning.com/job/Reynosa-IT-Intern-TAM-88730/1434110300/) |
+| Hubbell Incorporated | 2027 Summer Intern: Engineering - Electrical | 🔌 Hardware & Electrical (ECE) | Summer 2027 | — | — | today | [apply](https://careers.hubbell.com/job/Reading-2027-Summer-Intern-Engineering-Electrical-PA-19605/1423610100/) |
+| Hubbell Incorporated | 2027 Summer Intern: Engineering - PCB Design | 🔌 Hardware & Electrical (ECE) | Summer 2027 | — | — | today | [apply](https://careers.hubbell.com/job/Reading-2027-Summer-Intern-Engineering-PCB-Design-PA-19605/1423610600/) |
+| Gallo Careers | Winegrowing Research Data Analyst Internship 2027 🛂 | 📊 Data & Analytics | 2027 | Modesto, CA | $26.50/hr–$28.50/hr | today | [apply](https://gallocareers.com/job/winegrowing-research-data-analyst-internship-2027/modesto-CA/107605/) |
+| Gallo Careers | IT Data Analyst Internship 2027 🛂 | 📊 Data & Analytics | Summer 2027 | Modesto, CA | $26.50/hr–$28.50/hr | today | [apply](https://gallocareers.com/job/it-data-analyst-internship-2027/modesto-CA/107500/) |
 
 _Full lists are in the category pages above._
 
@@ -85,41 +85,41 @@ _Full lists are in the category pages above._
 | Employer | Open internships |
 |---|---:|
 | TikTok | 231 |
-| TESLA | 131 |
-| L3Harris Technologies | 67 |
+| TESLA | 130 |
+| L3Harris Technologies | 65 |
 | American Express | 45 |
-| RTX | 40 |
+| RTX | 36 |
 | WSP | 34 |
 | Palantir Technologies | 33 |
-| Booz Allen Hamilton | 28 |
-| IMEG | 22 |
-| Infineon | 22 |
+| Infineon | 23 |
+| IMEG | 21 |
 | Emerson | 20 |
 | Zipline | 19 |
+| Johnson & Johnson | 18 |
 | General Dynamics Mission Systems | 18 |
 | Navy Federal Credit Union | 18 |
-| Johnson & Johnson | 16 |
+| Booz Allen Hamilton | 18 |
 
 ## 💰 Highest stated pay
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Point72 | Summer 2027 Quantitative Research Internship 🌐 | 📈 Quant & Trading | Summer 2027 | NY | $240,000–$300,000 | 9d | [apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
-| PIMCO | 2027 PhD/MFE Summer Intern – Quantitative Portfolio Management | 📈 Quant & Trading | Summer 2027 | CA | $165,000–$205,000 | 5d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
-| PIMCO | 2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst | 📈 Quant & Trading | Summer 2027 | CA | $205,000–$205,000 | 24d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) |
-| Old Mission | Software Engineer – 2027 Internship Program (June Start) | 📈 Quant & Trading | 2027 | Chicago, IL | $150,000–$200,000 | 71d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
-| CISCO | Software Engineer Embedded Systems II (Intern) – United States | 💻 Software Engineering | — | CA | $44,000–$185,000 | today | [apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) |
-| CISCO | Machine Learning Engineer I (Intern) – United States | 💻 Software Engineering | — | CA | $44,000–$185,000 | today | [apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) |
-| Point72 | Quantitative Researcher - Intern 🌐 | 📈 Quant & Trading | — | — | $120,000–$180,000 | 9d | [apply](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) |
-| F5 Networks | Software Development Engineer II (Former Summer 2026 Interns) | 💻 Software Engineering | Summer 2026 | DC | $172,800–$172,800 | 1d | [apply](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-II--Former-Summer-2026-Interns-_RP1038883) |
-| DOORDASH | Software Engineer, Intern (Summer 2027) - US 🌐 | 💻 Software Engineering | Summer 2027 | Ca; Seattle, WA | $107,400–$158,000 | 1d | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
-| Flow Traders | Quantitative Trading Intern Summer 2027 | 📈 Quant & Trading | Summer 2027 | NY | $150,000–$150,000 | 1d | [apply](https://job-boards.greenhouse.io/flowtraders/jobs/8047166) |
+| Point72 | Summer 2027 Quantitative Research Internship 🌐 | 📈 Quant & Trading | Summer 2027 | NY | $240,000–$300,000 | 10d | [apply](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) |
+| PIMCO | 2027 PhD/MFE Summer Intern – Quantitative Portfolio Management | 📈 Quant & Trading | Summer 2027 | CA | $165,000–$205,000 | 6d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) |
+| PIMCO | 2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US | 📈 Quant & Trading | Summer 2027 | CA | $205,000–$205,000 | 25d | [apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---PhD-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106815) |
+| Old Mission | Software Engineer – 2027 Internship Program (June Start) | 📈 Quant & Trading | 2027 | Chicago, IL | $150,000–$200,000 | 73d | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
+| DOORDASH | Machine Learning Intern (PhD) - Summer 2027 🌐 | 💻 Software Engineering | Summer 2027 | Ny; Seattle, WA | $130,600–$192,000 | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
+| DOORDASH | Machine Learning Intern (Masters) - Summer 2027 🌐 | 💻 Software Engineering | Summer 2027 | Ny; Seattle, WA | $130,600–$192,000 | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
+| CISCO | Machine Learning Engineer I (Intern) – United States | 💻 Software Engineering | — | CA | $44,000–$185,000 | 2d | [apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) |
+| CISCO | Software Engineer Embedded Systems II (Intern) – United States | 💻 Software Engineering | — | CA | $44,000–$185,000 | 2d | [apply](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805) |
+| Point72 | Quantitative Researcher Intern 🌐 | 📈 Quant & Trading | — | NY | $120,000–$180,000 | 10d | [apply](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) |
+| F5 Networks | Software Development Engineer II (Former Summer 2026 Interns) | 💻 Software Engineering | Summer 2026 | DC | $172,800–$172,800 | 2d | [apply](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-II--Former-Summer-2026-Interns-_RP1038883) |
 
 ## 📍 Top locations
 
-**CA** 478 · **NY** 234 · **TX** 164 · **IL** 102 · **OH** 98 · **MN** 87 · **MA** 85 · **IA** 63 · **WA** 62 · **FL** 61 · **VA** 58 · **WI** 57
+**CA** 466 · **NY** 237 · **TX** 160 · **OH** 101 · **IL** 98 · **MN** 89 · **MA** 89 · **IA** 64 · **WA** 62 · **FL** 61 · **WI** 59 · **VA** 47
 
-_27 remote · 604 postings have no location stated by the employer._
+_28 remote · 617 postings have no location stated by the employer._
 
 ---
 

@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech Internships — auto-updated daily
 
-**3,422 live internships** (4,178 postings) · last updated `2026-11-02 20:33 UTC`
+**3,398 live internships** (4,152 postings) · last updated `2026-11-02 23:58 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,16 +10,18 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
+📬 **3,871 of these 4,152 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+
 ## Browse by category
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 894 | 102 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 161 | 32 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,199 | 142 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 386 | 39 |
-| [📋 Product & Program](jobs/product-program.md) | 499 | 55 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 283 | 26 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 883 | 103 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 160 | 32 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,192 | 135 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 387 | 43 |
+| [📋 Product & Program](jobs/product-program.md) | 494 | 59 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 282 | 28 |
 
 _Both columns count roles, deduplicated across cities._
 
@@ -28,58 +30,58 @@ _Both columns count roles, deduplicated across cities._
 | Term | Roles |
 |---|---:|
 | 2026 | 12 |
-| 2027 | 315 |
+| 2027 | 319 |
 | 2028 | 1 |
 | Fall | 3 |
 | Fall 2026 | 18 |
 | Fall 2027 | 7 |
 | Spring | 33 |
-| Spring 2027 | 149 |
+| Spring 2027 | 147 |
 | Spring 2028 | 1 |
-| Summer | 196 |
-| Summer 2027 | 888 |
-| Winter | 22 |
+| Summer | 197 |
+| Summer 2027 | 868 |
+| Winter | 23 |
 | Winter 2026 | 2 |
-| Winter 2027 | 43 |
-| _not stated_ | 1,732 |
+| Winter 2027 | 44 |
+| _not stated_ | 1,723 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
-Machine-readable: [`data/listings.json`](data/listings.json) — all 4,178 postings, with extra fields.
+Machine-readable: [`data/listings.json`](data/listings.json) — all 4,152 postings, with extra fields.
 
 ## 🆕 Latest 25 roles
 
 At most 2 per employer, so one big hirer cannot fill the page.
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means the posting does not say.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| LOCKHEED MARTIN | Software Engineering Intern | 📋 Product & Program | — | Fort Worth, TX +2 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477240661) |
+| KLA | Software Engineering Intern | 📋 Product & Program | — | Austin, TX +2 | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
+| Textron | 2027 Intern - Program Master Scheduler - Wilmington, MA | 📋 Product & Program | 2027 | Wilmington, MA | — | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545985) |
+| Metro by T Mobile Authorized Retailer | Summer 2027 Software Engineering Internship | 📋 Product & Program | Summer 2027 | New York, NY | — | today | [apply](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886/apply) |
+| Divergent | Summer 2027 Production Business Intelligence Intern | 📊 Data & Analytics | Summer 2027 | Torrance, CA | — | today | [apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) |
+| The Michaels Organization | Information Technology (IT) Intern | 🖥️ IT & Infrastructure | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
+| The Michaels Organization | Development Intern | 📋 Product & Program | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11227/development-intern/job?in_iframe=1) |
+| CP Skin Health Group | Data Migration and Analytics Co-Op | 📊 Data & Analytics | — | Overland Park, KS | — | today | [apply](https://jobs.colgate.com/job/Overland-Park-Data-Migration-and-Analytics-Co-Op-KS-66062/1447040100/) |
+| Zebra Technologies | 2027 Summer Internship (US) - AI | 💻 Software Engineering | Summer 2027 | LINCOLNSHIRE, IL | — | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) |
+| Rockwell Collins Simulation & Training Solutions | 2027 Intern - Program Master Scheduler - Wilmington, MA | 📋 Product & Program | 2027 | Wilmington, MA | — | today | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1545985) |
+| LOCKHEED MARTIN | Systems Engineering Intern - Summer 2027 | 📋 Product & Program | Summer 2027 | Colorado Springs, CO +1 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477461635) |
+| Astro Mechanica | Software Engineering Intern | 📋 Product & Program | — | San Francisco, CA | $40.00/hr–$55.00/hr | today | [apply](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87) |
+| Astro Mechanical Contractors | Software Engineering Intern | 📋 Product & Program | — | San Francisco, CA | $40.00/hr–$55.00/hr | today | [apply](https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87) |
+| Staples | Software Engineer Intern, Marketplace Platform | 💻 Software Engineering | — | Framingham, MA | — | today | [apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) |
+| LOCKHEED MARTIN | Software Engineer Intern - Summer 2027 | 💻 Software Engineering | Summer 2027 | King of Prussia, PA +5 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477493228) |
+| Plexus Scientific | Intern - Software Engineer (Summer 2027) | 💻 Software Engineering | Summer 2027 | Neenah, WI +1 | — | today | [apply](https://plexus.eightfold.ai/careers/job/1099551218197) |
+| Skydio | Electrical Engineer Intern - Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Remote | — | today | [apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) |
+| Insmed | Summer Intern – Cloud/Application Security | 🖥️ IT & Infrastructure | Summer | Bridgewater, NJ | — | today | [apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879) |
+| KLA | Software Engineer (AI/ML) Intern | 💻 Software Engineering | — | Austin, TX | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1) |
+| Magnaflux | Mechanical Engineering Intern Summer | 🔌 Hardware & Electrical (ECE) | Summer | Lake Forest, IL +1 | — | today | [apply](https://careers.itw.com/us/en/job/JR10688/Mechanical-Engineering-Intern-Summer-2027) |
+| Garmin | IT Storage Administrator Intern | 💻 Software Engineering | — | Olathe, KS | — | today | [apply](https://careers-garmin.icims.com/jobs/20446/login) |
+| Digital | University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI | 📊 Data & Analytics | Summer 2027 | Royal Oak, MI | — | today | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
 | Microsoft | Software Engineer: Internship Opportunities | 💻 Software Engineering | — | Aliso Viejo, CA | — | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557044764) |
-| KLA | Software Engineer Intern | 💻 Software Engineering | — | Totowa, NJ +1 | — | today | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Totowa-NJ/Software-Engineer-Intern_2642151) |
-| LOCKHEED MARTIN | Software Engineer - Intern | 💻 Software Engineering | — | Fort Worth, TX +1 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477643944) |
-| KLA | Software Engineer (AI/ML) Intern | 💻 Software Engineering | — | Austin, TX | — | today | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125) |
+| Sierra Nevada | Software Engineer Intern (Summer 2027) | 💻 Software Engineering | Summer 2027 | Southern Pines, NC | — | today | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) |
 | AmTrust Financial Services | Financial Systems Support Intern - Summer 2027 | 📈 Quant & Trading | Summer 2027 | Dallas, TX | — | today | [apply](https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1) |
-| Intuitive Health | AI/ML Engineer Intern | 💻 Software Engineering | — | Sunnyvale, CA | — | today | [apply](https://jobs.smartrecruiters.com/Intuitive/744000159218439) |
-| Zebra Technologies | 2027 Summer Internship (US) - Software Engineer | 💻 Software Engineering | Summer 2027 | HOLTSVILLE, NY +1 | — | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626) |
-| Apogee Architectural Metals | Summer Intern - Quality Engineer | 💻 Software Engineering | Summer | Louisville, KY +1 | — | today | [apply](https://apog.wd1.myworkdayjobs.com/Apogee/job/Louisville-KY/Summer-Intern---Quality-Engineer_JR111720) |
-| Zurn Elkay Water Solutions | Mechanical Engineering Intern (Summer 2027) | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Lanark, IL +1 | — | today | [apply](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Mechanical-Engineering-Intern--Summer-2027-_REQ-020095) |
-| Rockland Trust | Business Analyst Intern | 📊 Data & Analytics | — | Rockland, MA | — | today | [apply](https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/job/3030) |
-| Zebra Technologies | 2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers) | 💻 Software Engineering | Summer 2027 | HOLSTVILLE, NY | — | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632) |
-| Healy Tibbitts Builders | Peachtree City Finance Analyst Intern Southeast District %28Summer 2027%29 GA 30269 | 📈 Quant & Trading | 2027 | Peachtree City, GA | — | today | [apply](https://kiewitcareers.kiewit.com/job/Peachtree-City-Finance-Analyst-Intern-Southeast-District-%28Summer-2027%29-GA-30269/1428609800/) |
-| Schneider Electric | Spring 2027 Mechanical Engineer Co-Op | 🔌 Hardware & Electrical (ECE) | Spring 2027 | Cedar Rapids, IA | — | today | [apply](https://careers-se.icims.com/jobs/140298/login) |
-| Rockland Trust | Security Operations Intern | 🖥️ IT & Infrastructure | — | Rockland, MA | — | today | [apply](https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/job/3009) |
-| GE Aerospace | Artificial Intelligence Intern | 💻 Software Engineering | — | Remote | — | today | [apply](https://careers.geaerospace.com/de/de/job/R5042294/Artificial-Intelligence-Intern) |
-| HORNE | IAE Financial Data Analyst Internship - Spring 2027 | 📊 Data & Analytics | Spring 2027 | Tampa, FL | — | today | [apply](https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/44652) |
-| General Dynamics | 2027 Quality Assurance – Engineering Summer Internship | 💻 Software Engineering | 2027 | Groton, CT | — | today | [apply](https://careers-gdeb.icims.com/jobs/21243/2027-quality-assurance-%e2%80%93-engineering-summer-internship/job?in_iframe=1) |
-| Mayo Clinic | Graduate Engineering Intern - Software Development | 💻 Software Engineering | — | Rochester, MN | — | today | [apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) |
-| Mayo Clinic | Graduate Engineering Intern - Electronics | 🔌 Hardware & Electrical (ECE) | — | Rochester, MN | — | today | [apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |
-| Lowes | Quality Assurance Engineering Undergrad Internship Summer | 💻 Software Engineering | Summer | Mooresville, NC | — | today | [apply](https://talent.lowes.com/us/en/job/JR-02648572/Quality-Assurance-Engineering-Undergrad-Internship-Summer-2027) |
-| GMRE | Web Application Developer Intern | 💻 Software Engineering | — | South Ogden, UT | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4621147/3299dce3-0cdc-4039-97b3-5ce421734fe9) |
-| GMRE | IT Specialist Intern (Tier 1) | 🖥️ IT & Infrastructure | — | South Ogden, UT | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4621305/3299dce3-0cdc-4039-97b3-5ce421734fe9) |
-| Keyrock | Innovation Quant Developer: Intern - DeFi/Corporate Development | 💻 Software Engineering | — | Remote | — | 1d | [apply](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) |
-| Keyrock | DeFi Quant Research Intern - Digital Assets Market Making | 💻 Software Engineering | — | Remote | — | 1d | [apply](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) |
+| WSP | Electrical Engineering Intern - Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | San Diego, CA +5 | — | today | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) |
 
 ## 🔥 Most-hiring employers
 
@@ -87,23 +89,23 @@ At most 2 per employer, so one big hirer cannot fill the page.
 |---|---:|
 | Meta Platforms | 96 |
 | L3Harris Technologies | 65 |
-| LOCKHEED MARTIN | 56 |
+| LOCKHEED MARTIN | 59 |
 | RAYTHEON | 52 |
 | Johns Hopkins Applied Physics Laboratory | 48 |
 | Qorvo | 45 |
-| Rockwell Collins Simulation & Training Solutions | 41 |
+| Rockwell Collins Simulation & Training Solutions | 42 |
 | Skyworks | 38 |
-| General Dynamics Mission Systems | 36 |
-| Sierra Nevada | 29 |
+| General Dynamics Mission Systems | 35 |
+| Sierra Nevada | 32 |
 | L3 Harris | 29 |
 | KLA | 26 |
 | Shure | 26 |
 | Microsoft | 25 |
-| Cerus Endovascular | 25 |
+| Vertos Medical | 25 |
 
 ## 💰 Highest stated pay
 
-**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means the posting does not say.
+**Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
@@ -120,9 +122,9 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 ## 📍 Top locations
 
-**CA** 541 · **TX** 238 · **NY** 206 · **PA** 185 · **MA** 159 · **WA** 126 · **MD** 125 · **IL** 119 · **VA** 116 · **FL** 113 · **MN** 113 · **NC** 112
+**CA** 547 · **TX** 238 · **NY** 204 · **PA** 184 · **MA** 164 · **MD** 126 · **WA** 123 · **IL** 117 · **VA** 116 · **NC** 111 · **MN** 111 · **FL** 110
 
-_116 remote · 0 postings have no location stated._
+_115 remote · 0 postings have no location stated._
 
 ---
 

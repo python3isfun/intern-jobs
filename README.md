@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech Internships — auto-updated daily
 
-**3,305 live internships** (4,062 postings) · last updated `2026-11-03 03:34 UTC`
+**3,262 live internships** (3,983 postings) · last updated `2026-11-03 16:27 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,11 +10,11 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **3,782 of these 4,062 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **3,699 of these 3,983 postings (92%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## 📌 Picked out of today's 3,305
+## 📌 Picked out of today's 3,262
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 779 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 772 of today's roles have them.
 
 **[Software Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87)** · Astro Mechanica
 
@@ -24,7 +24,7 @@ _Asks for:_ Currently pursuing degree, Programming experience, Data structures f
 
 **[Robotics Systems Intern](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8)** · Astera Institute
 
-Emerybille, CA · $40.00/hr · internship · posted 3d
+Emerybille, CA · $40.00/hr · internship · posted 4d
 
 _Asks for:_ Relevant coursework or projects, Physical system troubleshooting, Mechanical assembly, Electrical wiring
 
@@ -38,12 +38,12 @@ _Asks for:_ Currently pursuing degree, Python or C++ programming, Git source con
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 874 | 100 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 161 | 33 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,151 | 133 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 360 | 42 |
-| [📋 Product & Program](jobs/product-program.md) | 482 | 60 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 277 | 30 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 870 | 91 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 157 | 32 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,133 | 121 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 354 | 34 |
+| [📋 Product & Program](jobs/product-program.md) | 474 | 53 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 274 | 29 |
 
 _Both columns count roles, deduplicated across cities._
 
@@ -97,13 +97,13 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Sierra Nevada | 32 |
 | L3 Harris | 29 |
 | KLA | 26 |
-| Shure | 26 |
 | Microsoft | 25 |
 | Vertos Medical | 25 |
+| Shure | 25 |
 
 ## 💰 Highest stated pay
 
-_Of the 105 roles that state a figure — most employers do not._
+_Of the 104 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
@@ -111,35 +111,35 @@ _Of the 105 roles that state a figure — most employers do not._
 |---|---|---|---|---|---|---|---|
 | Netic | Software Engineer (Agent Platform) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Netic | Full-Stack Software Engineer (Product) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
-| Fab2 | Infrastructure Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f) |
-| Fab2 | Infrastructure Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
-| Fab2 | Fab Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
-| Fab2 | Fab Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) |
-| Fab2 | Embedded Software Engineering Intern - Winter | 💻 Software Engineering | Winter | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
-| Fab2 | Embedded Software Engineering Intern - Summer | 💻 Software Engineering | Summer | San Francisco, CA | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4) |
-| Fab2 | Automation Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) |
-| Fab2 | Automation Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 9d | [apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) |
+| Fab2 | Infrastructure Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f) |
+| Fab2 | Infrastructure Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
+| Fab2 | Fab Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
+| Fab2 | Fab Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) |
+| Fab2 | Embedded Software Engineering Intern - Winter | 💻 Software Engineering | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
+| Fab2 | Embedded Software Engineering Intern - Summer | 💻 Software Engineering | Summer | San Francisco, CA | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4) |
+| Fab2 | Automation Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) |
+| Fab2 | Automation Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) |
 
 <details>
 <summary>📅 Browse by term</summary>
 
 | Term | Roles |
 |---|---:|
-| 2026 | 13 |
-| 2027 | 307 |
+| 2026 | 12 |
+| 2027 | 299 |
 | 2028 | 1 |
 | Fall | 3 |
 | Fall 2026 | 17 |
 | Fall 2027 | 7 |
 | Spring | 32 |
-| Spring 2027 | 147 |
+| Spring 2027 | 146 |
 | Spring 2028 | 1 |
-| Summer | 191 |
-| Summer 2027 | 820 |
+| Summer | 190 |
+| Summer 2027 | 814 |
 | Winter | 23 |
 | Winter 2026 | 2 |
-| Winter 2027 | 43 |
-| _not stated_ | 1,698 |
+| Winter 2027 | 42 |
+| _not stated_ | 1,673 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -147,7 +147,7 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 519 · **TX** 239 · **NY** 204 · **PA** 181 · **MA** 163 · **MD** 126 · **VA** 117 · **WA** 116 · **IL** 109 · **FL** 107 · **MN** 106 · **WI** 104
+**CA** 515 · **TX** 235 · **NY** 204 · **PA** 181 · **MA** 163 · **MD** 125 · **VA** 117 · **WA** 115 · **IL** 108 · **FL** 106 · **MN** 104 · **WI** 103
 
 _117 remote · 0 postings have no location stated._
 

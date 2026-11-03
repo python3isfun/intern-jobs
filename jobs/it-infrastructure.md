@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**274 roles** · updated `2026-11-03 16:27 UTC` · [← all categories](../README.md)
+**268 roles** · updated `2026-11-03 19:12 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (8 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -13,13 +13,13 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | The Michaels Organization | Information Technology (IT) Intern | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
 | Insmed | Summer Intern – Cloud/Application Security | Summer | Bridgewater, NJ | — | today | [apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879) |
 | Rockland Trust | Security Operations Intern | — | Rockland, MA | — | 1d | [apply](https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/job/3009) |
-| GMRE | IT Specialist Intern (Tier 1) | — | South Ogden, UT | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4621305/3299dce3-0cdc-4039-97b3-5ce421734fe9) |
+| GMRE | IT Specialist Intern (Tier 1) | — | South Ogden, UT | — | 2d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4621305/3299dce3-0cdc-4039-97b3-5ce421734fe9) |
 | 1st Source Bank | Intern, Information Technology Operations Support, South Bend, IN (Summer 2027) | Summer 2027 | South Bend, IN | — | 2d | [apply](https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=cc61360a-6c1b-475b-b74a-c78cb8718beb) |
-| Schneider Electric | Technical Support Engineering Intern | — | Lake Forest, CA | — | 2d | [apply](https://careers-se.icims.com/jobs/134954/login) |
-| Schneider Electric | Systems Specialist, Intern | — | Dallas, TX | — | 2d | [apply](https://careers-se.icims.com/jobs/137551/login) |
+| Schneider Electric | Technical Support Engineering Intern | — | Lake Forest, CA | — | 3d | [apply](https://careers-se.icims.com/jobs/134954/login) |
+| Schneider Electric | Systems Specialist, Intern | — | Dallas, TX | — | 3d | [apply](https://careers-se.icims.com/jobs/137551/login) |
 | Ditch Witch | Information Technology Unified Communications Intern The Toro Company | — | Bloomington, MN | — | 3d | [apply](https://jobs.thetorocompany.com/job/bloomington/information-technology-unified-communications-intern-the-toro-company/40062/102640026192) |
-| Simon Contractors | SIMON \| IT Intern (AI Focus) | — | CHEYENNE, WY | — | 3d | [apply](https://colas.jobs.hr.cloud.sap/job/CHEYENNE-SIMON-IT-Intern-%28AI-Focus%29-WY-82007/1376338357/) |
-| Great American Insurance Group | IT Intern - Summer 2027 | Summer 2027 | Cincinnati, OH | — | 3d | [apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) |
+| Simon Contractors | SIMON \| IT Intern (AI Focus) | — | CHEYENNE, WY | — | 4d | [apply](https://colas.jobs.hr.cloud.sap/job/CHEYENNE-SIMON-IT-Intern-%28AI-Focus%29-WY-82007/1376338357/) |
+| Great American Insurance Group | IT Intern - Summer 2027 | Summer 2027 | Cincinnati, OH | — | 4d | [apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/IT-Intern---Summer-2027_R9816-1) |
 | NORTHROP GRUMMAN | 2027 Intern Engineer - Product Support | 2027 | Melbourne, FL | — | 4d | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10258530) |
 | Kinsale Insurance | 2027 Information Technology Internship | 2027 | Richmond, VA | — | 4d | [apply](https://recruiting.ultipro.com/KIN1009KINMA/JobBoard/6aefd236-d009-4627-bfe3-a26e76467d51/OpportunityDetail?opportunityId=f1702f5b-6cdf-4d6c-92f2-6143f63bc748) |
 | Immigrant and Refugee Community Organization | IT Support Intern | — | Arlington, VA | — | 4d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=95b1fb83-92bd-4515-841c-8cadfdb3dc44&jobId=9201160837327_1&lang=en_US) |
@@ -30,17 +30,16 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Eaton | Early Career Internship Program Information Technology Raleigh North Carolina Usa | — | Raleigh, NC | — | 5d | [apply](https://eaton.eightfold.ai/careers/job/687239381332-early-career-internship-program-information-technology-raleigh-north-carolina-usa-27615) |
 | Sierra Nevada | Network Engineer Intern (Summer 2027) | Summer 2027 | Hagerstown, MD | — | 5d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232) |
 | Commonwealth Fusion Systems | Intern - I&C and Network Engineer - Spring or Summer 2027 | Spring | Devens, MA | — | 6d | [apply](https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545) |
-| Sierra Nevada | Security Specialist Intern (Summer 2027) | Summer 2027 | Arlington, VA | — | 6d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250) |
 | Sierra Nevada | IT Service Desk Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 6d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251) |
 | Sierra Nevada | Cybersecurity Analyst Intern | — | Sparks, NV | — | 6d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269) |
 | Computer World Services | COOP Site Support Technician / ORT Analyst (Senior) | — | Indianapolis, IN | — | 6d | [apply](https://jobs.lever.co/cwsc/9b1bb556-b315-4eed-a50d-e1b5347fcbd9) |
 | Stifel Bank and Trust | Operations - Technical Support Intern- Summer 2027 | Summer 2027 | Saint Louis, MO | — | 6d | [apply](https://careers-stifel.icims.com/jobs/10133/operations---technical-support-intern--summer-2027/job?in_iframe=1) |
 | BXP | Cyber Security Co-Op | — | Boston, MA | — | 6d | [apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/26173) |
-| Sherwin Williams | R&D IT Summer Internship- Brecksville, OH | Summer | Brecksville, OH | — | 6d | [apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637) |
+| Sherwin Williams | R&D IT Summer Internship- Brecksville, OH | Summer | Brecksville, OH | — | 7d | [apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637) |
 | RRD | IT Support Engineer Intern | — | Warrenville, IL | — | 7d | [apply](https://jobs.smartrecruiters.com/RRDonnelley/744000158084729) |
 | IDEMIA Public Security | Technical Customer Support Internship | — | Eden Prairie, MN | — | 7d | [apply](https://uscareers-idemia.icims.com/jobs/8662/technical-customer-support-internship/job?in_iframe=1) |
-| Digital | University - 2027 Summer Games Cyber Security Intern - Lexington, MA | Summer 2027 | Lexington, MA | — | 7d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278) |
-| LOCKHEED MARTIN | Information Technology-Intern | — | Huntsville, AL | — | 7d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477459947) |
+| Digital | University - 2027 Summer Games Cyber Security Intern - Lexington, MA | Summer 2027 | Lexington, MA | — | 8d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278) |
+| LOCKHEED MARTIN | Information Technology-Intern | — | Huntsville, AL | — | 8d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477459947) |
 | DecisionPoint | COOP Site Support Technician / ORT Analyst (Senior) | — | Indianapolis, IN | — | 8d | [apply](https://careers-decisionpointcorp.icims.com/jobs/4173/coop-site-support-technician---ort-analyst-%28senior%29/job?in_iframe=1) |
 | Catalent | 2027 Intern - IT | 2027 | Madison, WI | — | 8d | [apply](https://catalent.wd1.myworkdayjobs.com/External/job/Madison-WI/XMLNAME-2027-Intern---IT_0097277) |
 | Air Culinaire Worldwide | IT Intern | — | Tampa, FL | — | 9d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ad821003-1acc-4960-a85b-9945dae07487&jobId=9201252511839_1&lang=en_US) |
@@ -50,8 +49,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Powdr | IT Technician Intern - 2026 | 2026 | Bend, OR | — | 10d | [apply](https://powdr.wd12.myworkdayjobs.com/POWDR_Careers/job/Bend-OR/IT-Technician-Intern---2026_JR7477) |
 | Concurrent Technologies | Technical Intern - Cyber Security | — | Johnstown, PA | — | 10d | [apply](https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security) |
 | New York Stock Exchange | Summer Internship Program 2027 - End User Computing (EUC) Intern | Summer | Jacksonville, FL +1 | — | 10d | [apply](https://careers-ice.icims.com/jobs/14073/login) |
-| New York Stock Exchange | Summer Internship Program 2027 - Application Security Intern | Summer | Jacksonville, FL | — | 10d | [apply](https://careers-ice.icims.com/jobs/14082/login) |
-| Old Dominion Mechanical | Intern - Data Communications Engineering | — | GLEN ALLEN, VA | — | 10d | [apply](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Data-Communications-Engineering-VA-23060/1441539500/) |
+| Old Dominion Mechanical | Intern - Data Communications Engineering | — | GLEN ALLEN, VA | — | 11d | [apply](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Data-Communications-Engineering-VA-23060/1441539500/) |
 | Pattern | AI Infrastructure Engineer Intern | — | Lehi, UT | — | 11d | [apply](https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443) |
 | Safran | Bedford IT Internship NH 03110 | — | Bedford, NH | — | 11d | [apply](https://careers.safran-dsi.com/job/Bedford-IT-Internship-NH-03110/1431032100/) |
 | Langan Engineering & Environmental Services | Intern/Co-op - Cyber Security (Spring & Summer 2027) | Spring | Parsippany, NJ | — | 11d | [apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4451342009) |
@@ -93,7 +91,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | RFL ) | 2027 Summer Intern: IT | Summer 2027 | St. Louis, MO | — | 12d | [apply](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-IT-MO-63146/1442391000/) |
 | Transplace | Solutions Analyst Intern - Summer 2027 | Summer 2027 | Chicago, IL | — | 12d | [apply](https://job-boards.greenhouse.io/uberfreight/jobs/5444153008) |
 | LOCKHEED MARTIN | IT Intern | — | Remote | — | 12d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477474122) |
-| Lenox Advisors | 2027 IT / Cybersecurity Engineer Intern - Chicago, IL | 2027 | Chicago, IL | — | 12d | [apply](https://nfpus-careers-aon.icims.com/jobs/110098/2027-it---cybersecurity-engineer-intern---chicago%2c-il/job?in_iframe=1) |
+| Lenox Advisors | 2027 IT / Cybersecurity Engineer Intern - Chicago, IL | 2027 | Chicago, IL | — | 13d | [apply](https://nfpus-careers-aon.icims.com/jobs/110098/2027-it---cybersecurity-engineer-intern---chicago%2c-il/job?in_iframe=1) |
 | Hargrove Controls & Automation | IT Intern | — | Mobile, AL | — | 13d | [apply](https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/Mobile-AL/IT-Intern_2026-001254) |
 | General Dynamics Ordnance | Intern, Technical Support (Mechanical Engineering) | — | Colchester, VT | — | 13d | [apply](https://careers-gd-ots.icims.com/jobs/37391/intern%2c-technical-support-%28mechanical-engineering%29/job?in_iframe=1) |
 | IDEMIA Public Security | Information Technology Internship | — | Eden Prairie, MN +1 | — | 14d | [apply](https://uscareers-idemia.icims.com/jobs/8704/information-technology-internship/job?in_iframe=1) |
@@ -112,24 +110,24 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | MITRE | Communications Network Engineering Intern | — | McLean, VA | — | 19d | [apply](https://careers.mitre.org/us/en/job/R117790/Communications-Network-Engineering-Intern) |
 | Viserion Grain | IT Intern | — | Visalia, CA | — | 19d | [apply](https://careers-viseriongrain.icims.com/jobs/6372/it-intern/job?in_iframe=1) |
 | Milliman | Information Technology Support Spring 2027 Intern (Part-time) - Omaha (CMH Health) | Spring 2027 | Omaha, NE | — | 19d | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=b3e982db-c815-490c-b58a-9a94cc038aee) |
-| Western Milling | IT Intern | — | Visalia, CA | — | 19d | [apply](https://careers-westernmilling.icims.com/jobs/6372/it-intern/job?in_iframe=1) |
+| Western Milling | IT Intern | — | Visalia, CA | — | 20d | [apply](https://careers-westernmilling.icims.com/jobs/6372/it-intern/job?in_iframe=1) |
 | Apple Bank | 2027 Summer Intern- Information Security | Summer 2027 | New York, NY | — | 20d | [apply](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416) |
 | 7-Eleven | Information Security Intern | — | Irving, TX | — | 20d | [apply](https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968) |
 | CAI | Server Engineer Intern | — | Remote | — | 20d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/PA-CLIENT-STATE/Server-Engineer-Intern_R8557) |
-| Adient | IT Intern | — | Plymouth, MI | — | 20d | [apply](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29529) |
+| Adient | IT Intern | — | Plymouth, MI | — | 21d | [apply](https://adient.wd3.myworkdayjobs.com/External/job/Plymouth-MI/IT-Intern_R-29529) |
 | Omb Electrical Engineers | IT Intern | — | Houston, TX | — | 21d | [apply](https://recruiting2.ultipro.com/SAL1016SALO/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=1b86fdf0-5610-4f2b-a343-7fb3ef87290c) |
 | CannonDesign | Service Desk Analyst Intern | — | Chicago, IL | — | 21d | [apply](http://www.cannondesign.com/careers/?gh_jid=8883214002) |
 | Microsoft | Cloud Network Engineering Internship Opportunities | — | Redmond, WA | — | 21d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557037856) |
-| Florida Blue | Summer 2027 IT Graduate Internship | Summer 2027 | Jacksonville, FL | — | 21d | [apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue/job/42182) |
-| RF-SMART | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Summer 2027 | Jacksonville, FL | — | 21d | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) |
-| United Way Miami | Help Desk Tech Intern (College Credit) | — | Miami, FL | — | 21d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4563204/89664045-b4a1-49f1-8595-13f992937a6b) |
+| Florida Blue | Summer 2027 IT Graduate Internship | Summer 2027 | Jacksonville, FL | — | 22d | [apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue/job/42182) |
+| RF-SMART | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Summer 2027 | Jacksonville, FL | — | 22d | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) |
+| United Way Miami | Help Desk Tech Intern (College Credit) | — | Miami, FL | — | 22d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4563204/89664045-b4a1-49f1-8595-13f992937a6b) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Protection | 2027 | Laurel, MD | — | 23d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60431/login) |
 | Langan Engineering & Environmental Services | Intern/Co-op - Help Desk (Fall 2026) | Fall 2026 | Parsippany, NJ | — | 24d | [apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4336571009) |
 | MITRE | Cyber Operations Intern | — | Fort Meade - Annapolis Junction, MD | — | 24d | [apply](https://careers.mitre.org/us/en/job/R117487/Cyber-Operations-Intern) |
 | Applied Engineering | IT Support Intern | — | Fargo, ND | — | 25d | [apply](https://www.go-applied.com/careers/openings/?gh_jid=4439159009) |
 | General Dynamics Ordnance | Intern, Technical Support (Test Engineering) | — | Lincoln, NE | — | 25d | [apply](https://careers-gd-ots.icims.com/jobs/37335/intern%2c-technical-support-%28test-engineering%29/job?in_iframe=1) |
 | MITRE | Cybersecurity Engineer Intern | — | McLean, VA | — | 25d | [apply](https://careers.mitre.org/us/en/job/R117737/Cybersecurity-Engineer-Intern) |
-| Crystal Lake Bank and Trust Company, National Association | Wintrust 2027 Summer Internship: Information Technology | Summer 2027 | Rosemont, IL | — | 25d | [apply](https://wintrust.wd1.myworkdayjobs.com/Search/job/Rosemont-IL/Wintrust-2027-Summer-Internship--Information-Technology_261943) |
+| Crystal Lake Bank and Trust Company, National Association | Wintrust 2027 Summer Internship: Information Technology | Summer 2027 | Rosemont, IL | — | 26d | [apply](https://wintrust.wd1.myworkdayjobs.com/Search/job/Rosemont-IL/Wintrust-2027-Summer-Internship--Information-Technology_261943) |
 | West Bend Insurance | Summer 2027 Internship - Information Security | Summer 2027 | West Bend, WI | $20.00/hr–$22.00/hr | 26d | [apply](https://careers-thesilverlining.icims.com/jobs/3792/summer-2027-internship---information-security/job?in_iframe=1) |
 | Enerfab | IT Internship - Spring 2027 | Spring 2027 | Blue Ash, OH | — | 26d | [apply](https://enerfab.applytojob.com/apply/AK3WT2UDpd/IT-Internship-Spring-2027) |
 | iSpace | 2027 Summer Internship - IT Support | Summer 2027 | Englewood, CO | — | 26d | [apply](https://jobs.lever.co/ispace-inc/82a22878-8955-4626-a778-5c246faae222) |
@@ -151,25 +149,23 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Midland States Bank | Intern - Associate Solutions Engineer - Data Warehouse | — | Effingham, IL | — | 28d | [apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---Associate-Solutions-Engineer---Data-Warehouse_JR1462) |
 | Midland States Bank | Intern - AI Solutions Engineer | — | Effingham, IL | — | 28d | [apply](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) |
 | TensorWave | IT Service Desk Intern | — | Las Vegas, NV | — | 28d | [apply](https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5) |
-| Wipfli | SOC Security Internship- Summer 2027 | Summer 2027 | Minneapolis, MN | — | 28d | [apply](https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job?in_iframe=1) |
 | Wellmark Blue Cross and Blue Shield | Security Analyst Internship | — | Des Moines, IA | — | 29d | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152694203) |
 | General Dynamics Ordnance | Intern, Technical Support (Tool &amp; Design) | — | Lincoln, NE | — | 29d | [apply](https://careers-gd-ots.icims.com/jobs/37077/intern%2c-technical-support-%28tool-%26-design%29/job?in_iframe=1) |
 | Fox Plant | IT Intern | — | Denver, CO | — | 29d | [apply](https://recruiting2.ultipro.com/REA1021RYFD/JobBoard/6e144db9-315e-4a06-a5fd-3ac74089e44e/OpportunityDetail?opportunityId=0ab071f3-8079-41e6-bd3c-7ea081b384fa) |
 | Eaton | Internship Program Digital Integrated Solutions Engineer Moon Township Pennsylvania Usa | — | Moon Township, PA | — | 31d | [apply](https://eaton.eightfold.ai/careers/job/687238085352-internship-program-digital-integrated-solutions-engineer-moon-township-pennsylvania-usa-15108) |
 | Diversified Energy | 2027 Summer Intern- Information Technology | Summer 2027 | Birmingham, AL | — | 31d | [apply](https://careers-divenergy.icims.com/jobs/2734/login) |
-| Arch Capital Group | Security Operations Intern | — | Greensboro, NC | — | 31d | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016) |
+| Arch Capital Group | Security Operations Intern | — | Greensboro, NC | — | 32d | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016) |
 | CAI | Cloud Security Analyst Intern | — | CLIENT STATE, FL | — | 32d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/FL-CLIENT-STATE/Cloud-Security-Analyst-Intern_R8668) |
-| First Federal Bank of Kansas City | TS - Application Security Intern - 2027 | 2027 | Cleveland, OH | — | 32d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625) |
 | Space Dynamics Laboratory | Information Security Intern | — | North Logan, UT | — | 32d | [apply](https://spacedynamicslaboratory.applytojob.com/apply/xX5TstngJa/Information-Security-Intern) |
 | Southwest Airlines Pilots Association | Summer 2027 Cybersecurity Engineer Internship 🇺🇸 | Summer 2027 | Remote | — | 33d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Cybersecurity-Engineer-Internship_R-2026-73269) |
 | Microsoft | Security Operations Engineering INTERN | — | Redmond, WA | — | 33d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019490) |
 | CAI | Azure Cloud Security & Monitoring Intern | — | CLIENT STATE, PA | — | 33d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/PA-CLIENT-STATE/Azure-Cloud-Security---Monitoring-Intern_R8641) |
 | LineVision | Information Technology Co-op (Spring 2027) | Spring 2027 | Boston, MA | — | 34d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4478273/e85e8980-8325-4e41-9404-be920804d97d) |
 | DIS | Cyber Security Intern | — | Remote | — | 34d | [apply](https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2) |
-| LOCKHEED MARTIN | Information Technology Intern | — | Fort Worth, TX | — | 34d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477115206) |
-| Motion | Grc Cybersecurity Analyst Intern | — | BIRMINGHAM, AL | — | 34d | [apply](https://jobs.genpt.com/job/birmingham/grc-cybersecurity-analyst-intern/505/101313139856) |
-| Motion | Cloud Sre Intern | — | BIRMINGHAM, AL | — | 34d | [apply](https://jobs.genpt.com/job/birmingham/cloud-sre-intern/505/101313139920) |
-| Motion | Business Application Support Engineer Intern | — | BIRMINGHAM, AL | — | 34d | [apply](https://jobs.genpt.com/job/birmingham/business-application-support-engineer-intern/505/101313139824) |
+| LOCKHEED MARTIN | Information Technology Intern | — | Fort Worth, TX | — | 35d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477115206) |
+| Motion | Grc Cybersecurity Analyst Intern | — | BIRMINGHAM, AL | — | 35d | [apply](https://jobs.genpt.com/job/birmingham/grc-cybersecurity-analyst-intern/505/101313139856) |
+| Motion | Cloud Sre Intern | — | BIRMINGHAM, AL | — | 35d | [apply](https://jobs.genpt.com/job/birmingham/cloud-sre-intern/505/101313139920) |
+| Motion | Business Application Support Engineer Intern | — | BIRMINGHAM, AL | — | 35d | [apply](https://jobs.genpt.com/job/birmingham/business-application-support-engineer-intern/505/101313139824) |
 | MDUR Corp Campus | IT Service Desk Intern | — | Bismarck, ND | — | 35d | [apply](https://recruiting2.ultipro.com/MDU1000MDUR/JobBoard/4b0663c4-cd66-49fa-bb52-7a15933fc0e4/OpportunityDetail?opportunityId=40e8467f-e21b-4349-8283-9c2d960a5af3) |
 | Lifetime Benefit Solutions | College Intern Summer 2027 End User Computing | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.lifetimebenefitsolutions.com/us/en/job/LBSOUSJR104020EXTERNALENUS/College-Intern-Summer-2027-End-User-Computing) |
 | Lifetime Benefit Solutions | College Intern Summer 2027 Cyber Security | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.lifetimebenefitsolutions.com/us/en/job/LBSOUSJR104037EXTERNALENUS/College-Intern-Summer-2027-Cyber-Security) |
@@ -181,7 +177,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Bot Auto | Intern, IT Specialist | — | Houston, TX | — | 35d | [apply](https://job-boards.greenhouse.io/botauto/jobs/5430792008) |
 | Amentum | Service Desk Administrator Internship IRES - SSFB | — | Colorado Springs, CO | — | 35d | [apply](https://veterans.amentumcareers.com/jobs/service-desk-administrator-internship-ires-ssfb/7445E4CAE8894B009833EC93D41C93D0) |
 | Amentum | Network O&S Internship IRES - SSFB/HSV | — | Colorado Springs, CO +1 | — | 35d | [apply](https://veterans.amentumcareers.com/jobs/network-os-internship-ires-ssfbhsv/20075D32396647539443041D267E2C62) |
-| Intact Insurance Specialty Solutions | IT Intern (Hybrid) | — | Canton, MA | — | 35d | [apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=8fb70768-3cee-463f-a0b6-aa47d57a1c62) |
+| Intact Insurance Specialty Solutions | IT Intern (Hybrid) | — | Canton, MA | — | 36d | [apply](https://recruiting.ultipro.com/ONE1004ONEB/JobBoard/72fdae0d-0544-4d81-ae26-562ccfcb8266/OpportunityDetail?opportunityId=8fb70768-3cee-463f-a0b6-aa47d57a1c62) |
 | Excellus BCBS | College Intern Summer 2027 End User Computing | Summer 2027 | Rochester, NY | — | 36d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104020EXTERNALENUS/College-Intern-Summer-2027-End-User-Computing) |
 | Excellus BCBS | College Intern Summer 2027 Cyber Security | Summer 2027 | Rochester, NY | — | 36d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104037EXTERNALENUS/College-Intern-Summer-2027-Cyber-Security) |
 | Excellus BCBS | College Intern Summer 2027 Cyber Defense | Summer 2027 | Rochester, NY | — | 36d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104027EXTERNALENUS/College-Intern-Summer-2027-Cyber-Defense) |
@@ -195,8 +191,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | General Dynamics Ordnance | Intern, Technical Support | — | Springboro, OH | — | 38d | [apply](https://careers-gd-ots.icims.com/jobs/37100/intern%2c-technical-support/job?in_iframe=1) |
 | Saab | Co-Op, IT Support Professional Summer 2027 | Summer 2027 | East Syracuse, NY | — | 38d | [apply](https://saabusa.wd1.myworkdayjobs.com/Saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Summer-2027_R-03294-1) |
 | Saab | Co-Op, IT Support Professional Spring 2027 | Spring 2027 | East Syracuse, NY | — | 38d | [apply](https://saabusa.wd1.myworkdayjobs.com/Saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--IT-Support-Professional-Spring-2027_R-03289-1) |
-| Hylant | Summer 2027 Information Technology Intern | Summer 2027 | Toledo, OH | — | 38d | [apply](https://hylant.wd503.myworkdayjobs.com/Hylant/job/OH---Toledo/Summer-2027-Information-Technology-Intern_JR2026-123) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Internship – Wireless Communications Engineer – Wireless Cyber Capabilities | 2027 | Laurel, MD | — | 38d | [apply](https://studentcareers-jhuapl.icims.com/jobs/59865/login) |
+| Hylant | Summer 2027 Information Technology Intern | Summer 2027 | Toledo, OH | — | 39d | [apply](https://hylant.wd503.myworkdayjobs.com/Hylant/job/OH---Toledo/Summer-2027-Information-Technology-Intern_JR2026-123) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship – Wireless Communications Engineer – Wireless Cyber Capabilities | 2027 | Laurel, MD | — | 39d | [apply](https://studentcareers-jhuapl.icims.com/jobs/59865/login) |
 | Rockwell Collins Simulation & Training Solutions | 2027 Summer Intern - Information Technology - Fort Worth, TX | Summer 2027 | Fort Worth, TX | — | 39d | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1540401) |
 | Rockwell Collins Simulation & Training Solutions | 2027 Intern - Information Technology - Wilmington, MA | 2027 | Wilmington, MA | — | 39d | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1539911) |
 | Rockwell Collins Simulation & Training Solutions | 2027 Intern - Information Technology - Hunt Valley, MD | 2027 | MD | — | 39d | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1539914) |
@@ -204,14 +200,13 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Palantir Technologies | Forward Deployed Infrastructure Engineer, Internship - US Government | — | Palo Alto, CA +1 | — | 39d | [apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
 | Interstate Rock Products | Cyber Security Intern | — | Orem, UT | — | 39d | [apply](https://fitdp-internships-careers-clydeinc.icims.com/jobs/26907/login) |
 | Milliman | IT Support Intern - Milwaukee Property and Casualty - Onsite, Milwaukee WI | — | Brookfield, WI | — | 39d | [apply](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=650b4b1c-03f7-4fa7-b8c4-ece46fdb3e99) |
-| Land 'N' Sea Distributing | Lowrance Technical Support Intern | — | Tulsa, OK | — | 39d | [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Lowrance-Technical-Support-Intern_JR-051732) |
-| Cummins | Information Technology Summer Internship Positions | Summer | Columbus, IN | — | 39d | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437764) |
-| Nuuly | URBN Information Security Intern | — | Philadelphia, PA | — | 39d | [apply](https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job?hub=15&amp;in_iframe=1) |
-| Old Dominion Mechanical | Intern - Security Solutions | — | RICHMOND, VA | — | 40d | [apply](https://careers.dominionenergy.com/job/RICHMOND-Intern-Security-Solutions-VA-23219/1432421000/) |
+| Land 'N' Sea Distributing | Lowrance Technical Support Intern | — | Tulsa, OK | — | 40d | [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Lowrance-Technical-Support-Intern_JR-051732) |
+| Cummins | Information Technology Summer Internship Positions | Summer | Columbus, IN | — | 40d | [apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437764) |
+| Nuuly | URBN Information Security Intern | — | Philadelphia, PA | — | 40d | [apply](https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job?hub=15&amp;in_iframe=1) |
 | L3 Harris | Intern Systems | — | Plano, TX | — | 40d | [apply](https://careers.l3harris.com/en/job/plano/intern-systems/4832/101061116208) |
 | Muon Space | Junior Help Desk Intern (Summer 2027) | Summer 2027 | Mountain View, CA | — | 40d | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5247733007) |
 | AMERISAFE | IT Intern | — | DeRidder, LA | — | 40d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=720a9f55-4306-4ee6-93f6-5c5018a31eaf&jobId=9200953080565_1&lang=en_US) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Engineering for Communications Systems | 2027 | Laurel, MD | — | 40d | [apply](https://studentcareers-jhuapl.icims.com/jobs/59850/login) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship - Engineering for Communications Systems | 2027 | Laurel, MD | — | 41d | [apply](https://studentcareers-jhuapl.icims.com/jobs/59850/login) |
 | United Launch Alliance | Information Technology Internship Summer 2027 | Summer 2027 | Centennial, CO | — | 41d | [apply](https://jobs.ulalaunch.com/job/Centennial-Information-Technology-Internship-Summer-2027-CO-80112/1427399100/) |
 | United Launch Alliance | Cyber Security Internship - Summer 2027 | Summer 2027 | Centennial, CO | — | 41d | [apply](https://jobs.ulalaunch.com/job/Centennial-Cyber-Security-Internship-Summer-2027-CO-80112/1427397700/) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Military Systems Cybersecurity Engineer | 2027 | Laurel, MD | — | 41d | [apply](https://studentcareers-jhuapl.icims.com/jobs/59759/login) |
@@ -223,7 +218,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Headquarters | Information Technology Productivity Enablement Summer 2027 Internship- Hybrid -Des Moines, Iowa | Summer 2027 | Des Moines, IA | — | 41d | [apply](https://recruiting.ultipro.com/AME1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bd095fd-6d28-412f-9b6d-cd4c99f1d521) |
 | Charter Wire | IT Support Technician Intern (Year-Round) | — | Mequon, WI | — | 41d | [apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/IT-Support-Technician-Intern--Year-Round-_R07626) |
 | GM Financial | Intern - IT Support Technician | — | Arlington, TX | — | 41d | [apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260834) |
-| Charter Steel | IT Support Technician Intern (Year-Round) | — | Mequon, WI | — | 41d | [apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Corporate-Office/IT-Support-Technician-Intern--Year-Round-_R07626) |
+| Charter Steel | IT Support Technician Intern (Year-Round) | — | Mequon, WI | — | 42d | [apply](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Corporate-Office/IT-Support-Technician-Intern--Year-Round-_R07626) |
 | Tanium | Cloud Security Intern | — | Durham, NC | — | 42d | [apply](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | RML Specialty Hospital | IT Semester Internship | — | Hinsdale, IL | — | 42d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ab2535a-1b2d-4555-acf9-6293d400c0b6&jobId=9201997586830_1&lang=en_US) |
 | PGTEK | IT Internship - Nutanix - DOD SkillBridge-eligible applicants only | — | Remote | — | 42d | [apply](https://apply.workable.com/pgtek/j/4FB765E4A0/) |
@@ -235,9 +230,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Digital | University - 2027 Summer Games Cyber Security Intern - McLean, VA | Summer 2027 | McLean, VA | — | 42d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878) |
 | Apex, Town of | LSE IT Intern | — | Apex, NC | — | 42d | [apply](https://apexnc.csod.com/ux/ats/careersite/1/job/226?c=apexnc) |
 | Inmar Intelligence | Information Security Internships, Summer 2027 | Summer 2027 | Winston-Salem, NC | — | 42d | [apply](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Information-Security-Internships--Summer-2027_JY2627635) |
-| Volvo Financial Services | Greensboro Intern Technical Support Services %28Spring 2027%29 NC 27409 | 2027 | Greensboro, NC | — | 42d | [apply](https://jobs.volvogroup.com/job/Greensboro-Intern-Technical-Support-Services-%28Spring-2027%29-NC-27409/1369106755/) |
-| PSECU | Service Desk Intern | — | Harrisburg, PA | — | 42d | [apply](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Service-Desk-Intern_JR101027) |
-| GreatAmerica | Service Desk Analyst Intern | — | Cedar Rapids, IA | — | 42d | [apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239) |
+| Volvo Financial Services | Greensboro Intern Technical Support Services %28Spring 2027%29 NC 27409 | 2027 | Greensboro, NC | — | 43d | [apply](https://jobs.volvogroup.com/job/Greensboro-Intern-Technical-Support-Services-%28Spring-2027%29-NC-27409/1369106755/) |
+| PSECU | Service Desk Intern | — | Harrisburg, PA | — | 43d | [apply](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Service-Desk-Intern_JR101027) |
+| GreatAmerica | Service Desk Analyst Intern | — | Cedar Rapids, IA | — | 43d | [apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Service-Desk-Analyst-Intern_JR1239) |
 | Wisconsin | Information Technology Intern - Summer 2027 | Summer 2027 | Neenah, WI | — | 43d | [apply](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=845d88f8-0ab3-4629-9eba-691ed264f90a) |
 | Hospice of the Midwest | IT Intern | — | LOUISVILLE, KY | — | 43d | [apply](https://careers-brightspring.icims.com/jobs/196570/it-intern/job?in_iframe=1) |
 | Old Dominion Mechanical | Intern-Network Services - Columbia SC | — | CAYCE, SC | — | 43d | [apply](https://careers.dominionenergy.com/job/CAYCE-Intern-Network-Services-Columbia-SC-SC-29033/1431108200/) |
@@ -248,21 +243,20 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Shure | Application Systems Development Intern (Motive Mix) | — | Niles, IL | — | 43d | [apply](https://careersus-shure.icims.com/jobs/5021/application-systems-development-intern-%28motive-mix%29/job?in_iframe=1) |
 | Shure | AI Specialist (Operations) Intern | — | Niles, IL | — | 43d | [apply](https://careersus-shure.icims.com/jobs/5029/ai-specialist-%28operations%29-intern/job?in_iframe=1) |
 | Baker Industries, a Lincoln Electric | Cleveland Information Technology Summer 2027 Internship %28Euclid%2C Oh%29 OH 44117 | Summer 2027 | Cleveland, OH | — | 43d | [apply](https://jobs.lincolnelectric.com/job/Cleveland-Information-Technology-Summer-2027-Internship-%28Euclid%2C-Oh%29-OH-44117/1428894433/) |
-| Elire | Summer 2027 Technical Support Internship | Summer 2027 | Minneapolis, MN | — | 43d | [apply](https://jobs.jobvite.com/elire/job/orFIAfw8) |
-| National Information Solutions Cooperative | Intern - Information Security (Cybersecurity) | — | Lake St. Louis, MO +1 | — | 43d | [apply](https://job-boards.greenhouse.io/testnisc/jobs/8191986) |
+| Elire | Summer 2027 Technical Support Internship | Summer 2027 | Minneapolis, MN | — | 44d | [apply](https://jobs.jobvite.com/elire/job/orFIAfw8) |
+| National Information Solutions Cooperative | Intern - Information Security (Cybersecurity) | — | Lake St. Louis, MO +1 | — | 44d | [apply](https://job-boards.greenhouse.io/testnisc/jobs/8191986) |
 | Geauga County | College Internship Information Technology (20097565) | — | Franklin County-Columbus, OH | — | 44d | [apply](https://dasstateoh.taleo.net/careersection/oh_ext/jobdetail.ftl?job=144679) |
 | Geauga County | College Intern - Information Technology - IT Help Desk | — | Franklin County-Columbus, OH | — | 44d | [apply](https://dasstateoh.taleo.net/careersection/oh_ext/jobdetail.ftl?job=146182) |
 | Keros therapeutics | Information Technology (IT) Co-Op | — | Lexington, MA | — | 44d | [apply](https://kerostx.com/current-opportunities?gh_jid=4728073005) |
-| Biogen | 2027 Intern, Information Technology | 2027 | Cambridge, MA | — | 45d | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/XMLNAME-2027-Intern--Information-Technology_REQ24162) |
-| Disney | Infrastructure Engineering Intern, Spring 2027 | Spring 2027 | Burbank, CA | — | 47d | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957) |
+| Biogen | 2027 Intern, Information Technology | 2027 | Cambridge, MA | — | 46d | [apply](https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/XMLNAME-2027-Intern--Information-Technology_REQ24162) |
+| Disney | Infrastructure Engineering Intern, Spring 2027 | Spring 2027 | Burbank, CA | — | 48d | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Infrastructure-Services-Intern--Spring-2027_10159957) |
 | Textron | 2027 Intern - Information Technology - Wilmington, MA | 2027 | Wilmington, MA | — | 48d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539911) |
 | Lycoming Engines | 2027 Intern - Information Technology - Hunt Valley, MD | 2027 | MD | — | 48d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539914) |
 | Bell Textron | 2027 Intern - Information Systems Security - Slidell, LA | 2027 | Slidell, LA | — | 48d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539665) |
 | AlixPartners | Help Desk Intern | — | Dallas, TX | — | 48d | [apply](https://www.alixpartners.com/careers/7996411003?gh_jid=7996411003) |
 | Dominion Energy | GLEN Allen Graduate Intern Engineer ET Operations Enginering Support VA | — | GLEN ALLEN, VA | — | 49d | [apply](https://careers.dominionenergy.com/job/GLEN-ALLEN-Graduate-Intern-Engineer-ET-Operations-Enginering-Support-VA-23060/1429755900/) |
-| DELL | Product & Application Security Undergraduate Intern | — | Round Rock, TX | — | 49d | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002) |
 | Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Summer 2027 | Mount Laurel, NJ | — | 50d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795) |
-| PPG | Service Desk Intern | — | Remote | — | 50d | [apply](https://careers.ppg.com/br/pt/job/PIIPIIUSJR2610350EXTERNALPTBR/Service-Desk-Intern) |
+| PPG | Service Desk Intern | — | Remote | — | 51d | [apply](https://careers.ppg.com/br/pt/job/PIIPIIUSJR2610350EXTERNALPTBR/Service-Desk-Intern) |
 | Genuine Parts | GRC/Cybersecurity Analyst Intern | — | Birmingham, AL | — | 51d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137) |
 | Genuine Parts | Cloud SRE Intern | — | Birmingham, AL | — | 51d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134) |
 | Genuine Parts | Business Application Support Engineer Intern | — | Birmingham, AL | — | 51d | [apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Business-Application-Support-Engineer-Intern_R26_0000029131) |
@@ -274,14 +268,14 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | PACCAR Engine | 2027 Winter Internship - Security Operations Intern | Winter 2027 | Renton, WA | — | 51d | [apply](https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Security-Operations-Intern-WA-98057/1435941033/) |
 | Coca Cola Southwest Beverages | Charlotte Applied Learning Internship Information Technology NC 28211 | — | Charlotte, NC | — | 51d | [apply](https://conaservices.jobs2web.com/consolidated/job/Charlotte-Applied-Learning-Internship-Information-Technology-NC-28211/1427613900/) |
 | Compeer Financial | Intern Infrastructure Engineering | — | Lakeville, MN | — | 51d | [apply](https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008) |
-| RF-SMART | Software Support Engineer Internship (NetSuite) - Summer 2027 | Summer 2027 | Jacksonville, FL | — | 51d | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) |
-| Tanium | Technical Support Engineer (TSE) Intern | — | Bellevue, WA +1 | — | 51d | [apply](https://job-boards.greenhouse.io/tanium/jobs/8189328) |
+| RF-SMART | Software Support Engineer Internship (NetSuite) - Summer 2027 | Summer 2027 | Jacksonville, FL | — | 52d | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5409034008) |
+| Tanium | Technical Support Engineer (TSE) Intern | — | Bellevue, WA +1 | — | 52d | [apply](https://job-boards.greenhouse.io/tanium/jobs/8189328) |
 | CFO Trane U.S. -CFO | 2027 Information Technology Intern | 2027 | Davidson, NC | — | 52d | [apply](https://careers.tranetechnologies.com/global/de/job/JR-7606/2027-Information-Technology-Intern) |
 | Fisher Careers | Information Technology Internship (Summer 2027) | Summer 2027 | Plano, TX | — | 52d | [apply](https://jobs-fishercareers.icims.com/jobs/17998/information-technology-internship-%28summer-2027%29/job?in_iframe=1) |
-| Dedalus Labs | Infrastructure Engineer Intern | — | San Francisco, CA | $30.00/hr–$50.00/hr | 52d | [apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) |
-| C.H. Robinson | Cyber Security Internship 2027 | 2027 | Remote | — | 52d | [apply](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322) |
-| CEI | Digital &amp; Information Technology Internships - Summer 2027 | Summer 2027 | Albany, NY | — | 52d | [apply](https://jobs-challp.icims.com/jobs/7800/digital-%26-information-technology-internships---summer-2027/job?in_iframe=1) |
-| Bedrock Robotics | 2027 Internship Onboard Infrastructure Engineer, ML Inference | 2027 | San Francisco, CA | — | 52d | [apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) |
+| Dedalus Labs | Infrastructure Engineer Intern | — | San Francisco, CA | $30.00/hr–$50.00/hr | 53d | [apply](https://jobs.ashbyhq.com/dedalus-labs/fab1accf-2b21-453b-869f-a08759fa605c) |
+| C.H. Robinson | Cyber Security Internship 2027 | 2027 | Remote | — | 53d | [apply](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322) |
+| CEI | Digital &amp; Information Technology Internships - Summer 2027 | Summer 2027 | Albany, NY | — | 53d | [apply](https://jobs-challp.icims.com/jobs/7800/digital-%26-information-technology-internships---summer-2027/job?in_iframe=1) |
+| Bedrock Robotics | 2027 Internship Onboard Infrastructure Engineer, ML Inference | 2027 | San Francisco, CA | — | 53d | [apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) |
 
 [← back to the front page](../README.md)
 

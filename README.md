@@ -1,6 +1,6 @@
-# 🧑‍🎓 Tech Internships — auto-updated daily
+# 🧑‍🎓 Tech & Engineering Internships — auto-updated daily
 
-**3,262 live internships** (3,983 postings) · last updated `2026-11-03 16:27 UTC`
+**4,376 live internships** (5,686 postings) · last updated `2026-11-03 19:12 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,11 +10,11 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **3,699 of these 3,983 postings (92%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **5,397 of these 5,686 postings (94%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## 📌 Picked out of today's 3,262
+## 📌 Picked out of today's 4,376
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 772 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 988 of today's roles have them.
 
 **[Software Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87)** · Astro Mechanica
 
@@ -22,28 +22,30 @@ San Francisco, CA · $40.00/hr–$55.00/hr · internship · bachelor's · posted
 
 _Asks for:_ Currently pursuing degree, Programming experience, Data structures fundamentals, Algorithms fundamentals
 
+**[J. C. Higgins Corp. Project Engineer Internship](https://careers-emcorgroup.icims.com/jobs/54205/j.-c.-higgins-corp.-project-engineer-internship/job?in_iframe=1)** · EMCOR Services Mesa Energy
+
+Stoughton, MA · $20.00/hr–$25.00/hr · internship · bachelor's · posted 4d
+
+_Asks for:_ Currently pursuing bachelor's or master's degree, Microsoft Office proficiency, Construction drawing comprehension, Strong organizational skills
+
 **[Robotics Systems Intern](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8)** · Astera Institute
 
 Emerybille, CA · $40.00/hr · internship · posted 4d
 
 _Asks for:_ Relevant coursework or projects, Physical system troubleshooting, Mechanical assembly, Electrical wiring
 
-**[Software Engineer Intern - Summer 2027](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036)** · Shield AI
-
-San Diego, CA · Summer 2027 · $25.00/hr–$75.00/hr · internship · bachelor's · posted 5d
-
-_Asks for:_ Currently pursuing degree, Python or C++ programming, Git source control, Debugging and testing
-
 ## Browse by category
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 870 | 91 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 157 | 32 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,133 | 121 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 354 | 34 |
-| [📋 Product & Program](jobs/product-program.md) | 474 | 53 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 274 | 29 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 865 | 89 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 150 | 30 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,351 | 144 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 352 | 32 |
+| [📋 Product & Program](jobs/product-program.md) | 469 | 49 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 268 | 27 |
+| [🏗️ Civil & Environmental](jobs/civil-environmental.md) | 551 | 58 |
+| [✈️ Aerospace & Marine](jobs/aerospace-marine.md) | 370 | 36 |
 
 _Both columns count roles, deduplicated across cities._
 
@@ -65,16 +67,16 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Rocket Lab | Ground Systems Engineering Intern Summer 2027 | 📋 Product & Program | Summer 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
 | Rocket Lab | Ground Systems Engineering Intern Spring 2027 | 📋 Product & Program | Spring 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
 | KLA | Software Engineering Intern | 📋 Product & Program | — | Austin, TX +2 | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
-| Lycoming Engines | 2027 Intern - Program Master Scheduler - Wilmington, MA | 📋 Product & Program | 2027 | Wilmington, MA | — | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545985) |
 | Divergent | Summer 2027 Production Business Intelligence Intern | 📊 Data & Analytics | Summer 2027 | Torrance, CA | — | today | [apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) |
 | The Michaels Organization | Information Technology (IT) Intern | 🖥️ IT & Infrastructure | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
 | The Michaels Organization | Development Intern | 📋 Product & Program | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11227/development-intern/job?in_iframe=1) |
 | CP Skin Health Group | Data Migration and Analytics Co-Op | 📊 Data & Analytics | — | Overland Park, KS | — | today | [apply](https://jobs.colgate.com/job/Overland-Park-Data-Migration-and-Analytics-Co-Op-KS-66062/1447040100/) |
+| VHB | Civil Engineering Intern - Summer 2027 | 🏗️ Civil & Environmental | Summer 2027 | Winooski, VT +2 | — | today | [apply](https://careers-vhb.icims.com/jobs/6509/civil-engineering-intern---summer-2027/job?in_iframe=1) |
 | Zebra Technologies | 2027 Summer Internship (US) - AI | 💻 Software Engineering | Summer 2027 | LINCOLNSHIRE, IL | — | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) |
-| Rockwell Collins Simulation & Training Solutions | 2027 Intern - Program Master Scheduler - Wilmington, MA | 📋 Product & Program | 2027 | Wilmington, MA | — | today | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1545985) |
 | LOCKHEED MARTIN | Systems Engineering Intern - Summer 2027 | 📋 Product & Program | Summer 2027 | Colorado Springs, CO +1 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477461635) |
 | Astro Mechanica | Software Engineering Intern | 📋 Product & Program | — | San Francisco, CA | $40.00/hr–$55.00/hr | today | [apply](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87) |
 | Staples | Software Engineer Intern, Marketplace Platform | 💻 Software Engineering | — | Framingham, MA | — | today | [apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) |
+| Astro Mechanica | Propulsion Engineering Intern | ✈️ Aerospace & Marine | — | San Francisco, CA | $40.00/hr–$55.00/hr | today | [apply](https://jobs.ashbyhq.com/Astro-Mechanica/8406a0b9-d8d6-40ff-b3e1-081a3e68968f) |
 | Plexus Scientific | Intern - Software Engineer (Summer 2027) | 💻 Software Engineering | Summer 2027 | Neenah, WI +1 | — | today | [apply](https://plexus.eightfold.ai/careers/job/1099551218197) |
 | Skydio | Electrical Engineer Intern - Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Remote | — | today | [apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) |
 | Insmed | Summer Intern – Cloud/Application Security | 🖥️ IT & Infrastructure | Summer | Bridgewater, NJ | — | today | [apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879) |
@@ -85,32 +87,32 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 | Employer | Open internships |
 |---|---:|
-| Meta Platforms | 96 |
-| L3Harris Technologies | 65 |
-| LOCKHEED MARTIN | 59 |
-| RAYTHEON | 52 |
-| Johns Hopkins Applied Physics Laboratory | 48 |
-| Qorvo | 45 |
-| Rockwell Collins Simulation & Training Solutions | 42 |
-| Skyworks | 38 |
-| General Dynamics Mission Systems | 35 |
-| Sierra Nevada | 32 |
-| L3 Harris | 29 |
-| KLA | 26 |
-| Microsoft | 25 |
-| Vertos Medical | 25 |
-| Shure | 25 |
+| Meta Platforms | 100 |
+| L3Harris Technologies | 74 |
+| LOCKHEED MARTIN | 68 |
+| RAYTHEON | 57 |
+| Johns Hopkins Applied Physics Laboratory | 49 |
+| Qorvo | 49 |
+| Skyworks | 47 |
+| Rockwell Collins Simulation & Training Solutions | 46 |
+| WSP | 44 |
+| General Dynamics Mission Systems | 41 |
+| AECOM | 37 |
+| Sierra Nevada | 36 |
+| L3 Harris | 35 |
+| Black & Veatch | 34 |
+| Sherwin Williams | 32 |
 
 ## 💰 Highest stated pay
 
-_Of the 104 roles that state a figure — most employers do not._
+_Of the 151 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Netic | Software Engineer (Agent Platform) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
-| Netic | Full-Stack Software Engineer (Product) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 52d | [apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
+| Netic | Software Engineer (Agent Platform) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 53d | [apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
+| Netic | Full-Stack Software Engineer (Product) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 53d | [apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
 | Fab2 | Infrastructure Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f) |
 | Fab2 | Infrastructure Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
 | Fab2 | Fab Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
@@ -125,21 +127,21 @@ _Of the 104 roles that state a figure — most employers do not._
 
 | Term | Roles |
 |---|---:|
-| 2026 | 12 |
-| 2027 | 299 |
+| 2026 | 17 |
+| 2027 | 394 |
 | 2028 | 1 |
 | Fall | 3 |
-| Fall 2026 | 17 |
-| Fall 2027 | 7 |
-| Spring | 32 |
-| Spring 2027 | 146 |
+| Fall 2026 | 19 |
+| Fall 2027 | 10 |
+| Spring | 42 |
+| Spring 2027 | 210 |
 | Spring 2028 | 1 |
-| Summer | 190 |
-| Summer 2027 | 814 |
-| Winter | 23 |
+| Summer | 240 |
+| Summer 2027 | 1,097 |
+| Winter | 32 |
 | Winter 2026 | 2 |
-| Winter 2027 | 42 |
-| _not stated_ | 1,673 |
+| Winter 2027 | 48 |
+| _not stated_ | 2,260 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -147,9 +149,9 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 515 · **TX** 235 · **NY** 204 · **PA** 181 · **MA** 163 · **MD** 125 · **VA** 117 · **WA** 115 · **IL** 108 · **FL** 106 · **MN** 104 · **WI** 103
+**CA** 619 · **TX** 330 · **NY** 244 · **PA** 226 · **MA** 209 · **IL** 178 · **FL** 151 · **MD** 146 · **VA** 145 · **OH** 142 · **WI** 135 · **MN** 134
 
-_117 remote · 0 postings have no location stated._
+_121 remote · 0 postings have no location stated._
 
 ---
 

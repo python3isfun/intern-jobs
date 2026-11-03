@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**160 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
+**161 roles** · updated `2026-11-03 03:34 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (2 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -8,8 +8,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 
 | Company | Role | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|
+| Barclays | Banking Analyst Summer Internship Program 2028 Houston | Summer | Houston, TX | — | today | [apply](https://search.jobs.barclays/job/houston/banking-analyst-summer-internship-program-2028-houston/13015/102785736256) |
 | AmTrust Financial Services | Financial Systems Support Intern - Summer 2027 | Summer 2027 | Dallas, TX | — | today | [apply](https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1) |
-| Aero Automatic Sprinkler | Peachtree City Finance Analyst Intern Southeast District %28Summer 2027%29 GA 30269 | 2027 | Peachtree City, GA | — | today | [apply](https://kiewitcareers.kiewit.com/job/Peachtree-City-Finance-Analyst-Intern-Southeast-District-%28Summer-2027%29-GA-30269/1428609800/) |
+| Healy Tibbitts Builders | Peachtree City Finance Analyst Intern Southeast District %28Summer 2027%29 GA 30269 | 2027 | Peachtree City, GA | — | today | [apply](https://kiewitcareers.kiewit.com/job/Peachtree-City-Finance-Analyst-Intern-Southeast-District-%28Summer-2027%29-GA-30269/1428609800/) |
 | Rockland Trust | Portfolio Risk Analyst Intern | — | Rockland, MA | — | today | [apply](https://eehb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2005/job/3042) |
 | Dow Jones | Summer 2027 Internship Program – Research Analyst Intern | Summer 2027 | Houston, TX | — | 2d | [apply](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55874) |
 | Systems Planning & Analysis | Military Operations Analyst Intern | — | Alexandria, VA | — | 2d | [apply](https://careers-spa.icims.com/jobs/23726/login) |
@@ -17,8 +18,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Meta Platforms | Research Scientist Intern, Video RecSys (PhD) | — | Menlo Park, CA | — | 2d | [apply](https://www.metacareers.com/jobs/1553890293163197/) |
 | Meta Platforms | Research Scientist Intern, Photorealistic Telepresence (PhD) | — | Burlingame, CA +1 | — | 2d | [apply](https://www.metacareers.com/jobs/957720287051540/) |
 | Meta Platforms | Research Scientist Intern, MSL - Agentic Post-Training (PhD) | — | Menlo Park, CA | — | 2d | [apply](https://www.metacareers.com/jobs/1155292783739299/) |
-| Faith Technologies | Real Estate Project Analyst Intern | — | Menasha, WI | — | 2d | [apply](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Real-Estate-Project-Analyst-Intern_R12731-1) |
-| Sierra Nevada | Program Financial Analyst Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 2d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Program-Financial-Analyst-Intern--Summer-2027-_R0031190) |
+| Faith Technologies | Real Estate Project Analyst Intern | — | Menasha, WI | — | 3d | [apply](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Real-Estate-Project-Analyst-Intern_R12731-1) |
+| Sierra Nevada | Program Financial Analyst Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 3d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Program-Financial-Analyst-Intern--Summer-2027-_R0031190) |
 | Marsh McLennan | 2027 Summer Internship Program Sales Operations | Summer 2027 | Spokane, WA | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371102EXTERNALENGLOBAL/2027-Summer-Internship-Program-Sales-Operations) |
 | Marsh McLennan | 2027 Summer Internship Program Cyber Risk Management | Summer 2027 | Boise, ID | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371099EXTERNALENGLOBAL/2027-Summer-Internship-Program-Cyber-Risk-Management) |
 | Marsh McLennan | 2027 Summer Internship Program Crop Risk Management | Summer 2027 | Spokane, WA +1 | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371097EXTERNALENGLOBAL/2027-Summer-Internship-Program-Crop-Risk-Management) |
@@ -46,22 +47,22 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | United Concordia Dental | Summer 2027 Enterprise Risk Governance Program Project Management Undergraduate Intern | Summer 2027 | Pittsburgh, PA | — | 14d | [apply](https://careers.highmarkhealth.org/summer-2027-enterprise-risk-governance-program-project-management-undergraduate-intern/job/P1-7076459-0) |
 | Citi One Realty | Banking Corporate Banking Summer Analyst Houston Us | Summer | Houston, TX | — | 14d | [apply](https://jobs.citi.com/job/houston/banking-corporate-banking-summer-analyst-houston-us-2027/287/102161080864) |
 | Waymo | 2027 Summer Intern Phd Research Scientist Visual Reasoning Mountain View California United States | Summer 2027 | Mountain View, CA | — | 14d | [apply](https://careers.withwaymo.com/jobs/2027-summer-intern-phd-research-scientist-visual-reasoning-mountain-view-california-united-states) |
-| Pitney Bowes | Financial Analyst Intern | — | Remote, VA | — | 17d | [apply](https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/US-VA-Remote/Financial-Analyst-Intern_R22520) |
+| Pitney Bowes | Financial Analyst Intern | — | Remote, VA | — | 18d | [apply](https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/US-VA-Remote/Financial-Analyst-Intern_R22520) |
 | 7-Eleven | Fuel Pricing Analyst Intern | — | Irving, TX | — | 19d | [apply](https://careers.7-eleven.com/job/irving/fuel-pricing-analyst-intern/45445/101921319072) |
-| KLA | Research Scientist Intern - Plasma Light Source Characterization | — | Ann Arbor, MI | — | 19d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) |
+| KLA | Research Scientist Intern - Plasma Light Source Characterization | — | Ann Arbor, MI | — | 20d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) |
 | EHSCareers | Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD) | — | Redmond, WA | — | 20d | [apply](https://www.metacareers.com/jobs/3364701000388712/) |
 | Excellus BCBS | College Intern Summer 2027 Financial Analyst | Summer 2027 | Rochester, NY | — | 21d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104129EXTERNALENUS/College-Intern-Summer-2027-Financial-Analyst) |
 | ProLogis | Investment Analyst Program (IAP) Intern | — | San Francisco, CA | — | 21d | [apply](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/San-Francisco-California/Investment-Analyst-Program--IAP--Intern_R6830) |
 | Elemental LED | Sales Operations Analyst Intern | — | Reno, NV | — | 22d | [apply](https://jobs.smartrecruiters.com/ElementalLEDInc/3743990015970964) |
 | Healy Tibbitts Builders | Omaha Finance Analyst Intern Foundations 2027 NE 68046 | 2027 | Omaha, NE | — | 23d | [apply](https://kiewitcareers.kiewit.com/job/Omaha-Finance-Analyst-Intern-Foundations-2027-NE-68046/1438930300/) |
-| KU Endowment | Investment Analyst Intern | — | Lawrence, KS | — | 23d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4569115/a266bbd7-f7d6-4175-a0c0-f09a89930550) |
+| KU Endowment | Investment Analyst Intern | — | Lawrence, KS | — | 24d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4569115/a266bbd7-f7d6-4175-a0c0-f09a89930550) |
 | USAA | Actuarial Analyst Intern | — | San Antonio, TX | — | 24d | [apply](https://www.usaajobs.com/job/san-antonio/actuarial-analyst-intern/1207/101740266112) |
 | GenBio AI | Research Scientist Intern, AI Molecular Design (Winter/Spring) | Winter | Palo Alto, CA | — | 25d | [apply](https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604) |
 | Intrepid Investment Bankers | 2027 Summer Analyst - Risk Management - Tempe, AZ | Summer 2027 | Tempe, AZ | — | 25d | [apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/XMLNAME-2027-Summer-Analyst---Risk-Management---Tempe--AZ_10079164-WD-2) |
 | Intrepid Investment Bankers | 2027 Summer Analyst - Risk Management - Tampa, FL | Summer 2027 | Tampa, FL | — | 25d | [apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/XMLNAME-2027-Summer-Analyst---Risk-Management---Tampa--FL_10079165-WD-2) |
 | Intrepid Investment Bankers | 2027 Summer Analyst - Risk Management - New York, NY | Summer 2027 | New York, NY | — | 25d | [apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/XMLNAME-2027-Summer-Analyst---Risk-Management---New-York--NY_10079158-WD-2) |
 | Marsh McLennan | Marsh People And Investments Investment Analyst Internship Boston College Program | — | Boston, MA | — | 25d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR368735EXTERNALENGLOBAL/Marsh-People-and-Investments-Investment-Analyst-Internship-Boston-College-Program-2027) |
-| Marsh McLennan | Actuarial Summer Intern College Program | Summer | New York, NY | — | 25d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR366526EXTERNALENGLOBAL/Actuarial-Summer-Intern-College-Program-2027) |
+| Marsh McLennan | Actuarial Summer Intern College Program | Summer | New York, NY | — | 26d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR366526EXTERNALENGLOBAL/Actuarial-Summer-Intern-College-Program-2027) |
 | SAS | Research Analyst Intern | — | Bloomington, MN | — | 26d | [apply](https://ideas-sas.icims.com/jobs/42644/research-analyst-intern/job?hub=9&amp;in_iframe=1) |
 | PacLease - PACCAR Leasing | Renton Summer Internship Operations Support Engineering WA | Summer | Renton, WA | — | 28d | [apply](https://jobs.paccar.com/job/Renton-Summer-Internship-Operations-Support-Engineering-WA-98055/1444445233/) |
 | GlobalFoundries | Finance Project Management & Financial Systems Analyst Intern (Summer 2027) | Summer 2027 | Austin, TX | — | 28d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506199) |
@@ -73,8 +74,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Allegiant | Intern, Financial Analyst (Spring 2027) | Spring 2027 | Las Vegas, NV | — | 32d | [apply](https://jobs.lever.co/allegiantair/637e4751-89ff-4935-a6a0-e913b7452031) |
 | Solidigm | NAND Development Business Operations Intern | — | Rancho Cordova, CA | — | 32d | [apply](https://jobs.smartrecruiters.com/Solidigm/744000152981999) |
 | Microsoft | Financial Analyst Intern: Finance Rotation Program (FRP) | — | Redmond, WA | — | 32d | [apply](https://apply.careers.microsoft.com/careers/job/1970393556944773) |
-| Amca | Engineering Internship, Business Operations (Summer 2027) 🇺🇸 | Summer 2027 | El Segundo, CA | — | 33d | [apply](https://job-boards.greenhouse.io/amca/jobs/4253828009) |
-| Intuitive Health | Research Analyst Intern | — | Sunnyvale, CA | — | 33d | [apply](https://jobs.smartrecruiters.com/Intuitive/744000152549710) |
+| Amca | Engineering Internship, Business Operations (Summer 2027) 🇺🇸 | Summer 2027 | El Segundo, CA | — | 34d | [apply](https://job-boards.greenhouse.io/amca/jobs/4253828009) |
+| Intuitive Health | Research Analyst Intern | — | Sunnyvale, CA | — | 34d | [apply](https://jobs.smartrecruiters.com/Intuitive/744000152549710) |
 | GEICO | Analyst Internship- Actuarial (CFO Org) | — | Bethesda, MD | — | 34d | [apply](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Analyst-Internship--Actuarial--CFO-Org-_R0066117) |
 | Lifetime Benefit Solutions | College Intern Summer 2027 Operations Analyst | Summer 2027 | Rochester, NY | — | 34d | [apply](https://careers.lifetimebenefitsolutions.com/us/en/job/LBSOUSJR104058EXTERNALENUS/College-Intern-Summer-2027-Operations-Analyst) |
 | Lifetime Benefit Solutions | College Intern Summer 2027 Cyber Risk Management | Summer 2027 | Rochester, NY | — | 34d | [apply](https://careers.lifetimebenefitsolutions.com/us/en/job/LBSOUSJR104028EXTERNALENUS/College-Intern-Summer-2027-Cyber-Risk-Management) |
@@ -84,7 +85,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Excellus BCBS | College Intern Summer 2027 Operations Analyst | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104058EXTERNALENUS/College-Intern-Summer-2027-Operations-Analyst) |
 | Excellus BCBS | College Intern Summer 2027 Cyber Risk Management | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104028EXTERNALENUS/College-Intern-Summer-2027-Cyber-Risk-Management) |
 | Healy Tibbitts Builders | Omaha Finance Analyst Intern Home Office %28Summer 2027%29 NE 68046 | 2027 | Omaha, NE | — | 35d | [apply](https://kiewitcareers.kiewit.com/job/Omaha-Finance-Analyst-Intern-Home-Office-%28Summer-2027%29-NE-68046/1426833500/) |
-| National Life | Strategic Operations Analyst Intern - Summer 2027 | Summer 2027 | Addison, TX | — | 35d | [apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) |
+| National Life | Strategic Operations Analyst Intern - Summer 2027 | Summer 2027 | Addison, TX | — | 36d | [apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) |
 | Knutson Construction Services | Equipment Operations Analyst Intern - Summer 2027 | Summer 2027 | Cannon Falls, MN | — | 36d | [apply](https://knutson-construction.breezy.hr/p/f739257d3d8c-equipment-operations-analyst-intern-summer-2027) |
 | Veolia | Cost Accounting Analyst Intern | — | Minnetonka, MN | — | 38d | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948159) |
 | Texas Instruments | Product Operations Analyst - Encore Program Internship | — | Dallas, TX | — | 38d | [apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018245) |
@@ -96,7 +97,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Qorvo | Richardson Research Scientist Intern TX 75081 | — | Richardson, TX | — | 40d | [apply](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75081/1424726100/) |
 | Qorvo | Richardson Research Scientist Intern TX 75080 | — | Richardson, TX | — | 40d | [apply](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Decision Systems | 2027 | Laurel, MD | — | 40d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60036/login) |
-| Veolia | Cost Accounting Analyst - Intern | — | Minnetonka, MN | — | 40d | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151149689) |
+| Veolia | Cost Accounting Analyst - Intern | — | Minnetonka, MN | — | 41d | [apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151149689) |
 | Citizens Wealth Management | 2027 Summer Analyst Sales And Trading And Equity Research New York Ny | Summer 2027 | New York, NY | — | 41d | [apply](https://jobs.citizensbank.com/job/new-york/2027-summer-analyst-sales-and-trading-and-equity-research-new-york-ny/288/100995739232) |
 | GM Financial | Intern - Credit Risk Analyst | — | Fort Worth, TX | — | 41d | [apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260794) |
 | Transamerica | Portfolio Analyst Intern (Summer 2027 and Fall 2027) | Summer 2027 | Cedar Rapids, IA | — | 41d | [apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Portfolio-Analyst-Intern--Summer-2027-and-Fall-2027-_R20062748) |

@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech Internships — auto-updated daily
 
-**3,335 live internships** (4,140 postings) · last updated `2026-11-03 01:02 UTC`
+**3,305 live internships** (4,062 postings) · last updated `2026-11-03 03:34 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,24 +10,11 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **3,859 of these 4,140 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **3,782 of these 4,062 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## Browse by category
+## 📌 Picked out of today's 3,305
 
-| Category | Open roles | New this week |
-|---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 878 | 102 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 160 | 32 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,166 | 134 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 365 | 42 |
-| [📋 Product & Program](jobs/product-program.md) | 487 | 61 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 279 | 29 |
-
-_Both columns count roles, deduplicated across cities._
-
-## 📌 Picked out of today's 3,335
-
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 795 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 779 of today's roles have them.
 
 **[Software Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87)** · Astro Mechanica
 
@@ -47,6 +34,19 @@ San Diego, CA · Summer 2027 · $25.00/hr–$75.00/hr · internship · bachelor'
 
 _Asks for:_ Currently pursuing degree, Python or C++ programming, Git source control, Debugging and testing
 
+## Browse by category
+
+| Category | Open roles | New this week |
+|---|---:|---:|
+| [💻 Software Engineering](jobs/software-engineering.md) | 874 | 100 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 161 | 33 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,151 | 133 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 360 | 42 |
+| [📋 Product & Program](jobs/product-program.md) | 482 | 60 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 277 | 30 |
+
+_Both columns count roles, deduplicated across cities._
+
 ## 🆕 Latest 25 roles
 
 At most 2 per employer, so one big hirer cannot fill the page.
@@ -55,14 +55,17 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
+| Motorola Solutions | Software Engineer Cybersecurity Services - 2027 Summer Internship 🇺🇸 | 💻 Software Engineering | Summer 2027 | Remote | — | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) |
+| Pet Supplies Plus | Intern- Product Development (In Office Monday-Wednesday) | 🔌 Hardware & Electrical (ECE) | — | MI | — | today | [apply](https://careers-petsuppliesplus.icims.com/jobs/19418/intern--product-development-%28in-office-monday-wednesday%29/job?in_iframe=1) |
+| CAI | Cybersecurity Analyst Intern | 🖥️ IT & Infrastructure | — | CLIENT STATE, VA +2 | — | today | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892) |
+| Barclays | Banking Analyst Summer Internship Program 2028 Houston | 📈 Quant & Trading | Summer | Houston, TX | — | today | [apply](https://search.jobs.barclays/job/houston/banking-analyst-summer-internship-program-2028-houston/13015/102785736256) |
 | LOCKHEED MARTIN | Systems Engineering Intern | 📋 Product & Program | — | King of Prussia, PA +1 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477077344) |
-| BANNER MEDICAL GROUP COLORADO | IT Intern | 🖥️ IT & Infrastructure | — | Remote | — | today | [apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4449625) |
+| University Health | IT Intern | 🖥️ IT & Infrastructure | — | Remote | — | today | [apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4449625) |
 | Johnson Controls | HVAC Control Systems Engineering Intern | 📋 Product & Program | — | Milwaukee, WI | — | today | [apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523) |
 | Rocket Lab | Ground Systems Engineering Intern Summer 2027 | 📋 Product & Program | Summer 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
 | Rocket Lab | Ground Systems Engineering Intern Spring 2027 | 📋 Product & Program | Spring 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
 | KLA | Software Engineering Intern | 📋 Product & Program | — | Austin, TX +2 | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
 | Lycoming Engines | 2027 Intern - Program Master Scheduler - Wilmington, MA | 📋 Product & Program | 2027 | Wilmington, MA | — | today | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545985) |
-| Metro by T Mobile Authorized Retailer | Summer 2027 Software Engineering Internship | 📋 Product & Program | Summer 2027 | New York, NY | — | today | [apply](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886/apply) |
 | Divergent | Summer 2027 Production Business Intelligence Intern | 📊 Data & Analytics | Summer 2027 | Torrance, CA | — | today | [apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) |
 | The Michaels Organization | Information Technology (IT) Intern | 🖥️ IT & Infrastructure | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
 | The Michaels Organization | Development Intern | 📋 Product & Program | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11227/development-intern/job?in_iframe=1) |
@@ -75,11 +78,8 @@ At most 2 per employer, so one big hirer cannot fill the page.
 | Plexus Scientific | Intern - Software Engineer (Summer 2027) | 💻 Software Engineering | Summer 2027 | Neenah, WI +1 | — | today | [apply](https://plexus.eightfold.ai/careers/job/1099551218197) |
 | Skydio | Electrical Engineer Intern - Summer 2027 | 🔌 Hardware & Electrical (ECE) | Summer 2027 | Remote | — | today | [apply](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4) |
 | Insmed | Summer Intern – Cloud/Application Security | 🖥️ IT & Infrastructure | Summer | Bridgewater, NJ | — | today | [apply](https://insmed.wd504.myworkdayjobs.com/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879) |
+| Metro by T Mobile Authorized Retailer | Summer 2027 Software Engineering Internship | 📋 Product & Program | Summer 2027 | New York, NY | — | today | [apply](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886/apply) |
 | KLA | Software Engineer (AI/ML) Intern | 💻 Software Engineering | — | Austin, TX | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1) |
-| Magnaflux | Mechanical Engineering Intern Summer | 🔌 Hardware & Electrical (ECE) | Summer | Lake Forest, IL +1 | — | today | [apply](https://careers.itw.com/us/en/job/JR10688/Mechanical-Engineering-Intern-Summer-2027) |
-| Garmin | IT Storage Administrator Intern | 💻 Software Engineering | — | Olathe, KS | — | today | [apply](https://careers-garmin.icims.com/jobs/20446/login) |
-| Digital | University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI | 📊 Data & Analytics | Summer 2027 | Royal Oak, MI | — | today | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) |
-| Microsoft | Software Engineer: Internship Opportunities | 💻 Software Engineering | — | Aliso Viejo, CA | — | today | [apply](https://apply.careers.microsoft.com/careers/job/1970393557044764) |
 
 ## 🔥 Most-hiring employers
 
@@ -103,7 +103,7 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 ## 💰 Highest stated pay
 
-_Of the 116 roles that state a figure — most employers do not._
+_Of the 105 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
@@ -126,20 +126,20 @@ _Of the 116 roles that state a figure — most employers do not._
 | Term | Roles |
 |---|---:|
 | 2026 | 13 |
-| 2027 | 310 |
+| 2027 | 307 |
 | 2028 | 1 |
 | Fall | 3 |
-| Fall 2026 | 18 |
+| Fall 2026 | 17 |
 | Fall 2027 | 7 |
 | Spring | 32 |
 | Spring 2027 | 147 |
 | Spring 2028 | 1 |
 | Summer | 191 |
-| Summer 2027 | 832 |
+| Summer 2027 | 820 |
 | Winter | 23 |
 | Winter 2026 | 2 |
 | Winter 2027 | 43 |
-| _not stated_ | 1,712 |
+| _not stated_ | 1,698 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -147,9 +147,9 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 531 · **TX** 238 · **NY** 203 · **PA** 181 · **MA** 164 · **MD** 126 · **WA** 117 · **VA** 116 · **IL** 112 · **MN** 110 · **FL** 109 · **WI** 104
+**CA** 519 · **TX** 239 · **NY** 204 · **PA** 181 · **MA** 163 · **MD** 126 · **VA** 117 · **WA** 116 · **IL** 109 · **FL** 107 · **MN** 106 · **WI** 104
 
-_116 remote · 0 postings have no location stated._
+_117 remote · 0 postings have no location stated._
 
 ---
 

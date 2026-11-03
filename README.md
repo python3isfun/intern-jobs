@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech Internships — auto-updated daily
 
-**3,398 live internships** (4,152 postings) · last updated `2026-11-02 23:58 UTC`
+**3,395 live internships** (4,149 postings) · last updated `2026-11-03 00:13 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,17 +10,17 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **3,871 of these 4,152 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **3,868 of these 4,149 postings (93%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
 ## Browse by category
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 883 | 103 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 160 | 32 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 881 | 103 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 159 | 32 |
 | [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,192 | 135 |
 | [📊 Data & Analytics](jobs/data-analytics.md) | 387 | 43 |
-| [📋 Product & Program](jobs/product-program.md) | 494 | 59 |
+| [📋 Product & Program](jobs/product-program.md) | 494 | 58 |
 | [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 282 | 28 |
 
 _Both columns count roles, deduplicated across cities._
@@ -39,7 +39,7 @@ _Both columns count roles, deduplicated across cities._
 | Spring 2027 | 147 |
 | Spring 2028 | 1 |
 | Summer | 197 |
-| Summer 2027 | 868 |
+| Summer 2027 | 865 |
 | Winter | 23 |
 | Winter 2026 | 2 |
 | Winter 2027 | 44 |
@@ -47,7 +47,7 @@ _Both columns count roles, deduplicated across cities._
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
-Machine-readable: [`data/listings.json`](data/listings.json) — all 4,152 postings, with extra fields.
+Machine-readable: [`data/listings.json`](data/listings.json) — all 4,149 postings, with extra fields.
 
 ## 🆕 Latest 25 roles
 
@@ -122,7 +122,7 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 ## 📍 Top locations
 
-**CA** 547 · **TX** 238 · **NY** 204 · **PA** 184 · **MA** 164 · **MD** 126 · **WA** 123 · **IL** 117 · **VA** 116 · **NC** 111 · **MN** 111 · **FL** 110
+**CA** 546 · **TX** 238 · **NY** 204 · **PA** 184 · **MA** 164 · **MD** 126 · **WA** 123 · **IL** 117 · **VA** 116 · **NC** 111 · **MN** 111 · **FL** 110
 
 _115 remote · 0 postings have no location stated._
 

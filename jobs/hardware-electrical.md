@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**1,192 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**1,192 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (128 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -60,7 +60,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Astronics | Mechanical Engineer Intern - Summer 2027 | Summer 2027 | Kirkland, WA | — | 3d | [apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009) |
 | Rendezvous Robotics | Manufacturing and Test Engineering Intern (Summer 2027) | Summer 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009) |
 | Rendezvous Robotics | Manufacturing and Test Engineering Intern (Spring 2027) | Spring 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332082009) |
-| Sotreq Agro - Valtra | Validation Engineering Co-op (May-December) | — | Hesston, KS | — | 3d | [apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-%28May-December%29-KS-67062/1445202600/) |
+| Sotreq Agro - Valtra | Validation Engineering Co-op (May-December) | — | Hesston, KS | — | 4d | [apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-%28May-December%29-KS-67062/1445202600/) |
 | GlobalFoundries | Digital Design Backend Engineering Intern, 3D and AI Flows | — | Santa Clara, CA | — | 4d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506107) |
 | Hargrove Controls & Automation | Controls + Automation Engineering Co-Op | — | Mobile, AL +1 | — | 4d | [apply](https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/Mobile-AL/Controls---Automation-Engineering-Co-Op_2026-001273) |
 | NORTHROP GRUMMAN | 2027 Thermal Mechanical Engineer Internship - Hanover MD | 2027 | Hanover, MD | — | 4d | [apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425) |
@@ -113,9 +113,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Renesas | Digital Design Electrical Engineer Intern | — | Austin, TX | — | 5d | [apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000157896855) |
 | MAYO CLINIC HEALTH SYSTEM-SOUTHWEST WISCONSIN REGION | Undergraduate Engineering Intern Mechanical Design | — | Rochester, MN | — | 5d | [apply](https://jobs.mayoclinic.org/job/rochester/undergraduate-engineering-intern-mechanical-design/33647/102511813152) |
 | MAYO CLINIC HEALTH SYSTEM-SOUTHWEST WISCONSIN REGION | Graduate Engineering Intern Electronics | — | Rochester, MN | — | 5d | [apply](https://jobs.mayoclinic.org/job/rochester/graduate-engineering-intern-electronics/33647/102511812720) |
-| Pepperidge Farm | Packaging Engineer Co-Op | — | Camden, NJ | — | 5d | [apply](https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Packaging-Engineer-Co-Op_Req-68753/apply) |
-| Black & Veatch | Overland Park Electrical Engineer Intern Federal KS 66062 | — | Overland Park, KS | — | 5d | [apply](https://careers.bv.com/job/Overland-Park-Electrical-Engineer-Intern-Federal-KS-66062/1451930533/) |
-| Olsson | Mechanical Engineering Internship - Data Center Facilities | — | North Kansas City, MO +2 | — | 5d | [apply](https://job-boards.greenhouse.io/olsson/jobs/5465496008) |
+| Pepperidge Farm | Packaging Engineer Co-Op | — | Camden, NJ | — | 6d | [apply](https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Packaging-Engineer-Co-Op_Req-68753/apply) |
+| Black & Veatch | Overland Park Electrical Engineer Intern Federal KS 66062 | — | Overland Park, KS | — | 6d | [apply](https://careers.bv.com/job/Overland-Park-Electrical-Engineer-Intern-Federal-KS-66062/1451930533/) |
+| Olsson | Mechanical Engineering Internship - Data Center Facilities | — | North Kansas City, MO +2 | — | 6d | [apply](https://job-boards.greenhouse.io/olsson/jobs/5465496008) |
 | WSP | Mechanical Engineering Intern - Summer 2027 | Summer 2027 | Tempe, AZ +2 | — | 6d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98372) |
 | Peak Energy | Electrical Design Engineer Intern (Spring 2027) | Spring 2027 | Burlingame, CA | — | 6d | [apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272533007&gh_jid=5272533007) |
 | L3Harris Technologies | Clifton Electrical Engineer Intern NJ 07014 | — | Clifton, NJ | — | 6d | [apply](https://jobs.l3harris.com/job/Clifton-Electrical-Engineer-Intern-NJ-07014/1444301600/) |
@@ -361,7 +361,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | KLA | Product Development Intern - Electron Beam Instrumentation | — | Ann Arbor, MI | — | 19d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030) |
 | RAYTHEON | Industrial Engineering Intern Summer | Summer | coralville, IA | — | 19d | [apply](https://careers.rtx.com/ca/fr/job/01885606/Industrial-Engineering-Intern-Summer-2027) |
 | Whole Foods Market | Hardware Development Engineer Intern, Summer 2027 | Summer 2027 | Sunnyvale, CA | — | 19d | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
-| Caravan Foods | Hardware Development Engineer Intern, Summer 2027 | Summer 2027 | Sunnyvale, CA | — | 19d | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
+| Caravan Foods | Hardware Development Engineer Intern, Summer 2027 | Summer 2027 | Sunnyvale, CA | — | 20d | [apply](https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
 | Motorola Solutions | Electrical Engineer / PCB Designer Intern - Summer 2027 | Summer 2027 | Plantation, FL | — | 20d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) |
 | Muon Space | Spacecraft Test Engineering Intern (Summer 2027) | Summer 2027 | San Jose, CA | — | 20d | [apply](https://job-boards.greenhouse.io/muonspace/jobs/5256288007) |
 | Bell Textron | 2027 Intern - Electrical Engineer (Sea Systems) – Hunt Valley, MD | 2027 | MD | — | 20d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545281) |
@@ -381,7 +381,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Life Fitness / Hammer Strength | Mechanical Engineering Intern | — | Schaumburg, IL | — | 20d | [apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Mechanical-Engineering-Intern_JR-025279) |
 | Nordstrom | Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Riverside, CA | Summer 2027 | Riverside, CA | — | 20d | [apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Riverside-CA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Riverside--CA_R-886446) |
 | Nordstrom | Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA | Summer 2027 | Dubuque, IA | — | 20d | [apply](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) |
-| RAYTHEON | Electrical Engineer Intern Summer2027 Onsite | Summer 2027 | mckinney, TX | — | 20d | [apply](https://careers.rtx.com/cn/zh/job/01880018/Electrical-Engineer-Intern-Summer2027-Onsite) |
+| RAYTHEON | Electrical Engineer Intern Summer2027 Onsite | Summer 2027 | mckinney, TX | — | 21d | [apply](https://careers.rtx.com/cn/zh/job/01880018/Electrical-Engineer-Intern-Summer2027-Onsite) |
 | GAF | R&D Residential Product Development Engineer Intern | — | Parsippany, NJ | — | 21d | [apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/R-D-Residential-Product-Development-Engineer-Intern_26416) |
 | Advanced Energy Industries | Intern - Electrical Engineer | — | Milpitas, CA | — | 21d | [apply](https://jobs.advanced-energy.com/job/Redwood-City-Intern-Electrical-Engineer-CA-94063/1439310200/) |
 | Robert Bosch Semiconductor | Manufacturing Engineer Intern - Summer 2027 | Summer 2027 | Lincolnshire, IL | — | 21d | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000155100809) |
@@ -415,7 +415,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Applied Materials Korea | 2027 Summer Electrical Engineer Intern Controls Pcb Bs Or Ms Gloucester Ma | Summer 2027 | Gloucester, MA | — | 23d | [apply](https://jobs.appliedmaterials.com/job/gloucester/2027-summer-electrical-engineer-intern-controls-pcb-bs-or-ms-gloucester-ma/95/101774402144) |
 | Dominion Energy | Waterford Nuclear Intern Electrical Engineering Millstone CT | — | WATERFORD, CT | — | 23d | [apply](https://careers.dominionenergy.com/job/WATERFORD-Nuclear-Intern-Electrical-Engineering-Millstone-CT-06385/1438265500/) |
 | Dominion Energy | Mineral Nuclear Intern Mechanical Engineering Maintenance Support Engineering North Anna VA | — | MINERAL, VA | — | 23d | [apply](https://careers.dominionenergy.com/job/MINERAL-Nuclear-Intern-Mechanical-Engineering-Maintenance-Support-Engineering-North-Anna-VA-23117/1438275800/) |
-| JABIL | Automation Engineering Intern | — | Clinton, MA | — | 23d | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Automation-Engineering-Intern_J2466618) |
+| JABIL | Automation Engineering Intern | — | Clinton, MA | — | 24d | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Automation-Engineering-Intern_J2466618) |
 | Westinghouse Electric | Rock Hill Summer Intern Energy Storage Mechanical Engineering SC 29730 | Summer | Rock Hill, SC | — | 24d | [apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Energy-Storage-Mechanical-Engineering-SC-29730/1438863800/) |
 | Westinghouse Electric | Rock Hill Summer Intern Electrical Engineering SC 29730 | Summer | Rock Hill, SC | — | 24d | [apply](https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Electrical-Engineering-SC-29730/1438867400/) |
 | Harbinger | Intern, Test Engineering | — | Garden Grove, CA | — | 24d | [apply](https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007) |
@@ -773,7 +773,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | NVIDIA | Product Design Intern, AI Infrastructure - Summer 2027 | Summer 2027 | Santa Clara, CA | — | 40d | [apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784) |
 | Moog | Intern, Test Engineering | — | Buffalo, NY | — | 40d | [apply](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1) |
 | Hermeus | Propulsion Test Engineering Intern - Spring/Summer/Fall 2027 | Spring | Jacksonville, FL | — | 40d | [apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) |
-| Indorama Ventures: Indovinya | Industrial Engineer Intern | — | Port Neches, TX | — | 40d | [apply](https://ivlglobaliod.wd1.myworkdayjobs.com/Indovinya/job/Port-Neches-TX/Mechanical-Engineer-Intern-2_JR101536) |
+| Indorama Ventures: Indovinya | Industrial Engineer Intern | — | Port Neches, TX | — | 41d | [apply](https://ivlglobaliod.wd1.myworkdayjobs.com/Indovinya/job/Port-Neches-TX/Mechanical-Engineer-Intern-2_JR101536) |
 | Draper | Electrical Engineering Co-Op (Spring 2027) 🇺🇸 | Spring 2027 | Cambridge, MA | — | 41d | [apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941) |
 | Axon by AppLovin | 2027 US Mechanical Engineering Internship | 2027 | Scottsdale, AZ | — | 41d | [apply](https://job-boards.greenhouse.io/axon/jobs/7978840003) |
 | Amrize Building Envelope | Whitehall Electrical Engineer Intern %28Summer 2027%29 PA 18052 | 2027 | Whitehall, PA | — | 41d | [apply](https://careers.amrize.com/amrize/job/Whitehall-Electrical-Engineer-Intern-%28Summer-2027%29-PA-18052/1437374000/) |
@@ -953,7 +953,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Textron | 2027 Co-Op - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539716) |
 | Textron | 2027 Co-Op - Electrical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539759) |
 | Amrize Building Envelope | Midlothian Mechanical Engineer Intern %28Summer 2027%29 TX 76065 | 2027 | Midlothian, TX | — | 47d | [apply](https://careers.amrize.com/amrize/job/Midlothian-Mechanical-Engineer-Intern-%28Summer-2027%29-TX-76065/1432683500/) |
-| Entergy | Student Intern Electrical Engineering Summer 2027 | Summer 2027 | New Orleans, LA | — | 47d | [apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern-Electrical-Engineering-Summer-2027-Arka/1430294700/) |
+| Entergy | Student Intern Electrical Engineering Summer 2027 | Summer 2027 | New Orleans, LA | — | 48d | [apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern-Electrical-Engineering-Summer-2027-Arka/1430294700/) |
 | Alpine, an ITW | Mechanical Engineering Intern - Bernard - Beecher, IL | — | Beecher, IL | — | 48d | [apply](https://itw.wd5.myworkdayjobs.com/External/job/Beecher---60401/Mechanical-Engineering-Intern---Bernard---Beecher--IL_JR10109) |
 | Whole Foods Market | Hardware Development Engineer Intern , Winter 2027 | Winter 2027 | Bellevue, WA | — | 48d | [apply](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) |
 | Bay Food Distribution | Packaging Engineer Co-Op 2027 | 2027 | Oak Brook, IL | — | 48d | [apply](https://treehouse.wd1.myworkdayjobs.com/TreeHouseCareers/job/USA-IL-Oak-Brook/Packaging-Engineer-Co-Op-2027_R30987) |

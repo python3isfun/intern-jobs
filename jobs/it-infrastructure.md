@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**282 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**282 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (8 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -31,7 +31,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Sierra Nevada | Security Specialist Intern (Summer 2027) | Summer 2027 | Arlington, VA | — | 5d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250) |
 | Sierra Nevada | IT Service Desk Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 5d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251) |
 | Sierra Nevada | Cybersecurity Analyst Intern | — | Sparks, NV | — | 5d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269) |
-| Computer World Services | COOP Site Support Technician / ORT Analyst (Senior) | — | Indianapolis, IN | — | 5d | [apply](https://jobs.lever.co/cwsc/9b1bb556-b315-4eed-a50d-e1b5347fcbd9) |
+| Computer World Services | COOP Site Support Technician / ORT Analyst (Senior) | — | Indianapolis, IN | — | 6d | [apply](https://jobs.lever.co/cwsc/9b1bb556-b315-4eed-a50d-e1b5347fcbd9) |
 | Stifel Bank and Trust | Operations - Technical Support Intern- Summer 2027 | Summer 2027 | Saint Louis, MO | — | 6d | [apply](https://careers-stifel.icims.com/jobs/10133/operations---technical-support-intern--summer-2027/job?in_iframe=1) |
 | BXP | Cyber Security Co-Op | — | Boston, MA | — | 6d | [apply](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/26173) |
 | Sherwin Williams | R&D IT Summer Internship- Brecksville, OH | Summer | Brecksville, OH | — | 6d | [apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627637) |
@@ -155,7 +155,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Wipfli | SOC Security Internship- Summer 2027 | Summer 2027 | Minneapolis, MN | — | 28d | [apply](https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job?in_iframe=1) |
 | Wellmark Blue Cross and Blue Shield | Security Analyst Internship | — | Des Moines, IA | — | 28d | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000152694203) |
 | General Dynamics Ordnance | Intern, Technical Support (Tool &amp; Design) | — | Lincoln, NE | — | 28d | [apply](https://careers-gd-ots.icims.com/jobs/37077/intern%2c-technical-support-%28tool-%26-design%29/job?in_iframe=1) |
-| Fox Plant | IT Intern | — | Denver, CO | — | 28d | [apply](https://recruiting2.ultipro.com/REA1021RYFD/JobBoard/6e144db9-315e-4a06-a5fd-3ac74089e44e/OpportunityDetail?opportunityId=0ab071f3-8079-41e6-bd3c-7ea081b384fa) |
+| Fox Plant | IT Intern | — | Denver, CO | — | 29d | [apply](https://recruiting2.ultipro.com/REA1021RYFD/JobBoard/6e144db9-315e-4a06-a5fd-3ac74089e44e/OpportunityDetail?opportunityId=0ab071f3-8079-41e6-bd3c-7ea081b384fa) |
 | Eaton | Internship Program Digital Integrated Solutions Engineer Moon Township Pennsylvania Usa | — | Moon Township, PA | — | 30d | [apply](https://eaton.eightfold.ai/careers/job/687238085352-internship-program-digital-integrated-solutions-engineer-moon-township-pennsylvania-usa-15108) |
 | Diversified Energy | 2027 Summer Intern- Information Technology | Summer 2027 | Birmingham, AL | — | 31d | [apply](https://careers-divenergy.icims.com/jobs/2734/login) |
 | Arch Capital Group | Security Operations Intern | — | Greensboro, NC | — | 31d | [apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016) |

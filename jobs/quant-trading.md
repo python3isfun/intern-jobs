@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**160 roles** · updated `2026-11-02 23:58 UTC` · [← all categories](../README.md)
+**159 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (2 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -102,8 +102,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Transamerica | Portfolio Analyst Intern (Summer 2027 and Fall 2027) | Summer 2027 | Cedar Rapids, IA | — | 41d | [apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Portfolio-Analyst-Intern--Summer-2027-and-Fall-2027-_R20062748) |
 | Transamerica | Portfolio Analyst Intern (Spring 2027, Summer 2027, and Fall 2027) | Spring 2027 | Cedar Rapids, IA | — | 41d | [apply](https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Portfolio-Analyst-Intern--January-2027---January-2028-_R20062747) |
 | Protective Life | 2027 Actuarial Summer Internship Program | 2027 | Birmingham, AL | — | 41d | [apply](https://jobs.lever.co/protective/7b33ba4a-e8f9-4f69-aad3-4e0d0028597d) |
-| Citizens Wealth Management | 2027 Investment Banking Summer Analyst Richmond Va | 2027 | Richmond, VA | — | 41d | [apply](https://jobs.citizensbank.com/job/richmond/2027-investment-banking-summer-analyst-richmond-va/288/100948023504) |
-| Citizens Wealth Management | 2027 Investment Banking Summer Analyst Baltimore Md | 2027 | Baltimore, MD | — | 41d | [apply](https://jobs.citizensbank.com/job/baltimore/2027-investment-banking-summer-analyst-baltimore-md/288/100948023568) |
+| Citizens Wealth Management | 2027 Investment Banking Summer Analyst Richmond Va | 2027 | Richmond, VA | — | 42d | [apply](https://jobs.citizensbank.com/job/richmond/2027-investment-banking-summer-analyst-richmond-va/288/100948023504) |
+| Citizens Wealth Management | 2027 Investment Banking Summer Analyst Baltimore Md | 2027 | Baltimore, MD | — | 42d | [apply](https://jobs.citizensbank.com/job/baltimore/2027-investment-banking-summer-analyst-baltimore-md/288/100948023568) |
 | Hudson Advisors L.P | Summer Analyst, Commercial Real Estate | Summer | Dallas, TX | — | 42d | [apply](https://fa-exvv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Hudson/job/1125) |
 | HarperCollins Publishers | 2027 Summer Internship - Systems/Business Analyst (NYC) | Summer 2027 | New York, NY | — | 42d | [apply](https://careers-harpercollins.icims.com/jobs/5459/2027-summer-internship---systems-business-analyst-%28nyc%29/job?in_iframe=1) |
 | Intuitive Health | Accounting Analyst Intern | — | Sunnyvale, CA | — | 42d | [apply](https://jobs.smartrecruiters.com/Intuitive/744000150742000) |
@@ -114,7 +114,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | AQR Capital Management | 2027 Research Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
 | AQR Capital Management | 2027 Quantitative Prediction Markets Research Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | AQR Capital Management | 2027 Portfolio Finance Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) |
-| Spectrum News | 2027 Summer Intern Associate Business Planning Analyst | Summer 2027 | Stamford, CT | — | 44d | [apply](https://jobs.spectrum.com/job/stamford/2027-summer-intern-associate-business-planning-analyst/4673/100830276672) |
 | Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Summer 2027 | Menlo Park, CA | — | 48d | [apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
 | New York Life | 2027 Actuarial Summer Internship Program | 2027 | New York, NY | — | 50d | [apply](https://jobs.newyorklife.com/job/New-York-2027-Actuarial-Summer-Internship-Program-NY-10001/1414081300/) |
 | Bestow | Business Operations and AI Intern | — | Dallas, TX | $20.00/hr–$25.00/hr | 50d | [apply](https://jobs.ashbyhq.com/bestow/df5ebc0c-435d-430b-b0e3-23f36cb0389d) |

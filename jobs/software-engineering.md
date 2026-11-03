@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**880 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**878 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (52 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -110,7 +110,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Digital | University - 2027 Summer Games, Systems Engineer Intern - Dayton, OH | Summer 2027 | Dayton, OH | — | 6d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342) |
 | L3 Harris | Intern Software Engineer Clifton Nj | — | Clifton, NJ | — | 6d | [apply](https://careers.l3harris.com/en/job/clifton/intern-software-engineer-clifton-nj/4832/102488576432) |
 | L3 Harris | Intern Software Engineer | — | Rochester, NY +5 | — | 6d | [apply](https://careers.l3harris.com/en/job/rochester/intern-software-engineer/4832/102488576976) |
-| L3Harris Technologies | Rochester Intern%2C Software Engineer NY 14624 | — | Rochester, NY | — | 6d | [apply](https://jobs.l3harris.com/job/Rochester-Intern%2C-Software-Engineer-NY-14624/1443908600/) |
+| L3Harris Technologies | Rochester Intern%2C Software Engineer NY 14624 | — | Rochester, NY | — | 7d | [apply](https://jobs.l3harris.com/job/Rochester-Intern%2C-Software-Engineer-NY-14624/1443908600/) |
 | Amazon Lab126 | Tech Ops Engineer Intern, 2027 Tech Ops Intern | 2027 | San Diego, CA | — | 7d | [apply](https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern) |
 | L3Harris Technologies | Clifton Intern%2C Software Engineer %28Clifton%2C NJ%29 NJ 07014 | — | Clifton, NJ | — | 7d | [apply](https://jobs.l3harris.com/job/Clifton-Intern%2C-Software-Engineer-%28Clifton%2C-NJ%29-NJ-07014/1443847800/) |
 | AtriCure | IT Security Analyst Co-op | — | Mason, OH | — | 7d | [apply](https://job-boards.greenhouse.io/atricure/jobs/4468040009) |
@@ -191,7 +191,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | K1 | AI Intern | — | Manhattan Beach, CA | $40.00/hr | 11d | [apply](https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern) |
 | Skydio | Frontend Software Engineer Intern - Summer 2027 | Summer 2027 | Remote | — | 11d | [apply](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) |
 | Insperity | Rotational AI Intern | — | Kingwood, TX | — | 11d | [apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460) |
-| Acadia Insurance | CRM Admin/Developer Intern | — | Urbandale, IA | — | 11d | [apply](https://careers-berkley.icims.com/jobs/14445/crm-admin-developer-intern/job?in_iframe=1) |
+| Berkley Specialty Excess | CRM Admin/Developer Intern | — | Urbandale, IA | — | 11d | [apply](https://careers-berkley.icims.com/jobs/14445/crm-admin-developer-intern/job?in_iframe=1) |
 | ATOMS | AI Research Intern (PhD) | — | San Francisco, CA | — | 11d | [apply](https://job-boards.greenhouse.io/atoms/jobs/8909102002) |
 | Peak Energy | Test Engineer Intern, ESS (Summer 2027) | Summer 2027 | Burlingame, CA | — | 11d | [apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272578007&gh_jid=5272578007) |
 | Peak Energy | Systems Integration and Test Engineer Intern (Summer 2027) | Summer 2027 | Burlingame, CA | — | 11d | [apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5272567007&gh_jid=5272567007) |
@@ -488,7 +488,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Veterans United Home Loans | Intern - Software Engineer - Summer 2027 | Summer 2027 | Remote | — | 35d | [apply](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) |
 | MWI Animal Health | Java Web Applications Business Services Intern | — | Conshohocken, PA | — | 35d | [apply](https://careers.cencora.com/us/en/job/R2612691/Java-Web-Applications-Business-Services-Intern) |
 | MWI Animal Health | IT Software Development Intern | — | Conshohocken, PA | — | 35d | [apply](https://careers.cencora.com/ca/fr/job/R2614039/IT-Software-Development-Intern) |
-| Lowe | Quality Assurance Engineering Undergrad Internship Summer | Summer | Mooresville, NC | — | 35d | [apply](https://talent.lowes.com/us/en/job/JR-02648572/Quality-Assurance-Engineering-Undergrad-Internship-Summer-2027) |
 | Heven AeroTech | AI / Machine Learning Intern | — | Winchester, VA | — | 35d | [apply](https://job-boards.greenhouse.io/hevenaerotech/jobs/4410288009) |
 | Excellus BCBS | College Intern Summer 2027 Software Testing And Automation | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104024EXTERNALENUS/College-Intern-Summer-2027-Software-Testing-and-Automation) |
 | Wellmark Blue Cross and Blue Shield | Software Engineer Internship - Technology Healthcare Innovation | — | Des Moines, IA | — | 35d | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000150732768) |
@@ -628,7 +627,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - San Diego, CA | Summer 2027 | San Diego, CA | — | 42d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799) |
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Huntsville, AL | Summer 2027 | Huntsville, AL | — | 42d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0249872) |
 | Booz Allen Hamilton | University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD | Summer 2027 | Annapolis Junction, MD | — | 42d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873) |
-| Acadia Insurance | Software Developer (.NET) Intern | — | Urbandale, IA | — | 42d | [apply](https://careers-berkley.icims.com/jobs/14444/software-developer-%28.net%29-intern/job?in_iframe=1) |
+| Berkley Specialty Excess | Software Developer (.NET) Intern | — | Urbandale, IA | — | 42d | [apply](https://careers-berkley.icims.com/jobs/14444/software-developer-%28.net%29-intern/job?in_iframe=1) |
 | Crystal Group | Intern, Systems Engineer | — | Hiawatha, IA | — | 42d | [apply](https://employeeownedbrands.wd501.myworkdayjobs.com/Crystal/job/Hiawatha-IA/Intern--Systems-Engineer_R0004800) |
 | Ditch Witch | Quality Engineer Intern Ditch Witch | — | Perry, OK | — | 42d | [apply](https://jobs.thetorocompany.com/job/perry/quality-engineer-intern-ditch-witch/40062/100943855200) |
 | Bot Auto | Intern, Software Engineer AI Agents (Fall/Winter 2026) | Fall 2026 | Houston, TX | — | 42d | [apply](https://job-boards.greenhouse.io/botauto/jobs/5429357008) |
@@ -700,7 +699,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Caravan Foods | Software Development Engineer Intern - Summer 2027 (USA) | Summer 2027 | Seattle, WA | — | 45d | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
 | CFO Trane U.S. -CFO | Software Development Engineering Intern | — | White Bear Lake, MN | — | 45d | [apply](https://careers.tranetechnologies.com/global/fr/job/JR-15648/Software-Development-Engineering-Intern) |
 | Valeo | Quality Engineer Co-Op (Summer 2027) | Summer 2027 | Hamilton, OH | — | 45d | [apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Hamilton-OH/Quality-Engineer-Co-Op--Summer-2027-_REQ2026080099) |
-| Acadia Insurance | Software Developer (Java) Intern \| June 2027 | 2027 | Urbandale, IA | — | 46d | [apply](https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job?in_iframe=1) |
+| Berkley Specialty Excess | Software Developer (Java) Intern \| June 2027 | 2027 | Urbandale, IA | — | 46d | [apply](https://careers-berkley.icims.com/jobs/14437/software-developer-%28java%29-intern-%7c-june-2027/job?in_iframe=1) |
 | Admiral Insurance | CRM Admin/Developer Intern | — | Urbandale, IA | — | 46d | [apply](https://careers-berkley.icims.com/jobs/14445/dynamics-admin-developer-intern/job?in_iframe=1) |
 | Allied Aire Service | SAP IBP Functional Analyst Co-Op | — | Richardson, TX | — | 46d | [apply](https://uscareers-lennox.icims.com/jobs/54886/sap-ibp-functional-analyst-co-op/job?in_iframe=1) |
 | Mercor | Software Engineer Intern | — | San Francisco, CA | $70.00/hr | 47d | [apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d) |
@@ -720,7 +719,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Lycoming Engines | 2027 Co-Op - Systems Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539723) |
 | Lycoming Engines | 2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539792) |
 | Praxis Engineering | Summer 2027 Software Development Internship | Summer 2027 | Falls Church, VA | — | 48d | [apply](https://www.gdit.com/careers/job/d3e7f5b7c/summer-2027-software-development-internship/) |
-| Lowe | Software Engineer Undergrad Internship Summer | Summer | Charlotte, NC | — | 48d | [apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
 | One Kings Lane | Software Engineer - Legacy Applications & Modernization - Intern/Part Time | — | Houston, TX | — | 48d | [apply](https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813) |
 | LoopNet | Security Engineer Intern Richmond Va Richmond Virginia United States Of America | — | Richmond, VA | — | 48d | [apply](https://careers.costargroup.com/careers/job/446720929720-security-engineer-intern-richmond-va-richmond-virginia-united-states-of-america?domain=costar.com) |
 | LoopNet | Security Engineer Intern Arlington Va Arlington Virginia United States Of America | — | Arlington, VA | — | 48d | [apply](https://careers.costargroup.com/careers/job/446720929717-security-engineer-intern-arlington-va-arlington-virginia-united-states-of-america?domain=costar.com) |

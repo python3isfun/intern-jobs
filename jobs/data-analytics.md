@@ -1,6 +1,6 @@
 # 📊 Data & Analytics
 
-**382 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**365 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (7 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -21,7 +21,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | OAK STREET HEALTH | Innovation Technology Internship Data Science Summer 2027 Graduate | Summer 2027 | New York, NY | — | 3d | [apply](https://jobs.cvshealth.com/us/en/job/R1081038/Innovation-Technology-Internship-Data-Science-Summer-2027-Graduate) |
 | DHL Express | Data Analytics And Data Catalog Intern | — | Erlanger, KY | — | 3d | [apply](https://careers.dhl.com/apac/en/job/DPDHGLOBALAV368788ENAPACEXTERNAL/Data-Analytics-and-Data-Catalog-Intern) |
 | FedEx Office | Intern Data Science | — | Memphis, TN | — | 3d | [apply](https://careers.fedex.com/intern-data-science/job/P25-392650-1) |
-| Signify Health | Innovation Technology Internship Data Science Summer 2027 Graduate | Summer 2027 | New York, NY | — | 3d | [apply](https://jobs.cvshealth.com/us/en/job/R1081038/Innovation-Technology-Internship-Data-Science-Summer-2027-Graduate) |
 | AtriCure | IT Co-op- ERP Data Migration | — | Mason, OH | — | 3d | [apply](https://job-boards.greenhouse.io/atricure/jobs/4473612009) |
 | Koppers | Financial Data Analyst Intern | — | Peachtree City, GA | — | 3d | [apply](https://koppers.wd5.myworkdayjobs.com/Koppers/job/Peachtree-City-GA/Financial-Data-Analyst-Intern_REQ03221) |
 | SOLARIS BIOTECH USA | Graduate Intern - Modeling and Data Science | — | Bloomington, MN | — | 3d | [apply](https://donaldson.wd115.myworkdayjobs.com/DonaldsonCareers/job/Bloomington-MN-USA/Graduate-Intern---Modeling-and-Data-Science_JR-28305-1) |
@@ -56,7 +55,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | United Concordia Dental | Summer 2027 Data Analyst Engen Undergraduate Intern | Summer 2027 | Pittsburgh, PA | — | 7d | [apply](https://careers.highmarkhealth.org/summer-2027-data-analyst-engen-undergraduate-intern/job/P1-6816889-0) |
 | Digital | University - 2027 Summer Games Data Scientist Intern - Lexington, MA | Summer 2027 | Lexington, MA | — | 7d | [apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) |
 | CHS | Data Engineer Intern | — | Inver Grove Heights, MN | — | 7d | [apply](https://jobs.chsinc.com/job/inver-grove-heights/data-engineer-intern/34006/102469210608) |
-| Federal Reserve Bank of Atlanta | 2027 Summer Internship Program - OAS Business Analyst | Summer 2027 | Atlanta, GA | — | 7d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---OAS-Busines-Analyst_R-0000033888) |
 | United Concordia Dental | Summer 2027 Enterprise Data Warehouse Systems Engen Undergraduate Intern | Summer 2027 | Pittsburgh, PA | — | 7d | [apply](https://careers.highmarkhealth.org/summer-2027-enterprise-data-warehouse-systems-engen-undergraduate-intern/job/P1-7392064-0) |
 | United Concordia Dental | Summer 2027 Enterprise Data Governance Engen Undergraduate Internship | Summer 2027 | Pittsburgh, PA | — | 7d | [apply](https://careers.highmarkhealth.org/summer-2027-enterprise-data-governance-engen-undergraduate-internship/job/P1-7365302-0) |
 | United Concordia Dental | Summer 2027 Applied Gen Ai Data Scientist Graduate Intern | Summer 2027 | Remote | — | 7d | [apply](https://careers.highmarkhealth.org/summer-2027-applied-gen-ai-data-scientist-graduate-intern/job/P1-7076674-0) |
@@ -64,8 +62,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Duolingo | Data Scientist, Intern (PhD) | — | Pittsburgh, PA | — | 7d | [apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002) |
 | Duolingo | Data Scientist, Intern | — | Pittsburgh, PA | — | 7d | [apply](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002) |
 | National Life | Data Science Intern – Summer 2027 | Summer 2027 | Addison, TX | — | 7d | [apply](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) |
-| NCDPS Juvenile Education Services | Data Science Intern | — | Wake County, NC | — | 8d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
-| NCDPS Juvenile Education Services | Data Analytics Intern | — | Wake County, NC | — | 8d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
+| Wake County | Data Science Intern | — | Wake County, NC | — | 15d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
+| Wake County | Data Analytics Intern | — | Wake County, NC | — | 15d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | Summer 2027 | New York, NY | — | 9d | [apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821) |
 | The Manitowoc | Summer 2027 Intern - Data Analyst - Aftermarket | Summer 2027 | Shady Grove, PA | — | 9d | [apply](https://fda.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3371) |
 | Citizens Energy Group | Meter Services Data Analytics Intern | — | Indianapolis, IN | — | 9d | [apply](https://careers-citizensenergygroup.icims.com/jobs/3458/meter-services-data-analytics-intern/job?in_iframe=1) |
@@ -82,7 +80,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Veterinary United | Data Analyst Internship (UNPAID) | — | Clinton Township, MI | — | 10d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53ad25cb-cc74-4ae1-87e3-8123a39f433c&jobId=9201107416724_1&lang=en_US) |
 | Veterinary United | Data Analyst Intern - Academic Credit Opportunity | — | Clinton Township, MI | — | 10d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53ad25cb-cc74-4ae1-87e3-8123a39f433c&jobId=9201106021981_1&lang=en_US) |
 | Pattern | Data Science Intern | — | Lehi, UT | — | 10d | [apply](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7) |
-| Genentech | 2027 Spring Intern Data Science Machine Learning | Spring 2027 | South San Francisco, CA | — | 10d | [apply](https://careers.gene.com/us/en/job/202609-124657/2027-Spring-Intern-Data-Science-Machine-Learning) |
+| Genentech | 2027 Spring Intern Data Science Machine Learning | Spring 2027 | South San Francisco, CA | — | 11d | [apply](https://careers.gene.com/us/en/job/202609-124657/2027-Spring-Intern-Data-Science-Machine-Learning) |
 | Spectrum Electrical Services | 2027 Summer Intern Business Systems Analyst Customer Operations | Summer 2027 | Stamford, CT | — | 11d | [apply](https://jobs.spectrum.com/job/town-of-stamford/2027-summer-intern-business-systems-analyst-customer-operations/4673/102308229056) |
 | WSP | Transportation Data Analyst Intern - Summer 2027 | Summer 2027 | Seattle, WA | — | 11d | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952) |
 | Disney | Tax Data Management & Innovation Graduate Intern, Spring 2027 | Spring 2027 | Celebration, FL | — | 11d | [apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Tax-Data-Management---Innovation-Graduate-Intern--Spring-2027_10163753) |
@@ -90,11 +88,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | KION North America | Software Analytics Co-op | — | Grand Rapids, MI | — | 11d | [apply](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1) |
 | Taylor | Enablement Data & Insights Intern (Temporary) | — | Remote, OH | — | 11d | [apply](https://taylor.wd1.myworkdayjobs.com/External/job/OH-Remote/Enablement-Data---Insights-Intern--Temporary-_R30448) |
 | Chemours | Data Visualization Analyst Spring Intern | Spring | Remote | — | 11d | [apply](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Spring-Intern_JR15000) |
-| Lawrence Livermore National Laboratory | Business Systems Analyst Undergraduate Intern - 2027 | 2027 | Livermore, CA | — | 11d | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016356816) |
 | LLNL | Business Systems Analyst Undergraduate Intern - 2027 | 2027 | Livermore, CA | — | 11d | [apply](https://jobs.smartrecruiters.com/llnl/3743990016356816) |
 | Insperity | Rotational Data Analytics Intern | — | Kingwood, TX | — | 11d | [apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458) |
 | STR | Data Analyst Intern - Summer 2027 | Summer 2027 | Arlington, VA | — | 11d | [apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006) |
-| Lawrence Livermore National Laboratory | Business Systems Analyst Undergraduate Intern - Summer 2027 | Summer 2027 | Livermore, CA | — | 11d | [apply](https://jobs.smartrecruiters.com/LLNL/3743990016347916) |
 | LLNL | Business Systems Analyst Undergraduate Intern - Summer 2027 | Summer 2027 | Livermore, CA | — | 11d | [apply](https://jobs.smartrecruiters.com/llnl/3743990016347916) |
 | PACCAR | Kirkland Summer 2027 Warranty Data Analyst Intern WA | Summer 2027 | Renton, WA | — | 11d | [apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/) |
 | Spectrum Electrical Services | 2027 Summer Intern Sales Operations Business Analyst Intern | Summer 2027 | Stamford, CT | — | 11d | [apply](https://jobs.spectrum.com/job/town-of-stamford/2027-summer-intern-sales-operations-business-analyst-intern/4673/100133777968) |
@@ -118,22 +114,19 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | United Concordia Dental | Summer 2027 Data Science R D Graduate Intern | Summer 2027 | Remote | — | 14d | [apply](https://careers.highmarkhealth.org/summer-2027-data-science-r-d-graduate-intern/job/P1-6888960-0) |
 | United Concordia Dental | Summer 2027 Data Analyst Undergraduate Intern | Summer 2027 | Pittsburgh, PA | — | 14d | [apply](https://careers.highmarkhealth.org/summer-2027-data-analyst-undergraduate-intern/job/P1-7076373-0) |
 | Noblis | Summer 2027 - Data Innovations Intern | Summer 2027 | Reston, VA | — | 14d | [apply](https://jobs-noblis.icims.com/jobs/28005/login) |
-| PacLease - PACCAR Leasing | Kirkland Summer 2027 Warranty Data Analyst Intern WA | Summer 2027 | Renton, WA | — | 14d | [apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Warranty-Data-Analyst-Intern-WA-98033/1449176033/) |
 | Genmab | External Data Management Intern | — | Princeton, NJ | — | 14d | [apply](https://careers.genmab.com/global/en/job/R18164/External-Data-Management-Intern) |
 | Genmab | Clinical Statistical Programming Intern | — | Princeton, NJ | — | 14d | [apply](https://careers.genmab.com/global/en/job/R18173/Clinical-Statistical-Programming-Intern) |
 | Genmab | Clinical Development Data Science Intern | — | Princeton, NJ | — | 14d | [apply](https://careers.genmab.com/global/en/job/R18165/Clinical-Development-Data-Science-Intern) |
 | Mack Trucks | Dublin Intern Business Intelligence Developer %28Spring 2027%29 VA 24084 | 2027 | Dublin, VA | — | 14d | [apply](https://jobs.volvogroup.com/job/Dublin-Intern-Business-Intelligence-Developer-%28Spring-2027%29-VA-24084/1373356855/) |
 | Marvell Technology | AI Data Science Intern, MS - Summer 2027 | Summer 2027 | Santa Clara, CA | — | 14d | [apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) |
 | KLA | Tax & Data Analytics Intern | — | Ann Arbor, MI | — | 14d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2) |
-| Wake County | Data Science Intern | — | Wake County, NC | — | 15d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
-| Wake County | Data Analytics Intern | — | Wake County, NC | — | 15d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
 | LLNL | Data Science Institute Undergraduate Student Intern - Summer 2027 🇺🇸 | Summer 2027 | Livermore, CA | — | 15d | [apply](https://jobs.smartrecruiters.com/llnl/3743990015289136) |
 | LLNL | Data Science Institute Graduate Student Intern - Summer 2027 | Summer 2027 | Livermore, CA | — | 15d | [apply](https://jobs.smartrecruiters.com/llnl/3743990015737586) |
 | Inter Miami CF | Intern, Business Intelligence \| Sprint Season | — | Miami, FL | — | 16d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4592771/4ec3259e-b119-41ed-9958-51fba03e38ab) |
 | Inter Miami CF | Intern, Business Intelligence (Software Development) \| Sprint Season | — | Miami, FL | — | 16d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4592733/4ec3259e-b119-41ed-9958-51fba03e38ab) |
 | MITRE | Data Science And Engineering Intern | — | McLean, VA | — | 17d | [apply](https://careers.mitre.org/us/en/job/R117661/Data-Science-and-Engineering-Intern) |
 | Oldcastle APG | Tell City Intern Data Analytics IN | — | Tell City, IN | — | 17d | [apply](https://jobs.crh.com/job/Tell-City-Intern-Data-Analytics-IN-47586/1448634633/) |
-| Leica Microsystems | CCM Data Governance Intern Summer | Summer | Logan, UT | — | 17d | [apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1318977EXTERNALENGLOBAL/CCM-Data-Governance-Intern-Summer-2027) |
+| Danaher | CCM Data Governance Intern Summer | Summer | Logan, UT | — | 51d | [apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1318977EXTERNALENGLOBAL/CCM-Data-Governance-Intern-Summer-2027) |
 | CarMax | Business Analyst Intern - Atlanta, GA | — | Kennesaw, GA | — | 17d | [apply](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Atlanta/Business-Analyst-Intern---Atlanta--GA_JR-188143/apply) |
 | LMCU | Business Intelligence Intern | — | Grand Rapids, MI | — | 17d | [apply](https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Business-Intelligence-Intern_REQ-2026-6972) |
 | Angel City Football Club | Data Analytics Intern | — | Los Angeles, CA | — | 17d | [apply](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004) |
@@ -163,14 +156,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | CHS | Data Analyst Intern | — | Inver Grove Heights, MN | — | 21d | [apply](https://jobs.chsinc.com/job/inver-grove-heights/data-analyst-intern/34006/101884832896) |
 | GAF | IT Data Analytics Intern | — | Parsippany, NJ | — | 21d | [apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/IT-Data-Analytics-Intern_26422) |
 | GAF | Data Management Intern | — | Parsippany, NJ | — | 21d | [apply](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Data-Management-Intern_26425) |
-| WD WIAN Test Company Page | Spring Co-op - Recording Electronics Data Analytics & Optimization | Spring | Rochester, MN | — | 21d | [apply](https://jobs.smartrecruiters.com/westerndigital/744000155109379) |
 | Western Digital | Spring Co-op - Recording Electronics Data Analytics & Optimization | Spring | Rochester, MN | — | 21d | [apply](https://jobs.smartrecruiters.com/WesternDigital/744000155109379) |
 | CapTech | Consulting Internship: Business Systems Analyst (Summer 2027) | Summer 2027 | Richmond, VA | — | 21d | [apply](https://jobs.smartrecruiters.com/CapTechConsulting/744000155060459) |
 | C&S Wholesale Grocers | IS Internship - Data Analytics & Data Science | — | Edison, NJ | — | 21d | [apply](https://careers.cswg.com/jobs/is-internship-data-analytics-data-science/16C268565A494AC2A795D683808482F4) |
-| MARLBORO COUNTY FARMERS MARKET | Data Science Intern | — | Wake County, NC | — | 21d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) |
-| MARLBORO COUNTY FARMERS MARKET | Data Analytics Intern | — | Wake County, NC | — | 21d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Data Science & Autonomous Systems - Critical Infrastructure Protection | 2027 | Laurel, MD | — | 23d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60432/login) |
-| IMDb.com | Business Analyst Intern – Summer 2027 | Summer 2027 | Bellevue, WA | — | 23d | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
+| Amazon Lab126 | Business Analyst Intern – Summer 2027 | Summer 2027 | Bellevue, WA | — | 47d | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | Walgreens Boots Alliance | Data Science Intern | — | DEERFIELD, IL | — | 24d | [apply](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1933902) |
 | Later | Data & Analytics Co-op | — | Boston, MA | — | 24d | [apply](https://job-boards.greenhouse.io/later/jobs/8880737002) |
 | Westinghouse Electric | Cranberry Township 2027 Summer Intern Fuel Engineering Data Analyst NC | Summer 2027 | Cranberry, PA | — | 24d | [apply](https://careers.westinghousenuclear.com/job/Cranberry-Township-2027-Summer-Intern-Fuel-Engineering-Data-Analyst-NC/1438463700/) |
@@ -214,8 +204,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | CAI | Business Analyst Intern | — | CAI NEWARK, DE | — | 31d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/DE-CAI-NEWARK/Business-Analyst-Intern_R8549) |
 | Walleye Capital | Quantic - PhD Quantitative Researcher Intern (Summer 2027) | Summer 2027 | Boston, MA | — | 31d | [apply](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) |
 | Novelis | Analytics &amp; Data Consumption Co-op | — | Kennesaw, GA | — | 32d | [apply](https://careers-novelis.icims.com/jobs/54350/analytics-%26-data-consumption-co-op/job?hub=13&amp;in_iframe=1) |
-| Federal Reserve Bank of Atlanta | Summer 2027 Intern-Data Science and Business Analytics 🇺🇸 | Summer 2027 | Chicago, IL | — | 32d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609) |
-| Federal Reserve Bank of Atlanta | Summer 2027 Intern- PhD Data Science or Computer Science 🇺🇸 | Summer 2027 | Chicago, IL | — | 32d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634) |
 | Noblis | Summer 2027 - Data Science and Innovation Intern | Summer 2027 | Reston, VA | — | 32d | [apply](https://jobs-noblis.icims.com/jobs/27942/login) |
 | Southwest Airlines Pilots Association | Summer 2027 Data Engineer Internship 🇺🇸 | Summer 2027 | Remote | — | 32d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271) |
 | Southwest Airlines Pilots Association | Summer 2027 Customer Experience & Analytics Data Science Internship | Summer 2027 | Dallas, TX | — | 32d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023) |
@@ -246,7 +234,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Cencora | Data Scientist Intern | — | Conshohocken, PA | — | 34d | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data-Scientist-Intern_R2613623) |
 | MWI Animal Health | Data Scientist Intern | — | Conshohocken, PA | — | 35d | [apply](https://careers.cencora.com/ca/fr/job/R2613623/Data-Scientist-Intern) |
 | Southwire | IT Data Analyst Intern | — | Carrollton, GA +1 | — | 35d | [apply](https://careers.southwire.com/job/Carrollton-IT-Data-Analyst-Intern-GA-30119/1432410100/) |
-| Lawrence Livermore National Laboratory | Data Science Institute Graduate Student Intern - Summer 2027 | Summer 2027 | Livermore, CA | — | 35d | [apply](https://jobs.smartrecruiters.com/LLNL/3743990015737586) |
 | Land 'N' Sea Distributing | Data Science Intern | — | Champaign, IL | — | 35d | [apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Data-Science-Intern_JR-051760) |
 | GreatAmerica | Data Governance Analyst Intern | — | Cedar Rapids, IA | — | 35d | [apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Data-Governance-Analyst-Intern_JR1242) |
 | Excellus BCBS | College Intern Summer 2027 Data Governance AI Governance | Summer 2027 | Rochester, NY | — | 35d | [apply](https://careers.excellusbcbs.com/us/en/job/EXBCUSJR104033EXTERNALENUS/College-Intern-Summer-2027-Data-Governance-AI-Governance) |
@@ -340,7 +327,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | National Information Solutions Cooperative | Intern - Data Engineer | — | Lake Saint Louis, MO +1 | — | 43d | [apply](https://job-boards.greenhouse.io/testnisc/jobs/8167884) |
 | Ragle | Data Analytics Intern- Summer 2027 | Summer 2027 | North Richland Hills, TX | $27.50/hr | 43d | [apply](https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027) |
 | Clarios | Data Science Intern Summer | Summer | Glendale, WI | — | 43d | [apply](https://jobs.clarios.com/posting/data-science-intern-summer-2027/WD50211/) |
-| One Medical | Business Analyst Intern – Summer 2027 | Summer 2027 | Bellevue, WA | — | 43d | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | LexisNexis | Data Science Internship | — | USA - Raleigh, NC | — | 44d | [apply](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Data-Science-Internship_R118691-1) |
 | Flex | Manufacturing Data & Analytics Co-Op - Spring 2027 | Spring 2027 | Libertyville, IL | — | 44d | [apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700) |
 | Hf Sinclair | Dallas IT Data Analytics Intern TX 75219 | — | Dallas, TX | — | 44d | [apply](https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/) |
@@ -351,14 +337,13 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Waymo | 2027 Summer Intern Phd Product Data Science San Francisco California United States | Summer 2027 | San Francisco, CA | — | 45d | [apply](https://careers.withwaymo.com/jobs/2027-summer-intern-phd-product-data-science-san-francisco-california-united-states) |
 | CP Skin Health Group | CS&L Data Analyst Co-Op (June 2027-May 2028) | 2027 | Overland Park, KS | — | 45d | [apply](https://jobs.colgate.com/job/Overland-Park-CS&L-Data-Analyst-Co-Op-%28June-2027-May-2028%29-KS-66062/1391540700/) |
 | Mercor | Data Science Intern | — | San Francisco, CA | $70.00/hr | 47d | [apply](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) |
-| Amazon Lab126 | Business Analyst Intern – Summer 2027 | Summer 2027 | Bellevue, WA | — | 47d | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | Waymo | 2027 Summer Intern Ms Phd Data Science Commercialization Testing San Francisco California United States | Summer 2027 | San Francisco, CA | — | 47d | [apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states) |
 | Aspen Technology | Data Science Intern - Summer 2027 - Bedford, MA | Summer 2027 | Bedford, MA | — | 47d | [apply](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459) |
 | HSB - Hartford Steam Boiler | Data Science Intern Na Integrated Analytics 2027 Summer New York | Summer 2027 | New York, NY | — | 48d | [apply](https://careers.munichre.com/en/job/new-york/data-science-intern-na-integrated-analytics-2027-summer-new-york/3342/44660124160) |
 | HSB - Hartford Steam Boiler | Business Analyst Intern Na Integrated Analytics 2027 Summer New York | Summer 2027 | New York, NY | — | 48d | [apply](https://careers.munichre.com/en/job/new-york/business-analyst-intern-na-integrated-analytics-2027-summer-new-york/3342/44660124224) |
 | Robinhood | Business Analyst Intern (Summer 2027) | Summer 2027 | Washington, DC | — | 48d | [apply](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238) |
 | Google | Data Scientist, Product Intern, MS, Summer 2027 | Summer 2027 | Mountain View, CA | — | 48d | [apply](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) |
-| Google | Business Data Scientist Intern, PhD, Summer 2027 | Summer 2027 | Mountain View, CA | — | 48d | [apply](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) |
+| Raxium | Business Data Scientist Intern, PhD, Summer 2027 | Summer 2027 | Mountain View, CA | — | 48d | [apply](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) |
 | Dominion Bank | 2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA) | Summer 2027 | Mount Laurel, NJ | — | 49d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802) |
 | Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Data Engineer | Summer 2027 | Mount Laurel, NJ | — | 50d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797) |
 | Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Data Analyst | Summer 2027 | Mount Laurel, NJ | — | 50d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800) |
@@ -383,11 +368,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | The Nuclear | Summer 2027 Data Science Intern | Summer 2027 | Washington, DC | — | 51d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
 | The Nuclear | Spring 2027 Data Science Intern | Spring 2027 | Washington, DC | — | 51d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008) |
 | Philips | Graduate Level Co-op – Medical Imaging Data Scientist – Plymouth, MN – January 2027 | 2027 | Plymouth, MN | — | 51d | [apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567) |
-| Danaher | CCM Data Governance Intern Summer | Summer | Logan, UT | — | 51d | [apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1318977EXTERNALENGLOBAL/CCM-Data-Governance-Intern-Summer-2027) |
 | Peraton | Summer 2027 Data Science Intern | Summer 2027 | Herndon, VA | — | 51d | [apply](https://careers-peraton.icims.com/jobs/170320/summer-2027-data-science-intern/job?in_iframe=1) |
 | HADRIAN | Data Science/ Data Engineer Intern 🇺🇸 | — | Torrance, CA | — | 52d | [apply](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) |
 | CP Skin Health Group | Data Migration and Analytics Intern | — | Overland Park, KS | — | 52d | [apply](https://jobs.colgate.com/job/Overland-Park-Data-Migration-and-Analytics-Intern-KS-66062/1426723100/) |
-| Amazon Leo | Business Analyst Intern – Summer 2027 | Summer 2027 | Bellevue, WA | — | 52d | [apply](https://www.amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) |
 | Hubbell Gas Utility Solutions | 2027 Summer Intern: Operations - SAP Data Analytics | Summer 2027 | St. Louis, MO | — | 52d | [apply](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Operations-SAP-Data-Analytics-MO-63146/1421642600/) |
 | RFL ) | 2027 Summer Intern: Operations - Business Intelligence & Analytics | Summer 2027 | St. Louis, MO | — | 52d | [apply](https://careers.hubbell.com/job/St_-Louis-2027-Summer-Intern-Operations-Business-Intelligence-&amp;-Analytics-MO-63146/1421642300/) |
 

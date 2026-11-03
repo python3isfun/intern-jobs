@@ -1,6 +1,6 @@
 # 🖥️ IT & Infrastructure
 
-**283 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
+**279 roles** · updated `2026-11-03 01:02 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (8 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -124,7 +124,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Florida Blue | Summer 2027 IT Graduate Internship | Summer 2027 | Jacksonville, FL | — | 21d | [apply](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/floridablue/job/42182) |
 | RF-SMART | Software Support Engineer Internship (RFS for NetSuite) -Summer 2027 | Summer 2027 | Jacksonville, FL | — | 21d | [apply](https://job-boards.greenhouse.io/rfsmart/jobs/5427723008) |
 | United Way Miami | Help Desk Tech Intern (College Credit) | — | Miami, FL | — | 21d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4563204/89664045-b4a1-49f1-8595-13f992937a6b) |
-| MARLBORO COUNTY FARMERS MARKET | IT Service Desk Intern | — | Raleigh, NC | — | 21d | [apply](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/IT-Service-Desk-Intern_JR-125278) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Protection | 2027 | Laurel, MD | — | 23d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60431/login) |
 | Langan Engineering & Environmental Services | Intern/Co-op - Help Desk (Fall 2026) | Fall 2026 | Parsippany, NJ | — | 24d | [apply](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4336571009) |
 | MITRE | Cyber Operations Intern | — | Fort Meade - Annapolis Junction, MD | — | 24d | [apply](https://careers.mitre.org/us/en/job/R117487/Cyber-Operations-Intern) |
@@ -142,7 +141,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Trustmark | Co-Op Associate - IT; June 2027 | 2027 | Ridgeland, MS | — | 26d | [apply](https://jobs-trustmark.icims.com/jobs/19891/co-op-associate---it--june-2027/job?in_iframe=1) |
 | Gas South | IT ServiceDesk Summer Internship | Summer | Atlanta, GA | — | 26d | [apply](https://job-boards.greenhouse.io/gassouth/jobs/8247629) |
 | Encova Insurance | Intern, Service Desk Analyst | — | Columbus, OH | — | 26d | [apply](https://encova.wd1.myworkdayjobs.com/Search/job/Columbus-OH/Intern--Service-Desk-Analyst_R002096) |
-| DUKE | Local IT Support Internship (Huntersville, NC) - Summer 2027 | Summer 2027 | Huntersville, NC | — | 26d | [apply](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Huntersville-NC/Local-IT-Support-Internship--Huntersville--NC----Summer-2027_R41895) |
 | Rural King | Internship - IT | — | Mattoon, IL | — | 27d | [apply](https://careers-ruralking.icims.com/jobs/41331/internship---it/job?in_iframe=1) |
 | Sentinel | Network Operations Internship | — | Downers Grove, IL | — | 27d | [apply](https://careers-sentinel.icims.com/jobs/5128/network-operations-internship/job?in_iframe=1) |
 | General Dynamics Ordnance | Intern, Technical Support (NDT Technician) | — | Lincoln, NE | — | 27d | [apply](https://careers-gd-ots.icims.com/jobs/37225/intern%2c-technical-support-%28ndt-technician%29/job?in_iframe=1) |
@@ -164,7 +162,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | CAI | Cloud Security Analyst Intern | — | CLIENT STATE, FL | — | 31d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/FL-CLIENT-STATE/Cloud-Security-Analyst-Intern_R8668) |
 | First Federal Bank of Kansas City | TS - Application Security Intern - 2027 | 2027 | Cleveland, OH | — | 31d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625) |
 | Space Dynamics Laboratory | Information Security Intern | — | North Logan, UT | — | 32d | [apply](https://spacedynamicslaboratory.applytojob.com/apply/xX5TstngJa/Information-Security-Intern) |
-| Federal Reserve Bank of Atlanta | Summer 2027 Intern-Cybersecurity and Information Security 🇺🇸 | Summer 2027 | Chicago, IL | — | 32d | [apply](https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1) |
 | Southwest Airlines Pilots Association | Summer 2027 Cybersecurity Engineer Internship 🇺🇸 | Summer 2027 | Remote | — | 32d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Cybersecurity-Engineer-Internship_R-2026-73269) |
 | Microsoft | Security Operations Engineering INTERN | — | Redmond, WA | — | 32d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557019490) |
 | Duke Energy | Information Technology Internship Summer 2027 (Grice) | Summer 2027 | Hartsville, SC | — | 32d | [apply](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Information-Technology-Internship-Summer-2027--Grice-_R41738) |
@@ -182,7 +179,6 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Headquarters | Intern - IT | — | Columbia, MD | — | 34d | [apply](https://recruiting.ultipro.com/COR1012COP/JobBoard/36e286e9-3982-4577-abc5-a64834ea7aa1/OpportunityDetail?opportunityId=a6896d07-b87a-4896-b198-952fc4291b28) |
 | MacLean-Fogg | 709010 Information Technology It Intern Summer | Summer | Sterling, IL | $28.00/hr | 34d | [apply](https://careers.macleanfogg.com/jobs/709010-information-technology-it-intern-summer-2027) |
 | Zebra Technologies | 2027 Summer Internship (US) - Information Technology | Summer 2027 | EITHER LINCOLNSHIRE, IL | — | 34d | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Information-Technology_JR103490) |
-| DUKE | Information Technology Internship Summer 2027 (Grice) | Summer 2027 | Hartsville, SC | — | 34d | [apply](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Hartsville-SC/Information-Technology-Internship-Summer-2027--Grice-_R41738) |
 | Bot Auto | Intern, IT Specialist | — | Houston, TX | — | 34d | [apply](https://job-boards.greenhouse.io/botauto/jobs/5430792008) |
 | Amentum | Service Desk Administrator Internship IRES - SSFB | — | Colorado Springs, CO | — | 34d | [apply](https://veterans.amentumcareers.com/jobs/service-desk-administrator-internship-ires-ssfb/7445E4CAE8894B009833EC93D41C93D0) |
 | Amentum | Network O&S Internship IRES - SSFB/HSV | — | Colorado Springs, CO +1 | — | 34d | [apply](https://veterans.amentumcareers.com/jobs/network-os-internship-ires-ssfbhsv/20075D32396647539443041D267E2C62) |

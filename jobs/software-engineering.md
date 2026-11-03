@@ -1,6 +1,6 @@
 # 💻 Software Engineering
 
-**881 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**880 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (52 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -28,7 +28,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | GE Aerospace | Artificial Intelligence Intern | — | Remote | — | today | [apply](https://careers.geaerospace.com/de/de/job/R5042294/Artificial-Intelligence-Intern) |
 | General Dynamics | 2027 Quality Assurance – Engineering Summer Internship | 2027 | Groton, CT | — | today | [apply](https://careers-gdeb.icims.com/jobs/21243/2027-quality-assurance-%e2%80%93-engineering-summer-internship/job?in_iframe=1) |
 | Mayo Clinic | Graduate Engineering Intern - Software Development | — | Rochester, MN | — | today | [apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) |
-| Lowes | Quality Assurance Engineering Undergrad Internship Summer | Summer | Mooresville, NC | — | today | [apply](https://talent.lowes.com/us/en/job/JR-02648572/Quality-Assurance-Engineering-Undergrad-Internship-Summer-2027) |
+| Lowes | Quality Assurance Engineering Undergrad Internship Summer | Summer | Mooresville, NC | — | 1d | [apply](https://talent.lowes.com/us/en/job/JR-02648572/Quality-Assurance-Engineering-Undergrad-Internship-Summer-2027) |
 | GMRE | Web Application Developer Intern | — | South Ogden, UT | — | 1d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4621147/3299dce3-0cdc-4039-97b3-5ce421734fe9) |
 | Keyrock | Innovation Quant Developer: Intern - DeFi/Corporate Development | — | Remote | — | 1d | [apply](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) |
 | Keyrock | DeFi Quant Research Intern - Digital Assets Market Making | — | Remote | — | 1d | [apply](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) |
@@ -55,8 +55,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Robert Bosch Semiconductor | [BD] IT Project Operation Assistant Intern (6-Month Internship) | — | Remote | — | 3d | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000158663991) |
 | Robert Bosch Semiconductor | IT Systems Engineering Intern (19 hours per week) | — | Roseville, CA | — | 3d | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000158620079) |
 | SWIVEL | Integration Analyst Intern | — | San Antonio, TX | — | 3d | [apply](https://swbc.wd1.myworkdayjobs.com/Swivel/job/San-Antonio-TX/Integration-Analyst-Intern_R0015709-1) |
-| Astronics | Software Engineer Intern - Summer 2027 | Summer 2027 | Kirkland, WA | — | 3d | [apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009) |
-| Radiometer | Intern Application Integration Developer | — | Brea, CA | — | 3d | [apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1316677EXTERNALENGLOBAL/Intern-Application-Integration-Developer) |
+| Astronics | Software Engineer Intern - Summer 2027 | Summer 2027 | Kirkland, WA | — | 4d | [apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009) |
+| Radiometer | Intern Application Integration Developer | — | Brea, CA | — | 4d | [apply](https://jobs.danaher.com/global/en/job/DANAGLOBALR1316677EXTERNALENGLOBAL/Intern-Application-Integration-Developer) |
 | Interco | Paid Internship -- Software Development -- React | — | St. Louis, MO | — | 4d | [apply](https://jobs.smartrecruiters.com/Interco/744000158581114) |
 | Monolithic Power Systems | Field Applications Engineer Intern (MPSNow) | — | San Jose, CA | — | 4d | [apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Field-Applications-Engineer-Intern--MPSNow-_R-2079) |
 | IDEMIA Public Security | Full Stack Software Engineering Internship | — | Eden Prairie, MN | — | 4d | [apply](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job?in_iframe=1) |
@@ -70,7 +70,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Meta Platforms | Research Scientist Intern, Video Intelligence for GenAI/Computer Vision (Phd) | — | Bellevue, WA | — | 4d | [apply](https://www.metacareers.com/jobs/1789380188995838/) |
 | Meta Platforms | Research Scientist Intern, User Modeling and Reinforcement Learning (PhD) | — | Bellevue, WA | — | 4d | [apply](https://www.metacareers.com/jobs/1751935042548465/) |
 | Meta Platforms | Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD) | — | Redmond, WA | — | 4d | [apply](https://www.metacareers.com/jobs/1831104024740439/) |
-| LinkedIn | Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA) | Summer 2027 | Mountain View, CA | — | 4d | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) |
+| LinkedIn | Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA) | Summer 2027 | Mountain View, CA | — | 5d | [apply](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) |
 | The Nuclear | Spring 2027 Security Engineer Intern | Spring 2027 | Washington, DC | — | 5d | [apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008) |
 | Intuitive Health | System Engineer Intern | — | Blacksburg, VA | — | 5d | [apply](https://jobs.smartrecruiters.com/Intuitive/744000158334809) |
 | Shield AI | Software Engineer Intern - Summer 2027 | Summer 2027 | San Diego, CA | $25.00/hr–$75.00/hr | 5d | [apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036) |
@@ -140,7 +140,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | PTC | Onshape Software Engineer Intern (Summer 2027) | Summer 2027 | Boston, MA | — | 7d | [apply](https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) |
 | Meta Platforms | Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD) | — | Redmond, WA | — | 7d | [apply](https://www.metacareers.com/jobs/2053489871986285/) |
 | National Information Solutions Cooperative | Intern - Application Analyst (Financials Software) | — | Mandan, ND | — | 7d | [apply](https://job-boards.greenhouse.io/nisc/jobs/8301304) |
-| Wilton Re | IT Business Analyst Intern - 2027 Summer Intern | Summer 2027 | Norwalk, CT | — | 7d | [apply](https://wiltonre.csod.com/ux/ats/careersite/1/job/56?c=wiltonre) |
+| Wilton Re | IT Business Analyst Intern - 2027 Summer Intern | Summer 2027 | Norwalk, CT | — | 8d | [apply](https://wiltonre.csod.com/ux/ats/careersite/1/job/56?c=wiltonre) |
 | Air Culinaire Worldwide | Software Engineer Intern | — | Tampa, FL | — | 8d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ad821003-1acc-4960-a85b-9945dae07487&jobId=9201252511839_31&lang=en_US) |
 | Space Dynamics Laboratory | Open Systems Architecture Systems Engineer Intern | — | North Logan, UT | — | 9d | [apply](https://spacedynamicslaboratory.applytojob.com/apply/CPmCkkhryF/Open-Systems-Architecture-Systems-Engineer-Intern) |
 | Space Dynamics Laboratory | Agile Software Test Engineering Intern | — | North Logan, UT | — | 9d | [apply](https://spacedynamicslaboratory.applytojob.com/apply/2nLIPPkeTN/Agile-Software-Test-Engineering-Intern) |
@@ -183,7 +183,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Sierra Nevada | Systems Engineer Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 10d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176) |
 | Interclypse | Junior Full Stack Software Engineer (Part-Time/Internship) | — | Annapolis Junction, MD | — | 10d | [apply](https://recruiting.paylocity.com/recruiting/jobs/Details/4595767/6ea91ea2-804f-462b-9fd7-63453b2902ab) |
 | Pattern | AI Automation Engineer Intern | — | Lehi, UT | — | 10d | [apply](https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e) |
-| SPS Commerce | Software Engineer Intern | — | MSP, MN +1 | — | 10d | [apply](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398) |
+| SPS Commerce | Software Engineer Intern | — | MSP, MN +1 | — | 11d | [apply](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398) |
 | Palantir Technologies | Forward Deployed Software Engineer, Internship - Warp Speed | — | New York, NY | — | 11d | [apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) |
 | Schweitzer Engineering Laboratories | Software Engineer Intern | — | Pullman, WA +1 | — | 11d | [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-23816) |
 | Walrus | Full Stack Developer Intern | — | Remote | — | 11d | [apply](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5) |
@@ -205,8 +205,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Meta Platforms | Security Engineer Posture Management, Intern (Summer 2027) | Summer 2027 | New York, NY | — | 11d | [apply](https://www.metacareers.com/jobs/1359570553913180/) |
 | Meta Platforms | Research Scientist Intern, Computational Imaging And Robotics (PhD) | — | Redmond, WA | — | 11d | [apply](https://www.metacareers.com/jobs/2857194467985784/) |
 | Acuity Insurance | Software Engineer Intern | — | Sheboygan, WI | — | 11d | [apply](https://recruiting2.ultipro.com/HER1001ACFIN/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) |
-| Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge | — | Cambridge, MA | — | 11d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557044765) |
-| Optimum Home Healthcare | Marketing Workflow & AI Enablement Intern - Summer 2027 | Summer 2027 | Indianapolis, IN | — | 11d | [apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Marketing-Workflow---AI-Enablement-Intern---Summer-2027_JR207415-1/apply) |
+| Microsoft | Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge | — | Cambridge, MA | — | 12d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557044765) |
+| Optimum Home Healthcare | Marketing Workflow & AI Enablement Intern - Summer 2027 | Summer 2027 | Indianapolis, IN | — | 12d | [apply](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Marketing-Workflow---AI-Enablement-Intern---Summer-2027_JR207415-1/apply) |
 | L3 Harris | Intern Software Engineer Salt Lake City Ut | — | Salt Lake City, UT | — | 12d | [apply](https://careers.l3harris.com/en/job/salt-lake-city/intern-software-engineer-salt-lake-city-ut/4832/102258065888) |
 | DP World | Application Analyst Intern | — | Itasca, IL | — | 12d | [apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400) |
 | Sygaldry Technologies | Internship/Research Engineer | — | Ann Arbor, MI | — | 12d | [apply](https://jobs.ashbyhq.com/sygaldry-technologies/97918981-2ef3-4f17-96e1-1ad379f7dab1) |
@@ -226,15 +226,15 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Skydio | Mobile Software Engineer Intern - Summer 2027 | Summer 2027 | Remote | — | 12d | [apply](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52) |
 | Micron | Intern - SSD Firmware | — | San Jose, CA | — | 12d | [apply](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209) |
 | Micron | Intern - Machine Learning Engineering | — | Richardson, TX | — | 12d | [apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) |
-| General Dynamics Mission Systems | Information Assurance Engineer - Intern Conversion 🇺🇸 | — | Pittsfield, MA | — | 12d | [apply](https://careers-gdms.icims.com/jobs/75748/information-assurance-engineer---intern-conversion/job?in_iframe=1) |
+| General Dynamics Mission Systems | Information Assurance Engineer - Intern Conversion 🇺🇸 | — | Pittsfield, MA | — | 13d | [apply](https://careers-gdms.icims.com/jobs/75748/information-assurance-engineer---intern-conversion/job?in_iframe=1) |
 | MITRE | Trustworthy AI Intern | — | McLean, VA | — | 13d | [apply](https://careers.mitre.org/us/en/job/R117833/Trustworthy-AI-Intern) |
 | Microsoft | Data Center Technicians INTERN | — | Dulles, VA +2 | — | 13d | [apply](https://apply.careers.microsoft.com/careers/job/1970393557040904) |
-| Textron | 2027 Intern - Industrial Software Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 13d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545483) |
+| Lycoming Engines | 2027 Intern - Industrial Software Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 13d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1545483) |
 | Rockwell Collins Simulation & Training Solutions | 2027 Intern - Industrial Software Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 13d | [apply](https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1545483) |
 | General Dynamics | Software Engineer Intern | — | Pittsburgh, PA | — | 13d | [apply](https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job?in_iframe=1) |
 | Four Hands | Quality Engineer Intern | — | Austin, TX | — | 13d | [apply](https://job-boards.greenhouse.io/fourhands/jobs/4458313009) |
 | Ditch Witch | Cloud Software Development Intern The Toro Company | — | Frederick, CO | — | 13d | [apply](https://jobs.thetorocompany.com/job/frederick/cloud-software-development-intern-the-toro-company/40062/102169808400) |
-| Palantir Technologies | Software Engineer, Internship - Query Engines | — | New York, NY | — | 13d | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
+| Palantir Technologies | Software Engineer, Internship - Query Engines | — | New York, NY | — | 14d | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
 | Wellmark Blue Cross and Blue Shield | Software Engineer Internship – Technology Health Plan | — | Des Moines, IA | — | 14d | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218) |
 | State Affairs | Software Engineer Intern (Summer 2027) | Summer 2027 | Washington, DC | — | 14d | [apply](https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009) |
 | Robert Bosch Semiconductor | AI Research Intern: Wireless Foundation Models | — | Pittsburgh, PA | — | 14d | [apply](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) |
@@ -326,7 +326,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | L3 Harris | Intern Information Security Systems Engineer Salt Lake City Ut | — | Salt Lake City, UT | — | 23d | [apply](https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480) |
 | 7-Eleven | Ai Engineer Intern | — | Irving, TX | — | 23d | [apply](https://careers.7-eleven.com/job/irving/ai-engineer-intern/45445/101731048416) |
 | Baltimore Aircoil | Thermal Test Engineer Co-Op | — | Jessup, MD | — | 23d | [apply](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=f6955bf3-d715-4f1d-bcb1-20db96ed5b67) |
-| L3Harris Technologies | Salt Lake City Intern%2C Information Security Systems Engineer %28Salt Lake City%2C UT%29 UT 84116 | — | Salt Lake City, UT | — | 23d | [apply](https://jobs.l3harris.com/job/Salt-Lake-City-Intern%2C-Information-Security-Systems-Engineer-%28Salt-Lake-City%2C-UT%29-UT-84116/1438896800/) |
+| L3Harris Technologies | Salt Lake City Intern%2C Information Security Systems Engineer %28Salt Lake City%2C UT%29 UT 84116 | — | Salt Lake City, UT | — | 24d | [apply](https://jobs.l3harris.com/job/Salt-Lake-City-Intern%2C-Information-Security-Systems-Engineer-%28Salt-Lake-City%2C-UT%29-UT-84116/1438896800/) |
 | Sentinel | Intern, Technical | — | Downers Grove, IL | — | 24d | [apply](https://careers-sentinel.icims.com/jobs/5135/intern%2c-technical/job?in_iframe=1) |
 | Faire | Applied AI/ML Scientist, Intern - Winter 2027 | Winter 2027 | San Francisco, CA | — | 24d | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | Viget | Software Developer Intern (2027) | 2027 | Boulder, CO | — | 24d | [apply](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2) |
@@ -356,7 +356,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Aero | 2027 Embedded Systems / Software Engineering Undergrad Intern | 2027 | Chantilly, VA | — | 25d | [apply](https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) |
 | KLA | Product Development Applications Engineer Intern (Broadband Plasma Division) | — | Milpitas, CA | — | 25d | [apply](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396-2) |
 | Magnaflux | Summer 2027 Software Engineer Intern Application Software | Summer 2027 | Eden Prairie, MN | — | 25d | [apply](https://careers.itw.com/us/en/job/JR10491/Summer-2027-Software-Engineer-Intern-Application-Software) |
-| Fifth Third Bank, N.A | Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027 | Summer 2027 | Cincinnati, OH | — | 25d | [apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) |
+| Fifth Third Bank, N.A | Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027 | Summer 2027 | Cincinnati, OH | — | 26d | [apply](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588) |
 | Leidos | Technical Intern | — | Remote | — | 26d | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193992) |
 | Leidos | Business Systems AI Intern | — | Remote | — | 26d | [apply](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769) |
 | DELL | Cloud Software Security (CSS) Summer Internship, Undergraduate Intern | Summer | Round Rock, TX | — | 26d | [apply](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300404) |
@@ -374,9 +374,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Tuskegee Contracting | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) | Summer 2027 | Seattle, WA | — | 26d | [apply](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) |
 | Caravan Foods | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) | Summer 2027 | Redmond, WA | — | 26d | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
 | The Western and Southern Life Insurance | Software Quality Assurance Data Integration Testing Intern (Full Year 2027) | 2027 | CINCINNATI, OH | — | 26d | [apply](https://careers-westernsouthern.icims.com/jobs/25006/software-quality-assurance-data-integration-testing-intern-%28full-year-2027%29/job?in_iframe=1) |
-| Figure | Security Engineer Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 26d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4719593006) |
-| ATOMS | Machine Learning Engineer Intern | — | San Francisco, CA | — | 26d | [apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002) |
-| Figure | Firmware Engineering Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 26d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4601309006) |
+| Figure | Security Engineer Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 27d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4719593006) |
+| ATOMS | Machine Learning Engineer Intern | — | San Francisco, CA | — | 27d | [apply](https://job-boards.greenhouse.io/atoms/jobs/8869105002) |
+| Figure | Firmware Engineering Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 27d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4601309006) |
 | Waymo | 2027 Summer Intern Ms Phd Software Engineer Mountain View California United States 755a 483f 80df | Summer 2027 | Mountain View, CA | — | 27d | [apply](https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-mountain-view-california-united-states-20d2d61e-755a-483f-80df-2c1c196c2743) |
 | Global Seamless | 2027 Intern Quality Engineer Crewed Land Slidell LA | 2027 | Slidell, LA | — | 27d | [apply](https://opportunities.ledfaststart.com/global/en/job/342740/2027-Intern-Quality-Engineer-Crewed-Land-Slidell-LA) |
 | TensorWave | Data Center Build & Deployment Intern | — | Las Vegas, NV | — | 27d | [apply](https://jobs.ashbyhq.com/tensorwave/a75bda20-d28d-443c-987f-53c4478fe940) |
@@ -410,7 +410,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | RAYTHEON | Avionics Test Engineering Systems Engineer Intern Onsite | — | cedar rapids, IA | — | 29d | [apply](https://careers.rtx.com/pl/pl/job/01876518/Avionics-Test-Engineering-Systems-Engineer-Intern-Onsite) |
 | C&S Wholesale Services | IS Internship - Web Applications | — | Houston, TX | — | 30d | [apply](https://careers.cswg.com/jobs/is-internship-web-applications/698566FAA0114F1A960281BFDD43260D) |
 | Cboe Global Markets | Technical Business Analyst Intern | — | Chicago, IL | — | 30d | [apply](https://careers.cboe.com/us/en/job/R-4710/Technical-Business-Analyst-Intern) |
-| Sheetz | Associate Developer Intern | — | CLAYSBURG, PA | — | 30d | [apply](https://corporatecareers-sheetz.icims.com/jobs/80887/login) |
+| Sheetz | Associate Developer Intern | — | CLAYSBURG, PA | — | 31d | [apply](https://corporatecareers-sheetz.icims.com/jobs/80887/login) |
 | Caravan Foods | Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA) | Summer 2027 | Seattle, WA | — | 31d | [apply](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) |
 | GM Defense | 2027 Summer Intern – Software Engineer, AV/AI Platform | Summer 2027 | Sunnyvale, CA | — | 31d | [apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696) |
 | GM Defense | 2027 Summer Intern – Machine Learning Engineer, AV/AI Platform | Summer 2027 | Sunnyvale, CA | — | 31d | [apply](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) |
@@ -437,7 +437,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Southwest Airlines Pilots Association | Summer 2027 Technology Analyst Internship 🇺🇸 | Summer 2027 | Remote | — | 32d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Technology-Analyst-Internship_R-2026-73268) |
 | Southwest Airlines Pilots Association | Summer 2027 Software Engineer Internship | Summer 2027 | Remote | — | 32d | [apply](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270) |
 | Grimmway Produce Group | Business Systems Internship Summer 2027 | Summer 2027 | Bakersfield, CA | — | 32d | [apply](https://careers-grimmway.icims.com/jobs/23045/login) |
-| Arthrex | Naples 3D Application Developer Intern FL | — | Naples, FL | — | 32d | [apply](https://careers.arthrex.com/NorthAmerica/job/Naples-3D-Application-Developer-Intern-FL-34108/1373643257/) |
+| Arthrex | Naples 3D Application Developer Intern FL | — | Naples, FL | — | 33d | [apply](https://careers.arthrex.com/NorthAmerica/job/Naples-3D-Application-Developer-Intern-FL-34108/1373643257/) |
 | Amazon Lab126 | Software Development Engineer Intern, AWS Database - 2027 (US) | 2027 | Seattle, WA | — | 33d | [apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
 | Allen Control Systems | Android Developer Intern, 2027 | 2027 | Austin, TX | — | 33d | [apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) |
 | Motorola Solutions | Presales Systems Engineer - 2027 Internship | 2027 | Linthicum, MD | — | 33d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Linthicum-MD/Presales-Systems-Engineer---2027-Internship_R68801) |
@@ -480,7 +480,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Cencora | Java Web Applications & Business Services Intern | — | Conshohocken, PA | — | 34d | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Java-Web-Applications---Business-Services-Intern_R2612691) |
 | Cencora | IT Software Development Intern | — | Conshohocken, PA | — | 34d | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039) |
 | Cencora | AI Intern | — | Conshohocken, PA | — | 34d | [apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670) |
-| Cloudflare | Software Engineer Intern (2027) - Austin, TX | 2027 | Austin, TX | — | 34d | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
+| Cloudflare | Software Engineer Intern (2027) - Austin, TX | 2027 | Austin, TX | — | 35d | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
 | Susquehanna International Group | Machine Learning Research Internship - PhD: 2027 | 2027 | PA | — | 35d | [apply](https://careers-sig.icims.com/jobs/10785/machine-learning-research-internship---phd%3a-2027/job?in_iframe=1) |
 | Susquehanna International Group | Machine Learning Engineering Internship: Summer 2027 | Summer 2027 | PA | — | 35d | [apply](https://careers-sig.icims.com/jobs/11555/machine-learning-engineering-internship%3a-summer-2027/job?in_iframe=1) |
 | Renesas | Firmware Engineering Intern | — | Austin, TX | — | 35d | [apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000152265599) |
@@ -541,8 +541,8 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Radiance Technologies | Software Engineer Intern Spring/Summer 2027 | Spring 2027 | Beavercreek, OH | — | 38d | [apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102446) |
 | Geospatial Consulting Group International | Application Developer Intern (Remote) 🇺🇸 | — | Remote | — | 38d | [apply](https://job-boards.greenhouse.io/geocgi/jobs/4420076009) |
 | Snowflake | Software Engineer Intern (AI / ML) - Spring 2027 | Spring 2027 | Menlo Park, CA | $42.00/hr–$60.00/hr | 38d | [apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) |
-| Platinum Business Services | Programmer Intern | — | Laurel, MD | — | 38d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9968d2ee-42c4-4ace-9c1b-a18890727cda&jobId=9200688217404_1&lang=en_US) |
-| iRhythm | Firmware Quality Assurance Engineer Co-Op Intern Full Time January-June | — | San Francisco, CA | — | 38d | [apply](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791) |
+| Platinum Business Services | Programmer Intern | — | Laurel, MD | — | 39d | [apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9968d2ee-42c4-4ace-9c1b-a18890727cda&jobId=9200688217404_1&lang=en_US) |
+| iRhythm | Firmware Quality Assurance Engineer Co-Op Intern Full Time January-June | — | San Francisco, CA | — | 39d | [apply](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791) |
 | PathAI | Machine Learning Intern/Co-op | — | Boston, MA | — | 39d | [apply](https://www.pathai.com/careers/8843495002?gh_jid=8843495002) |
 | Arconic | Software Developer Intern | — | Davenport, IA | — | 39d | [apply](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233) |
 | iRhythm | Embedded SDET Co-Op Full Time Intern January-June 2027 | 2027 | San Francisco, CA | — | 39d | [apply](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758) |
@@ -558,7 +558,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | CRB | Control Systems Integration Intern (Summer 2027) | Summer 2027 | Kansas City, MO | — | 39d | [apply](https://jobs.smartrecruiters.com/CRB/744000151621144) |
 | Qumulo | Software Development Engineer (Seattle) - Internship 2027 | 2027 | Seattle, WA | — | 39d | [apply](https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183) |
 | Continental | 2027 Internship - Quality Assurance Engineer (Hoosier Racing Tire) | 2027 | Plymouth, IN | — | 39d | [apply](https://jobs.smartrecruiters.com/continental/744000151462449) |
-| Klaviyo | AI Engineer Intern (Summer 2027) | Summer 2027 | Boston, MA | — | 39d | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003) |
+| Klaviyo | AI Engineer Intern (Summer 2027) | Summer 2027 | Boston, MA | — | 40d | [apply](https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003) |
 | Georgia Tech Research Institute | Student Intern Software Developer Spring 2027 Asl Huntsville Alabama United States | Spring 2027 | Huntsville, AL | — | 40d | [apply](https://careers.gtri.gatech.edu/jobs/student-intern-software-developer-spring-2027-asl-huntsville-alabama-united-states) |
 | Otis Elevator | Digital Technology Project Management Office Intern | — | Remote | — | 40d | [apply](https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway/job/OTCTH-Connecticut-Home-Offices-Remote-Location-Remote-City-CT-06032-USA/Digital-Technology-Project-Management-Office-Intern_20169068) |
 | Global Seamless | GDIT Summer Internship Program Summer 2027 Software Development Internship | Summer | Bossier City, LA | — | 40d | [apply](https://opportunities.ledfaststart.com/global/en/job/RQ228931/GDIT-Summer-Internship-Program-Summer-2027-Software-Development-Internship) |
@@ -708,27 +708,26 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Bell Textron | 2027 Intern - Systems Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539800) |
 | Bell Textron | 2027 Intern - Systems Engineer (Electronic Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539838) |
 | Bell Textron | 2027 Intern - Software Enginer (Sea Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1540119) |
-| Textron | 2027 Intern - Software Engineer (Howe & Howe) - Waterboro, ME | 2027 | Waterboro, ME | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539630) |
+| Lycoming Engines | 2027 Intern - Software Engineer (Howe & Howe) - Waterboro, ME | 2027 | Waterboro, ME | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539630) |
 | Bell Textron | 2027 Intern - Software Engineer (Electronic Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539842) |
-| Textron | 2027 Intern - Software Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1540113) |
+| Lycoming Engines | 2027 Intern - Software Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1540113) |
 | Lycoming Engines | 2027 Intern - Quality Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539852) |
 | Bell Textron | 2027 Intern - Quality Engineer (Electronic Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539776) |
-| Textron | 2027 Intern - Quality Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539909) |
+| Lycoming Engines | 2027 Intern - Quality Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539909) |
 | Textron | 2027 Intern - Materials Quality Engineer (Weapons) - Wilmington, MA | 2027 | Wilmington, MA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539632) |
-| Textron | 2027 Intern - Integration Test Engineer (Marine) - New Orleans, LA | 2027 | New Orleans, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539833) |
+| Lycoming Engines | 2027 Intern - Integration Test Engineer (Marine) - New Orleans, LA | 2027 | New Orleans, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539833) |
 | Bell Textron | 2027 Intern - Firmware Engineer (Weapons) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539751) |
-| Textron | 2027 Co-Op - Systems Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539723) |
-| Textron | 2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539792) |
+| Lycoming Engines | 2027 Co-Op - Systems Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539723) |
+| Lycoming Engines | 2027 Co-Op - Software Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539792) |
 | Praxis Engineering | Summer 2027 Software Development Internship | Summer 2027 | Falls Church, VA | — | 48d | [apply](https://www.gdit.com/careers/job/d3e7f5b7c/summer-2027-software-development-internship/) |
 | Lowe | Software Engineer Undergrad Internship Summer | Summer | Charlotte, NC | — | 48d | [apply](https://talent.lowes.com/us/en/job/JR-02623576/Software-Engineer-Undergrad-Internship-Summer-2027) |
 | One Kings Lane | Software Engineer - Legacy Applications & Modernization - Intern/Part Time | — | Houston, TX | — | 48d | [apply](https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813) |
 | LoopNet | Security Engineer Intern Richmond Va Richmond Virginia United States Of America | — | Richmond, VA | — | 48d | [apply](https://careers.costargroup.com/careers/job/446720929720-security-engineer-intern-richmond-va-richmond-virginia-united-states-of-america?domain=costar.com) |
 | LoopNet | Security Engineer Intern Arlington Va Arlington Virginia United States Of America | — | Arlington, VA | — | 48d | [apply](https://careers.costargroup.com/careers/job/446720929717-security-engineer-intern-arlington-va-arlington-virginia-united-states-of-america?domain=costar.com) |
-| Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE) | Summer 2027 | Mount Laurel, NJ | — | 49d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
-| Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Quality Engineer | Summer 2027 | Mount Laurel, NJ | — | 49d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798) |
+| Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE) | Summer 2027 | Mount Laurel, NJ | — | 50d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1) |
+| Dominion Bank | 2027 Summer Internship Program - Global Technology & Solutions - Quality Engineer | Summer 2027 | Mount Laurel, NJ | — | 50d | [apply](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Quality-Engineer_R_1510798) |
 | Peak Energy | Test Engineer Intern, ESS (Winter/Spring - Jan 2027 Start) | Winter | Burlingame, CA | — | 50d | [apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5178781007&gh_jid=5178781007) |
 | Peak Energy | Systems Integration and Test Engineer Intern (Winter/Spring - Jan 2027 Start) | Winter | Burlingame, CA | — | 50d | [apply](https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007) |
-| Stryker | Summer 2027 Internship Quality Assurance Engineer Washington | Summer 2027 | Redmond, WA | — | 50d | [apply](https://careers.stryker.com/summer-2027-internship-quality-assurance-engineer-washington/job/59BD5B594A177F6595D4BD5A1B66F282) |
 | Cretex Medical Component and Device Technologies | Quality Engineer Intern - Summer 2027 - Quality Tech Services | Summer 2027 | Bloomington, MN | — | 50d | [apply](https://qts-cretex.icims.com/jobs/6523/quality-engineer-intern---summer-2027---quality-tech-services/job?hub=15&amp;in_iframe=1) |
 | Cretex Medical Component and Device Technologies | Quality Engineer Intern - Summer 2027 | Summer 2027 | Dassel, MN | — | 50d | [apply](https://cretexmedicalcdt-cretex.icims.com/jobs/6491/quality-engineer-intern---summer-2027/job?hub=15&amp;in_iframe=1) |
 | Clarity Innovations | Junior Software Engineer Internship | — | Herndon, VA | — | 50d | [apply](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) |

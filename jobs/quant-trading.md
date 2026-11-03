@@ -1,6 +1,6 @@
 # 📈 Quant & Trading
 
-**159 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**160 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (2 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -19,9 +19,9 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Meta Platforms | Research Scientist Intern, MSL - Agentic Post-Training (PhD) | — | Menlo Park, CA | — | 2d | [apply](https://www.metacareers.com/jobs/1155292783739299/) |
 | Faith Technologies | Real Estate Project Analyst Intern | — | Menasha, WI | — | 2d | [apply](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Real-Estate-Project-Analyst-Intern_R12731-1) |
 | Sierra Nevada | Program Financial Analyst Intern (Summer 2027) | Summer 2027 | Lone Tree, CO | — | 2d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Program-Financial-Analyst-Intern--Summer-2027-_R0031190) |
-| Marsh McLennan | 2027 Summer Internship Program Sales Operations | Summer 2027 | Spokane, WA | — | 2d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371102EXTERNALENGLOBAL/2027-Summer-Internship-Program-Sales-Operations) |
-| Marsh McLennan | 2027 Summer Internship Program Cyber Risk Management | Summer 2027 | Boise, ID | — | 2d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371099EXTERNALENGLOBAL/2027-Summer-Internship-Program-Cyber-Risk-Management) |
-| Marsh McLennan | 2027 Summer Internship Program Crop Risk Management | Summer 2027 | Spokane, WA +1 | — | 2d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371097EXTERNALENGLOBAL/2027-Summer-Internship-Program-Crop-Risk-Management) |
+| Marsh McLennan | 2027 Summer Internship Program Sales Operations | Summer 2027 | Spokane, WA | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371102EXTERNALENGLOBAL/2027-Summer-Internship-Program-Sales-Operations) |
+| Marsh McLennan | 2027 Summer Internship Program Cyber Risk Management | Summer 2027 | Boise, ID | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371099EXTERNALENGLOBAL/2027-Summer-Internship-Program-Cyber-Risk-Management) |
+| Marsh McLennan | 2027 Summer Internship Program Crop Risk Management | Summer 2027 | Spokane, WA +1 | — | 3d | [apply](https://careers.marsh.com/global/en/job/MAMCGLOBALR371097EXTERNALENGLOBAL/2027-Summer-Internship-Program-Crop-Risk-Management) |
 | Waymo | 2027 Summer Intern Phd Research Scientist Intern Mountain View California United States | Summer 2027 | Mountain View, CA | — | 3d | [apply](https://careers.withwaymo.com/jobs/2027-summer-intern-phd-research-scientist-intern-mountain-view-california-united-states) |
 | USAA | Bank Credit Risk Analyst Intern | — | San Antonio, TX | — | 3d | [apply](https://www.usaajobs.com/job/san-antonio/bank-credit-risk-analyst-intern/1207/102331284224) |
 | Meta Platforms | Research Scientist Intern, Integrity (Trust and Safety) AI (PhD) | — | Bellevue, WA | — | 4d | [apply](https://www.metacareers.com/jobs/1105933535765181/) |
@@ -110,6 +110,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Wellmark Blue Cross and Blue Shield | Financial Planning & Value Analyst Internship | — | Des Moines, IA | — | 42d | [apply](https://jobs.smartrecruiters.com/WellmarkInc/744000149332199) |
 | URBN | URBN Network Operations Support Intern | — | Philadelphia, PA | — | 43d | [apply](https://homeoffice-na-urbn.icims.com/jobs/30535/urbn-network-operations-support-intern/job?in_iframe=1) |
 | Relay | Financial Analyst Intern (Summer 2027) | Summer 2027 | Raleigh, NC | — | 43d | [apply](https://job-boards.greenhouse.io/relaypro/jobs/8188310) |
+| HNTB | Intern - AI Business Process Developer (Summer 2027) | Summer 2027 | Austin, TX | — | 43d | [apply](https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1) |
 | AQR Capital Management | 2027 Risk Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) |
 | AQR Capital Management | 2027 Research Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
 | AQR Capital Management | 2027 Quantitative Prediction Markets Research Summer Analyst | 2027 | Greenwich, CT | — | 44d | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |

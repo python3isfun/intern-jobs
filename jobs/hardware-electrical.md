@@ -1,6 +1,6 @@
 # 🔌 Hardware & Electrical (ECE)
 
-**1,192 roles** · updated `2026-11-03 00:13 UTC` · [← all categories](../README.md)
+**1,191 roles** · updated `2026-11-03 00:52 UTC` · [← all categories](../README.md)
 
 Newest first. A role posted in several cities is listed once, with `+N` for the others (128 extra postings folded in); every one is in [`listings.json`](../data/listings.json). At most 8 per employer here — the full set is in the JSON.
 
@@ -15,11 +15,11 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | WSP | Electrical Engineering Intern - Summer 2027 | Summer 2027 | San Diego, CA +5 | — | today | [apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98684) |
 | Schneider Electric | Spring 2027 Mechanical Engineer Co-Op | Spring 2027 | Cedar Rapids, IA | — | today | [apply](https://careers-se.icims.com/jobs/140298/login) |
 | Mayo Clinic | Graduate Engineering Intern - Electronics | — | Rochester, MN | — | today | [apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394029) |
-| Citizens Energy Group | Water Production Controls Engineer Intern | — | Indianapolis, IN | — | 1d | [apply](https://careers-citizensenergygroup.icims.com/jobs/3464/water-production-controls-engineer-intern/job?in_iframe=1) |
-| U.S. Engineering | Manufacturing Engineer Internship | — | Berthoud, CO | $19.00/hr–$23.00/hr | 1d | [apply](https://usengineering.applytojob.com/apply/DAqOGKrAGM/Manufacturing-Engineer-Internship) |
-| Savannah River Mission Completion | 2027 Summer Intern-Mechanical Engineering (DWFP Maintenance) | Summer 2027 | Aiken, SC | $20.00/hr | 1d | [apply](https://careers-lse-srmc.icims.com/jobs/2270/2027-summer-intern-mechanical-engineering-%28dwfp-maintenance%29/job?hub=10&amp;in_iframe=1) |
-| Savannah River Mission Completion | 2027 Summer Intern-Electrical Engineering | Summer 2027 | Aiken, SC | $20.00/hr | 1d | [apply](https://careers-lse-srmc.icims.com/jobs/2268/2027-summer-intern-electrical-engineering/job?hub=10&amp;in_iframe=1) |
-| Savannah River Mission Completion | 2027 Summer Intern- Chemical or Electrical Engineering (OT Systems) | Summer 2027 | Aiken, SC | $20.00/hr | 1d | [apply](https://careers-lse-srmc.icims.com/jobs/2262/2027-summer-intern--chemical-or-electrical-engineering-%28ot-systems%29/job?hub=10&amp;in_iframe=1) |
+| Citizens Energy Group | Water Production Controls Engineer Intern | — | Indianapolis, IN | — | 2d | [apply](https://careers-citizensenergygroup.icims.com/jobs/3464/water-production-controls-engineer-intern/job?in_iframe=1) |
+| U.S. Engineering | Manufacturing Engineer Internship | — | Berthoud, CO | $19.00/hr–$23.00/hr | 2d | [apply](https://usengineering.applytojob.com/apply/DAqOGKrAGM/Manufacturing-Engineer-Internship) |
+| Savannah River Mission Completion | 2027 Summer Intern-Mechanical Engineering (DWFP Maintenance) | Summer 2027 | Aiken, SC | $20.00/hr | 2d | [apply](https://careers-lse-srmc.icims.com/jobs/2270/2027-summer-intern-mechanical-engineering-%28dwfp-maintenance%29/job?hub=10&amp;in_iframe=1) |
+| Savannah River Mission Completion | 2027 Summer Intern-Electrical Engineering | Summer 2027 | Aiken, SC | $20.00/hr | 2d | [apply](https://careers-lse-srmc.icims.com/jobs/2268/2027-summer-intern-electrical-engineering/job?hub=10&amp;in_iframe=1) |
+| Savannah River Mission Completion | 2027 Summer Intern- Chemical or Electrical Engineering (OT Systems) | Summer 2027 | Aiken, SC | $20.00/hr | 2d | [apply](https://careers-lse-srmc.icims.com/jobs/2262/2027-summer-intern--chemical-or-electrical-engineering-%28ot-systems%29/job?hub=10&amp;in_iframe=1) |
 | Hut 8 | Mechanical Engineering Intern, Data Center Infrastructure | — | Miami, FL | — | 2d | [apply](https://job-boards.greenhouse.io/hut8/jobs/5467189008) |
 | Hut 8 | Electrical Engineering Intern, Data Center Infrastructure | — | Miami, FL | — | 2d | [apply](https://job-boards.greenhouse.io/hut8/jobs/5467197008) |
 | Schneider Electric | Summer 2027 Mechanical Engineering Intern | Summer 2027 | Franklin, TN | — | 2d | [apply](https://careers-se.icims.com/jobs/137746/login) |
@@ -54,12 +54,12 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Astera Institute | Robotics Systems Intern | — | Emerybille, CA | $40.00/hr | 3d | [apply](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8) |
 | Enercon Services | Intern- Asset Integrity & Corrosion Control Engineer – Energy Group | — | The Woodlands, TX | — | 3d | [apply](https://collegecareers-enercon.icims.com/jobs/4895/login) |
 | Diversified Automation | Controls Engineering Co-Op | — | Louisville, KY | — | 3d | [apply](https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d) |
-| Rendezvous Robotics | Mechanical Engineering Intern (Summer 2027) | Summer 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
-| Rendezvous Robotics | Mechanical Engineering Intern (Spring 2027) | Spring 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329123009) |
-| ZOLL Medical | Mechanical Engineering Co-op | — | Remote | — | 3d | [apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Mechanical-Engineering-Co-op_R20707) |
-| Astronics | Mechanical Engineer Intern - Summer 2027 | Summer 2027 | Kirkland, WA | — | 3d | [apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009) |
-| Rendezvous Robotics | Manufacturing and Test Engineering Intern (Summer 2027) | Summer 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009) |
-| Rendezvous Robotics | Manufacturing and Test Engineering Intern (Spring 2027) | Spring 2027 | Golden, CO | — | 3d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332082009) |
+| Rendezvous Robotics | Mechanical Engineering Intern (Summer 2027) | Summer 2027 | Golden, CO | — | 4d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
+| Rendezvous Robotics | Mechanical Engineering Intern (Spring 2027) | Spring 2027 | Golden, CO | — | 4d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329123009) |
+| ZOLL Medical | Mechanical Engineering Co-op | — | Remote | — | 4d | [apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Mechanical-Engineering-Co-op_R20707) |
+| Astronics | Mechanical Engineer Intern - Summer 2027 | Summer 2027 | Kirkland, WA | — | 4d | [apply](https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009) |
+| Rendezvous Robotics | Manufacturing and Test Engineering Intern (Summer 2027) | Summer 2027 | Golden, CO | — | 4d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009) |
+| Rendezvous Robotics | Manufacturing and Test Engineering Intern (Spring 2027) | Spring 2027 | Golden, CO | — | 4d | [apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332082009) |
 | Sotreq Agro - Valtra | Validation Engineering Co-op (May-December) | — | Hesston, KS | — | 4d | [apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-%28May-December%29-KS-67062/1445202600/) |
 | GlobalFoundries | Digital Design Backend Engineering Intern, 3D and AI Flows | — | Santa Clara, CA | — | 4d | [apply](https://globalfoundries.eightfold.ai/careers/job/563980770506107) |
 | Hargrove Controls & Automation | Controls + Automation Engineering Co-Op | — | Mobile, AL +1 | — | 4d | [apply](https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/Mobile-AL/Controls---Automation-Engineering-Co-Op_2026-001273) |
@@ -195,7 +195,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Lonestar West | Electrical Engineer Intern - Summer 2027 | Summer 2027 | El Dorado, AR +1 | — | 10d | [apply](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CLH-US/job/167556) |
 | Thornton Tomasetti | Mechanical Engineer Intern | — | Los Angeles, CA +1 | — | 10d | [apply](https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7454EXTERNALENUS/Mechanical-Engineer-Intern) |
 | David Yurman | Product Development Intern | — | New York, NY | — | 10d | [apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Product-Development-Intern_R-101161) |
-| Amazon Lab126 | System Development Engineer Intern/Co-op, ROBOTICS - 2027 | 2027 | North Reading, MA | — | 10d | [apply](https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027) |
+| Amazon Lab126 | System Development Engineer Intern/Co-op, ROBOTICS - 2027 | 2027 | North Reading, MA | — | 11d | [apply](https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027) |
 | Motorola Solutions | Mechanical Engineering Intern - Summer 2027 | Summer 2027 | Schaumburg, IL +1 | — | 11d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727) |
 | Meta Platforms | Mechanical Engineering Intern | — | Menlo Park, CA | — | 11d | [apply](https://www.metacareers.com/jobs/1600772061108369/) |
 | LOCKHEED MARTIN | Mechanical Design Intern | — | Grand Prairie, TX | — | 11d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477505085) |
@@ -262,7 +262,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Meta Platforms | Softgoods Product Design Engineering Intern | — | Sunnyvale, CA | — | 13d | [apply](https://www.metacareers.com/jobs/1111723361506997/) |
 | Four Hands | Key Account Product Development Intern | — | Austin, TX | — | 13d | [apply](https://job-boards.greenhouse.io/fourhands/jobs/4458276009) |
 | Sonoco | Electrical Engineering Co-Op | — | Hartsville, SC | — | 13d | [apply](https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartsville-SC-USA/Electrical-Engineering-Co-Op-_JR-161079) |
-| Phase Matrix | Mechanical Engineer Co-op July-December | — | Mansfield, MA | — | 13d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073) |
+| Phase Matrix | Mechanical Engineer Co-op July-December | — | Mansfield, MA | — | 14d | [apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073) |
 | KHAITE | Technical Design, Product Development, RTW Internship, Spring 2027 | Spring 2027 | New York, NY | — | 14d | [apply](https://job-boards.greenhouse.io/khaite/jobs/5457636008) |
 | Sierra Nevada | RF Engineer Intern | — | Lone Tree, CO | — | 14d | [apply](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/RF-Engineer-Intern_R0031110) |
 | KHAITE | Product Development, RTW Intern, Spring 2027 | Spring 2027 | New York, NY | — | 14d | [apply](https://job-boards.greenhouse.io/khaite/jobs/5457633008) |
@@ -429,7 +429,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Bose | Electrical Engineering Co-Op | — | Framingham, MA | — | 24d | [apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Electrical-Engineering-Co-Op_R29275) |
 | Space Dynamics Laboratory | Computer Vision Engineer Intern | — | North Logan, UT | — | 24d | [apply](https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern) |
 | EHSCareers | Manufacturing Test Engineering Intern, Field Requirements & Feedback | — | Sunnyvale, CA | — | 24d | [apply](https://www.metacareers.com/jobs/940553205402689/) |
-| IKM Building Solutions | Mechanical Project Engineer Intern | — | Tempe, AZ | — | 24d | [apply](https://careers-emcorgroup.icims.com/jobs/53152/mechanical-project-engineer-intern/job?in_iframe=1) |
+| Newcomb and | Mechanical Project Engineer Intern | — | Tempe, AZ | — | 24d | [apply](https://careers-emcorgroup.icims.com/jobs/53152/mechanical-project-engineer-intern/job?in_iframe=1) |
 | Duro-Last | Paulding Electrical Engineer Intern %28Summer 2027%29 OH 45879 | 2027 | Paulding, OH | — | 24d | [apply](https://careers.amrize.com/amrize/job/Paulding-Electrical-Engineer-Intern-%28Summer-2027%29-OH-45879/1432714500/) |
 | Westinghouse Electric | Hopkins Summer Intern LEU%2B Mechanical Engineering SC 29061 | Summer | Hopkins, SC | — | 24d | [apply](https://careers.westinghousenuclear.com/job/Hopkins-Summer-Intern-LEU%2B-Mechanical-Engineering-SC-29061/1438637100/) |
 | Continental Fire Sprinkler | Westlake Substation Engineer Intern Kiewit Power Engineering %28Summer 2027%29 TX | 2027 | Westlake, TX | — | 24d | [apply](https://kiewitcareers.kiewit.com/job/Westlake-Substation-Engineer-Intern-Kiewit-Power-Engineering-%28Summer-2027%29-TX/1438538200/) |
@@ -491,10 +491,10 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Duro-Last | Midlothian Mechanical Engineer Intern %28Summer 2027%29 TX 76065 | 2027 | Midlothian, TX | — | 26d | [apply](https://careers.amrize.com/amrize/job/Midlothian-Mechanical-Engineer-Intern-%28Summer-2027%29-TX-76065/1432683500/) |
 | Duro-Last | Midlothian Electrical Engineer Intern %28Summer 2027%29 TX 76065 | 2027 | Midlothian, TX | — | 26d | [apply](https://careers.amrize.com/amrize/job/Midlothian-Electrical-Engineer-Intern-%28Summer-2027%29-TX-76065/1432684300/) |
 | Duro-Last | Hagerstown Electrical Engineer Intern %28Summer 2027%29 MD 21742 | 2027 | Hagerstown, MD | — | 26d | [apply](https://careers.amrize.com/amrize/job/Hagerstown-Electrical-Engineer-Intern-%28Summer-2027%29-MD-21742/1437275900/) |
-| Figure | Validation Engineering Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 26d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
-| Figure | Mechanical Engineer Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 26d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
-| Harvest Midstream | I-2712 - SCADA Systems Intern | — | Houston, TX | — | 26d | [apply](https://hec.wd5.myworkdayjobs.com/Harvest_Midstream/job/Houston-TX/I-2712---SCADA-Systems-Intern_R006452-1) |
-| ATOMS | Electrical Engineering Intern | — | San Francisco, CA | — | 26d | [apply](https://job-boards.greenhouse.io/atoms/jobs/8869094002) |
+| Figure | Validation Engineering Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 27d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
+| Figure | Mechanical Engineer Intern [Winter 2027] | Winter 2027 | San Jose, CA | — | 27d | [apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
+| Harvest Midstream | I-2712 - SCADA Systems Intern | — | Houston, TX | — | 27d | [apply](https://hec.wd5.myworkdayjobs.com/Harvest_Midstream/job/Houston-TX/I-2712---SCADA-Systems-Intern_R006452-1) |
+| ATOMS | Electrical Engineering Intern | — | San Francisco, CA | — | 27d | [apply](https://job-boards.greenhouse.io/atoms/jobs/8869094002) |
 | Duro-Last | Electrical Engineer Intern (Summer 2027) | Summer 2027 | Whitehall, PA | — | 27d | [apply](https://careers.amrize.com/Amrize/job/Whitehall-Electrical-Engineer-Intern-%28Summer-2027%29-PA-18052/1437374000/) |
 | Cook Medical | Intern, Applied AI &amp; Full Stack Development | — | Bloomington, IN | — | 27d | [apply](https://americas-cookmedical.icims.com/jobs/19550/intern%2c-applied-ai-%26-full-stack-development/job?in_iframe=1) |
 | Purafil | Mechanical Engineering Intern | — | Buffalo, NY | — | 27d | [apply](https://careers-filtrationgroupcorp.icims.com/jobs/7576/mechanical-engineering-intern/job?in_iframe=1) |
@@ -524,7 +524,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | JABIL | Industrial Engineer Intern | — | San Jose, CA | — | 27d | [apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247) |
 | Rheem Manufacturing | Packaging Engineer Co-Op | — | Montgomery, AL | — | 27d | [apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4444) |
 | Schweitzer Engineering Laboratories | Electrical Engineering Intern | — | Plymouth, MI +4 | — | 27d | [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Michigan---Plymouth/Electrical-Engineering-Intern_2026-23755) |
-| Arc | Electrical Engineering Intern - Powertrain | — | Torrance, CA | — | 27d | [apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008) |
+| Arc | Electrical Engineering Intern - Powertrain | — | Torrance, CA | — | 28d | [apply](https://job-boards.greenhouse.io/arcboatcompany/jobs/5443971008) |
 | Entegris | Mechanical Engineer Co-Op | — | Round Rock, TX | — | 28d | [apply](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Round-Rock-TX/Mechanical-Engineer-Co-Op_REQ-14675) |
 | Gentherm | Product Development & Application Engineer Intern | — | Racine, WI | — | 28d | [apply](https://careers.gentherm.com/job/Racine-Product-Development-&-Application-Engineer-Intern-WI-53403/606753717/) |
 | Rocket Lab | RF Engineering Intern Summer 2027 | Summer 2027 | Long Beach, CA | — | 28d | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8013277003) |
@@ -651,7 +651,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Varian, A Siemens Healthineers | Electrical Engineering Co-op - Knoxville, TN | — | Knoxville, TN | — | 35d | [apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Electrical-Engineering-Co-op---Knoxville--TN_R-30765) |
 | Varian, A Siemens Healthineers | Electrical Engineering Co-op - Hoffman Estates, IL | — | Hoffman Estates, IL | — | 35d | [apply](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Electrical-Engineering-Co-op---Hoffman-Estates--IL_R-30734) |
 | General Dynamics | COLUMBIA Electrical Systems - 2027 Engineering Summer Internship | 2027 | Groton, CT | — | 35d | [apply](https://careers-gdeb.icims.com/jobs/20738/columbia-electrical-systems---2027-engineering-summer-internship/job?in_iframe=1) |
-| Standard Iron | Manufacturing Engineer Intern | — | Hartford, WI | — | 35d | [apply](https://stdiron.applytojob.com/apply/io4bYq1aCt/Manufacturing-Engineer-Intern) |
+| Standard Iron | Manufacturing Engineer Intern | — | Hartford, WI | — | 36d | [apply](https://stdiron.applytojob.com/apply/io4bYq1aCt/Manufacturing-Engineer-Intern) |
 | Keenfinity | Product Development Co-op | — | Fairport, NY | — | 36d | [apply](https://jobs.smartrecruiters.com/Keenfinity/744000151396749) |
 | Hays Electrical Services | Intern - Controls &amp; Low-Voltage Systems | — | Houston, TX | — | 36d | [apply](https://hayselectricalservices.applytojob.com/apply/B0k3leAUBd/Intern-Controls-LowVoltage-Systems) |
 | Keenfinity | Electrical Test Engineering Co-Op | — | Fairport, NY | — | 36d | [apply](https://jobs.smartrecruiters.com/Keenfinity/744000151397415) |
@@ -730,7 +730,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Continental | 2027 Internship – Tire Engineering & Product Development (Hoosier Racing Tire) | 2027 | Plymouth, IN | — | 39d | [apply](https://jobs.smartrecruiters.com/continental/744000151462349) |
 | Continental | 2027 Internship - Manufacturing Engineer (Hoosier Racing Tire) | 2027 | Plymouth, IN | — | 39d | [apply](https://jobs.smartrecruiters.com/continental/744000151462939) |
 | Schweitzer Engineering Laboratories | Electrical Engineering Specialist Intern | — | Houston, TX | — | 39d | [apply](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Electrical-Engineering-Specialist-Intern_2026-23259) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Internship – Hypersonic and Reentry System Development and Prototyping | 2027 | Laurel, MD | — | 39d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60184/login) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Internship – Hypersonic and Reentry System Development and Prototyping | 2027 | Laurel, MD | — | 40d | [apply](https://studentcareers-jhuapl.icims.com/jobs/60184/login) |
 | Lennox | Mechanical Engineer Summer 2027 Intern | Summer 2027 | Marshalltown, IA | — | 40d | [apply](https://uscareers-lennox.icims.com/jobs/54558/mechanical-engineer-summer-2027-intern/job?in_iframe=1) |
 | Marvell Technology | AIOps Forward Deployment Engineer Intern, BS - Summer 2027 | Summer 2027 | Santa Clara, CA | — | 40d | [apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440) |
 | ZOLL Medical | Sustaining Mechanical Engineer Intern | — | Remote | — | 40d | [apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313) |
@@ -940,18 +940,15 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Mccormick Industrial Abatement Services | HUNT VALLEY Product Development%2C Intern MD 21031 | — | HUNT VALLEY, MD | — | 46d | [apply](https://careers.mccormick.com/job/HUNT-VALLEY-Product-Development%2C-Intern-MD-21031/1430750300/) |
 | Bowman Consulting | Mechanical Design Intern - Summer 2027 | Summer 2027 | Towson, MD | — | 47d | [apply](https://careers-bowman.icims.com/jobs/12716/login) |
 | Bowman Consulting | Electrical Design Intern - Summer 2027 | Summer 2027 | Towson, MD | — | 47d | [apply](https://careers-bowman.icims.com/jobs/12715/login) |
-| Textron | 2027 Intern - Mechanical Engineering (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539815) |
+| Lycoming Engines | 2027 Intern - Mechanical Engineering (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539815) |
 | Lycoming Engines | 2027 Intern - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1540155) |
 | Lycoming Engines | 2027 Intern - Mechanical Engineer (Electronic Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539778) |
-| Textron | 2027 Intern - Manufacturing Engineer (Marine) - New Orleans, LA | 2027 | New Orleans, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539768) |
-| Textron | 2027 Intern - Manufacturing Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539867) |
+| Lycoming Engines | 2027 Intern - Manufacturing Engineer (Marine) - New Orleans, LA | 2027 | New Orleans, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539768) |
+| Lycoming Engines | 2027 Intern - Manufacturing Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539867) |
 | Lycoming Engines | 2027 Intern - Manufacturing Engineer (Electronic Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539795) |
-| Textron | 2027 Intern - Manufacturing Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539796) |
+| Lycoming Engines | 2027 Intern - Manufacturing Engineer (Crewed Land) - Slidell, LA | 2027 | Slidell, LA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539796) |
 | Bell Textron | 2027 Intern - Industrial Engineer (Lycoming) - Williamsport, PA | 2027 | Williamsport, PA | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539813) |
-| Textron | 2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME | 2027 | Waterboro, ME | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539655) |
-| Textron | 2027 Intern - Autonomy Engineer (Air Systems) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1540117) |
-| Textron | 2027 Co-Op - Mechanical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539716) |
-| Textron | 2027 Co-Op - Electrical Engineer (Uncrewed Land & Air) - Hunt Valley, MD | 2027 | MD | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539759) |
+| Lycoming Engines | 2027 Intern - Electrical Engineer (Howe & Howe) - Waterboro, ME | 2027 | Waterboro, ME | — | 47d | [apply](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1539655) |
 | Amrize Building Envelope | Midlothian Mechanical Engineer Intern %28Summer 2027%29 TX 76065 | 2027 | Midlothian, TX | — | 47d | [apply](https://careers.amrize.com/amrize/job/Midlothian-Mechanical-Engineer-Intern-%28Summer-2027%29-TX-76065/1432683500/) |
 | Entergy | Student Intern Electrical Engineering Summer 2027 | Summer 2027 | New Orleans, LA | — | 48d | [apply](https://jobs.entergy.com/job/Little-Rock-Student-Intern-Electrical-Engineering-Summer-2027-Arka/1430294700/) |
 | Alpine, an ITW | Mechanical Engineering Intern - Bernard - Beecher, IL | — | Beecher, IL | — | 48d | [apply](https://itw.wd5.myworkdayjobs.com/External/job/Beecher---60401/Mechanical-Engineering-Intern---Bernard---Beecher--IL_JR10109) |
@@ -971,8 +968,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | GE Aerospace | Systems Engineering Intern Electrical Engineering Computer Engineering Science Electric Power US Summer | Summer | Dayton, OH | — | 49d | [apply](https://careers.geaerospace.com/de/de/job/R5030137/Systems-Engineering-Intern-Electrical-Engineering-Computer-Engineering-Science-Electric-Power-US-Summer-2027) |
 | GE Aerospace | Systems Engineering Intern Electrical Engineering Computer Engineering Science Avionics US Summer | Summer | Grand Rapids, MI | — | 49d | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030118EXTERNALENGLOBAL/Systems-Engineering-Intern-Electrical-Engineering-Computer-Engineering-Science-Avionics-US-Summer-2027) |
 | Marvin Design Gallery by Mountain West Windows and Doors | Summer 2027 Mechanical Engineering Intern | Summer 2027 | Roanoke, VA | $21.50/hr | 50d | [apply](https://talent-marvin.icims.com/jobs/10627/summer-2027-mechanical-engineering-intern/job?hub=7&amp;in_iframe=1) |
-| Stryker | Summer 2027 Internship Mechanical Engineering Arizona | Summer 2027 | Tempe, AZ | — | 50d | [apply](https://careers.stryker.com/summer-2027-internship-mechanical-engineering-arizona/job/B408FA3BD42C1A809ACB0F542D9E25B4) |
-| Stryker | Summer 2027 Internship Electrical Engineering Florida | Summer 2027 | Weston, FL | — | 50d | [apply](https://careers.stryker.com/summer-2027-internship-electrical-engineering-florida/job/2118C51E9CF7558532E6D969C9D1A6FE) |
+| Stryker | Summer 2027 Internship Human Factors Engineering Washington | Summer 2027 | Redmond, WA | — | 50d | [apply](https://careers.stryker.com/summer-2027-internship-human-factors-engineering-washington/job/7E991B793CEA189E1B6769A0FE0DA4EC) |
 | Mondelez International | Manufacturing- Process Engineering Co-Op(For Naperville, IL Local Candidates Only) | — | Naperville, IL | — | 50d | [apply](https://mdlz.wd3.myworkdayjobs.com/External/job/Naperville-Illinois-United-States/Manufacturing--Process-Engineering-Co-Op-For-Naperville--IL-Local-Candidates-Only-_R-176632) |
 | Cretex Medical Component and Device Technologies | Manufacturing Engineer Intern - Summer 2027 - rms Company | Summer 2027 | Coon Rapids, MN | — | 50d | [apply](https://rms-cretex.icims.com/jobs/6515/manufacturing-engineer-intern---summer-2027---rms-company/job?hub=15&amp;in_iframe=1) |
 | Cretex Medical Component and Device Technologies | Manufacturing Engineer Intern - Summer 2027 | Summer 2027 | Brooklyn Park, MN | — | 50d | [apply](https://cretexmedicalcdt-cretex.icims.com/jobs/6497/manufacturing-engineer-intern---summer-2027/job?hub=15&amp;in_iframe=1) |
@@ -1008,7 +1004,7 @@ Newest first. A role posted in several cities is listed once, with `+N` for the 
 | Kodiak | Winter 2027 Intern, Electrical Engineering | Winter 2027 | Mountain View, CA | — | 52d | [apply](https://job-boards.greenhouse.io/kodiak/jobs/4382626009) |
 | Sargent Lundy | Transmission &amp; Distribution Engineer Intern - Grid (Summer 2027) | Summer 2027 | Phoenix, AZ +3 | — | 52d | [apply](https://careers-sargentlundy.icims.com/jobs/27000/transmission-%26-distribution-engineer-intern---grid-%28summer-2027%29/job?in_iframe=1) |
 | RoboForce | Robotics Electrical Engineering Intern (Fall/Winter 2026) | Fall 2026 | Milpitas, CA | — | 52d | [apply](https://job-boards.greenhouse.io/roboforce/jobs/5181214008) |
-| IKM Building Solutions | Mechanical, Project Intern | — | Richmond, VA | — | 52d | [apply](https://careers-emcorgroup.icims.com/jobs/2480/mechanical%2c-project-intern/job?in_iframe=1) |
+| Newcomb and | Mechanical, Project Intern | — | Richmond, VA | — | 52d | [apply](https://careers-emcorgroup.icims.com/jobs/2480/mechanical%2c-project-intern/job?in_iframe=1) |
 | Hermeus | Mechanical Engineering Intern - Summer/Fall 2027 | Summer 2027 | Los Angeles, CA | — | 52d | [apply](https://jobs.lever.co/hermeus/1bc5c858-1b04-4093-80a0-2ba3491afc60) |
 | Droyd | Mechanical Engineer Intern | — | San Francisco, CA | — | 52d | [apply](https://jobs.ashbyhq.com/droyd/d5a416f2-3d96-44d4-8b48-dc80dcea7f33) |
 | EMCOR Facilities Services | Mechanical Engineer Co-op - Spring 2027 | Spring 2027 | Cincinnati, OH | — | 52d | [apply](https://careers-emcorgroup.icims.com/jobs/51848/mechanical-engineer-co-op---spring-2027/job?in_iframe=1) |

@@ -1,6 +1,6 @@
 # 🧑‍🎓 Tech & Engineering Internships — auto-updated daily
 
-**4,362 live internships** (5,667 postings) · last updated `2026-11-03 22:10 UTC`
+**4,296 live internships** (5,591 postings) · last updated `2026-11-04 16:28 UTC`
 
 Internships and co-ops for students still in school, at employers hiring in the United States. Every listing links straight to the employer's own application page — no aggregator reposts, no dead links: postings that have closed are removed on the next update.
 
@@ -10,11 +10,11 @@ Internships and co-ops for students still in school, at employers hiring in the 
 
 🔎 **Matched to your major and courses** at **[newjob.dev](https://newjob.dev?utm_source=github&utm_medium=repo&utm_campaign=listings)** — the same roles, ranked for what you study, with the campus courses each one uses.
 
-📬 **5,379 of these 5,667 postings (94%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
+📬 **5,303 of these 5,591 postings (94%) are in neither [SimplifyJobs](https://github.com/SimplifyJobs/Summer2027-Internships)'s nor [vanshb03](https://github.com/vanshb03/Summer2027-Internships)'s list** — matched by apply URL. This list is crawled from employers' own career sites, so it reaches the companies the community lists have not added.
 
-## 📌 Picked out of today's 4,362
+## 📌 Picked out of today's 4,296
 
-The newest roles whose posting says what it wants. Requirements are read from the posting itself — 980 of today's roles have them.
+The newest roles whose posting says what it wants. Requirements are read from the posting itself — 955 of today's roles have them.
 
 **[Software Engineering Intern](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87)** · Astro Mechanica
 
@@ -24,13 +24,13 @@ _Asks for:_ Currently pursuing degree, Programming experience, Data structures f
 
 **[J. C. Higgins Corp. Project Engineer Internship](https://careers-emcorgroup.icims.com/jobs/54205/j.-c.-higgins-corp.-project-engineer-internship/job?in_iframe=1)** · EMCOR Services Mesa Energy
 
-Stoughton, MA · $20.00/hr–$25.00/hr · internship · bachelor's · posted 4d
+Stoughton, MA · $20.00/hr–$25.00/hr · internship · bachelor's · posted 5d
 
 _Asks for:_ Currently pursuing bachelor's or master's degree, Microsoft Office proficiency, Construction drawing comprehension, Strong organizational skills
 
 **[Robotics Systems Intern](https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8)** · Astera Institute
 
-Emerybille, CA · $40.00/hr · internship · posted 4d
+Emerybille, CA · $40.00/hr · internship · posted 5d
 
 _Asks for:_ Relevant coursework or projects, Physical system troubleshooting, Mechanical assembly, Electrical wiring
 
@@ -38,14 +38,14 @@ _Asks for:_ Relevant coursework or projects, Physical system troubleshooting, Me
 
 | Category | Open roles | New this week |
 |---|---:|---:|
-| [💻 Software Engineering](jobs/software-engineering.md) | 864 | 83 |
-| [📈 Quant & Trading](jobs/quant-trading.md) | 149 | 30 |
-| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,347 | 138 |
-| [📊 Data & Analytics](jobs/data-analytics.md) | 349 | 32 |
-| [📋 Product & Program](jobs/product-program.md) | 467 | 46 |
-| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 268 | 25 |
-| [🏗️ Civil & Environmental](jobs/civil-environmental.md) | 550 | 56 |
-| [✈️ Aerospace & Marine](jobs/aerospace-marine.md) | 368 | 34 |
+| [💻 Software Engineering](jobs/software-engineering.md) | 859 | 67 |
+| [📈 Quant & Trading](jobs/quant-trading.md) | 148 | 30 |
+| [🔌 Hardware & Electrical (ECE)](jobs/hardware-electrical.md) | 1,332 | 114 |
+| [📊 Data & Analytics](jobs/data-analytics.md) | 345 | 26 |
+| [📋 Product & Program](jobs/product-program.md) | 464 | 37 |
+| [🖥️ IT & Infrastructure](jobs/it-infrastructure.md) | 264 | 21 |
+| [🏗️ Civil & Environmental](jobs/civil-environmental.md) | 535 | 48 |
+| [✈️ Aerospace & Marine](jobs/aerospace-marine.md) | 349 | 31 |
 
 _Both columns count roles, deduplicated across cities._
 
@@ -57,22 +57,22 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 | Company | Role | Category | Term | Location | Salary | Age | Apply |
 |---|---|---|---|---|---|---|---|
-| Motorola Solutions | Software Engineer Cybersecurity Services - 2027 Summer Internship 🇺🇸 | 💻 Software Engineering | Summer 2027 | Remote | — | today | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) |
-| Pet Supplies Plus | Intern- Product Development (In Office Monday-Wednesday) | 🔌 Hardware & Electrical (ECE) | — | MI | — | today | [apply](https://careers-petsuppliesplus.icims.com/jobs/19418/intern--product-development-%28in-office-monday-wednesday%29/job?in_iframe=1) |
-| CAI | Cybersecurity Analyst Intern | 🖥️ IT & Infrastructure | — | CLIENT STATE, VA +2 | — | today | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892) |
-| Barclays | Banking Analyst Summer Internship Program 2028 Houston | 📈 Quant & Trading | Summer | Houston, TX | — | today | [apply](https://search.jobs.barclays/job/houston/banking-analyst-summer-internship-program-2028-houston/13015/102785736256) |
-| LOCKHEED MARTIN | Systems Engineering Intern | 📋 Product & Program | — | King of Prussia, PA +1 | — | today | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477077344) |
-| University Health | IT Intern | 🖥️ IT & Infrastructure | — | Remote | — | today | [apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4449625) |
-| Johnson Controls | HVAC Control Systems Engineering Intern | 📋 Product & Program | — | Milwaukee, WI | — | today | [apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523) |
-| Rocket Lab | Ground Systems Engineering Intern Summer 2027 | 📋 Product & Program | Summer 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
-| Rocket Lab | Ground Systems Engineering Intern Spring 2027 | 📋 Product & Program | Spring 2027 | Middle River, MD +1 | — | today | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
-| KLA | Software Engineering Intern | 📋 Product & Program | — | Austin, TX +2 | — | today | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
-| Divergent | Summer 2027 Production Business Intelligence Intern | 📊 Data & Analytics | Summer 2027 | Torrance, CA | — | today | [apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) |
-| The Michaels Organization | Information Technology (IT) Intern | 🖥️ IT & Infrastructure | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
-| The Michaels Organization | Development Intern | 📋 Product & Program | — | Camden, NJ | — | today | [apply](https://careers-tmo.icims.com/jobs/11227/development-intern/job?in_iframe=1) |
-| CP Skin Health Group | Data Migration and Analytics Co-Op | 📊 Data & Analytics | — | Overland Park, KS | — | today | [apply](https://jobs.colgate.com/job/Overland-Park-Data-Migration-and-Analytics-Co-Op-KS-66062/1447040100/) |
-| VHB | Civil Engineering Intern - Summer 2027 | 🏗️ Civil & Environmental | Summer 2027 | Winooski, VT +1 | — | today | [apply](https://careers-vhb.icims.com/jobs/6509/civil-engineering-intern---summer-2027/job?in_iframe=1) |
-| Zebra Technologies | 2027 Summer Internship (US) - AI | 💻 Software Engineering | Summer 2027 | LINCOLNSHIRE, IL | — | today | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) |
+| Motorola Solutions | Software Engineer Cybersecurity Services - 2027 Summer Internship 🇺🇸 | 💻 Software Engineering | Summer 2027 | Remote | — | 1d | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) |
+| Pet Supplies Plus | Intern- Product Development (In Office Monday-Wednesday) | 🔌 Hardware & Electrical (ECE) | — | MI | — | 1d | [apply](https://careers-petsuppliesplus.icims.com/jobs/19418/intern--product-development-%28in-office-monday-wednesday%29/job?in_iframe=1) |
+| CAI | Cybersecurity Analyst Intern | 🖥️ IT & Infrastructure | — | CLIENT STATE, VA +2 | — | 1d | [apply](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892) |
+| Barclays | Banking Analyst Summer Internship Program 2028 Houston | 📈 Quant & Trading | Summer | Houston, TX | — | 1d | [apply](https://search.jobs.barclays/job/houston/banking-analyst-summer-internship-program-2028-houston/13015/102785736256) |
+| LOCKHEED MARTIN | Systems Engineering Intern | 📋 Product & Program | — | King of Prussia, PA +1 | — | 1d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477077344) |
+| University Health | IT Intern | 🖥️ IT & Infrastructure | — | Remote | — | 1d | [apply](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/IT-Intern_R4449625) |
+| Johnson Controls | HVAC Control Systems Engineering Intern | 📋 Product & Program | — | Milwaukee, WI | — | 1d | [apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/HVAC-Control-Systems-Engineering-Intern_WD30282523) |
+| Rocket Lab | Ground Systems Engineering Intern Summer 2027 | 📋 Product & Program | Summer 2027 | Middle River, MD +1 | — | 1d | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
+| Rocket Lab | Ground Systems Engineering Intern Spring 2027 | 📋 Product & Program | Spring 2027 | Middle River, MD +1 | — | 1d | [apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
+| KLA | Software Engineering Intern | 📋 Product & Program | — | Austin, TX +2 | — | 1d | [apply](https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Software-Engineering-Intern_2642004-1) |
+| Divergent | Summer 2027 Production Business Intelligence Intern | 📊 Data & Analytics | Summer 2027 | Torrance, CA | — | 1d | [apply](https://job-boards.greenhouse.io/divergent/jobs/5393537008) |
+| The Michaels Organization | Information Technology (IT) Intern | 🖥️ IT & Infrastructure | — | Camden, NJ | — | 1d | [apply](https://careers-tmo.icims.com/jobs/11253/information-technology-%28it%29-intern/job?in_iframe=1) |
+| The Michaels Organization | Development Intern | 📋 Product & Program | — | Camden, NJ | — | 1d | [apply](https://careers-tmo.icims.com/jobs/11227/development-intern/job?in_iframe=1) |
+| CP Skin Health Group | Data Migration and Analytics Co-Op | 📊 Data & Analytics | — | Overland Park, KS | — | 1d | [apply](https://jobs.colgate.com/job/Overland-Park-Data-Migration-and-Analytics-Co-Op-KS-66062/1447040100/) |
+| VHB | Civil Engineering Intern - Summer 2027 | 🏗️ Civil & Environmental | Summer 2027 | Winooski, VT +1 | — | 1d | [apply](https://careers-vhb.icims.com/jobs/6509/civil-engineering-intern---summer-2027/job?in_iframe=1) |
+| Zebra Technologies | 2027 Summer Internship (US) - AI | 💻 Software Engineering | Summer 2027 | LINCOLNSHIRE, IL | — | 1d | [apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) |
 | LOCKHEED MARTIN | Systems Engineering Intern - Summer 2027 | 📋 Product & Program | Summer 2027 | Colorado Springs, CO +1 | — | 1d | [apply](https://lockheedmartin.eightfold.ai/careers/job/996477461635) |
 | Astro Mechanica | Software Engineering Intern | 📋 Product & Program | — | San Francisco, CA | $40.00/hr–$55.00/hr | 1d | [apply](https://jobs.ashbyhq.com/Astro-Mechanica/740cedb6-3c69-49c2-8662-7997799b8c87) |
 | Staples | Software Engineer Intern, Marketplace Platform | 💻 Software Engineering | — | Framingham, MA | — | 1d | [apply](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) |
@@ -105,7 +105,7 @@ At most 2 per employer, so one big hirer cannot fill the page.
 
 ## 💰 Highest stated pay
 
-_Of the 150 roles that state a figure — most employers do not._
+_Of the 136 roles that state a figure — most employers do not._
 
 **Legend:** 🛂 does **not** sponsor visas · 🇺🇸 requires US citizenship · 🌏 sponsorship available — each read from the posting's own text. No marker means neither source says anything.
 
@@ -113,14 +113,14 @@ _Of the 150 roles that state a figure — most employers do not._
 |---|---|---|---|---|---|---|---|
 | Netic | Software Engineer (Agent Platform) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 53d | [apply](https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7) |
 | Netic | Full-Stack Software Engineer (Product) - Intern - 2026-2027 | 💻 Software Engineering | 2026 | San Francisco, CA | $138,000–$160,000 | 53d | [apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |
-| Fab2 | Infrastructure Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f) |
-| Fab2 | Infrastructure Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
-| Fab2 | Fab Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
-| Fab2 | Fab Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) |
-| Fab2 | Embedded Software Engineering Intern - Winter | 💻 Software Engineering | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
-| Fab2 | Embedded Software Engineering Intern - Summer | 💻 Software Engineering | Summer | San Francisco, CA | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4) |
-| Fab2 | Automation Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) |
-| Fab2 | Automation Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 10d | [apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) |
+| Fab2 | Infrastructure Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f) |
+| Fab2 | Infrastructure Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7) |
+| Fab2 | Fab Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95) |
+| Fab2 | Fab Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0) |
+| Fab2 | Embedded Software Engineering Intern - Winter | 💻 Software Engineering | Winter | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da) |
+| Fab2 | Embedded Software Engineering Intern - Summer | 💻 Software Engineering | Summer | San Francisco, CA | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4) |
+| Fab2 | Automation Software Engineering Intern - Winter | 📋 Product & Program | Winter | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765) |
+| Fab2 | Automation Software Engineering Intern - Summer | 📋 Product & Program | Summer | Austin, TX | $114,000–$131,000 | 11d | [apply](https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475) |
 
 <details>
 <summary>📅 Browse by term</summary>
@@ -128,20 +128,20 @@ _Of the 150 roles that state a figure — most employers do not._
 | Term | Roles |
 |---|---:|
 | 2026 | 17 |
-| 2027 | 392 |
+| 2027 | 385 |
 | 2028 | 1 |
 | Fall | 3 |
 | Fall 2026 | 19 |
 | Fall 2027 | 10 |
 | Spring | 42 |
-| Spring 2027 | 207 |
+| Spring 2027 | 200 |
 | Spring 2028 | 1 |
-| Summer | 240 |
-| Summer 2027 | 1,095 |
+| Summer | 226 |
+| Summer 2027 | 1,080 |
 | Winter | 32 |
 | Winter 2026 | 2 |
-| Winter 2027 | 48 |
-| _not stated_ | 2,253 |
+| Winter 2027 | 47 |
+| _not stated_ | 2,231 |
 
 _Term is read from the posting title; `not stated` means the employer did not say. Terms already past are left out._
 
@@ -149,9 +149,9 @@ _Term is read from the posting title; `not stated` means the employer did not sa
 
 ## 📍 Top locations
 
-**CA** 618 · **TX** 330 · **NY** 244 · **PA** 225 · **MA** 206 · **IL** 174 · **FL** 150 · **MD** 146 · **VA** 145 · **OH** 141 · **WI** 135 · **MN** 134
+**CA** 613 · **TX** 327 · **NY** 243 · **PA** 224 · **MA** 195 · **IL** 168 · **FL** 150 · **VA** 145 · **MD** 145 · **WI** 131 · **WA** 131 · **OH** 130
 
-_121 remote · 0 postings have no location stated._
+_119 remote · 0 postings have no location stated._
 
 ---
 
